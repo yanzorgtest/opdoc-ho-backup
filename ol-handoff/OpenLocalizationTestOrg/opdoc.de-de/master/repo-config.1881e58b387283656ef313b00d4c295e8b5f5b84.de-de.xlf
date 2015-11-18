@@ -1,0 +1,213 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<xliff version="1.2" xmlns="urn:oasis:names:tc:xliff:document:1.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:oasis:names:tc:xliff:document:1.2 xliff-core-1.2-transitional.xsd">
+  <file datatype="xml" source-language="en-us" target-language="de-de" original="foo.file" tool-id="827033c7-f9ac-4659-ad4b-5a19f13f4e9b" product-name="foo" product-version="1.0" build-num="1">
+    <header>
+      <tool tool-id="827033c7-f9ac-4659-ad4b-5a19f13f4e9b" tool-name="MarkdownToXliff" tool-version="1.0" tool-company="Microsoft" />
+      <olfilehash xmlns="">e0486fbb9bb8c2c9a14a29d2769f04e308f7e227</olfilehash>
+    </header>
+    <body>
+      <group id="9ea515f5-1499-49fd-801d-ec61f70ba0a3">
+        <trans-unit id="36f50259-1a0d-42b6-82a9-ca3f94eacc4f" xml:space="preserve">
+          <source>Configuring the repos</source>
+          <target state="new">Configuring the repos</target>
+        </trans-unit>
+        <trans-unit id="8acf93cd-3af9-4907-9e46-f73642ef94c3" xml:space="preserve">
+          <source>Content teams need to so some configuration in their repos after creation.</source>
+          <target state="new">Content teams need to so some configuration in their repos after creation.</target>
+        </trans-unit>
+        <trans-unit id="13a1aa56-fc7c-454f-ab72-bc8520443f02" xml:space="preserve">
+          <source>1. Initial repo configuration</source>
+          <target state="new">1. Initial repo configuration</target>
+        </trans-unit>
+        <trans-unit id="1135bac8-6c46-4f9a-b984-a732e9315878" xml:space="preserve">
+          <source>The following steps assume you are just creating one docset.</source>
+          <target state="new">The following steps assume you are just creating one docset.</target>
+        </trans-unit>
+        <trans-unit id="01c7c138-0d78-47f3-be82-7f5d544deeeb" xml:space="preserve">
+          <source>At the end of the section there are some examples of repo structure if you are creating multiple docsets</source>
+          <target state="new">At the end of the section there are some examples of repo structure if you are creating multiple docsets</target>
+        </trans-unit>
+        <trans-unit id="c4a1bd26-ea89-4eb0-8aa9-de9484072acc" xml:space="preserve">
+          <source>At the root of the repo, create a <bpt id="8866a81d-5a1d-4e21-a2a1-7a4033360811">&lt;strong&gt;</bpt>.gitignore<ept id="8866a81d-5a1d-4e21-a2a1-7a4033360811">&lt;/strong&gt;</ept> file.</source>
+          <target state="new">At the root of the repo, create a <bpt id="8866a81d-5a1d-4e21-a2a1-7a4033360811">&lt;strong&gt;</bpt>.gitignore<ept id="8866a81d-5a1d-4e21-a2a1-7a4033360811">&lt;/strong&gt;</ept> file.</target>
+        </trans-unit>
+        <trans-unit id="371e0d6b-314d-424c-84a1-0c89c628ff77" xml:space="preserve">
+          <source>Edit it and add the following.</source>
+          <target state="new">Edit it and add the following.</target>
+        </trans-unit>
+        <trans-unit id="d9d57edd-9a9c-4236-b516-95627848b9f4" xml:space="preserve">
+          <source>This will make that the temporary build folders generated when running local builds don't get pushed into the repo:</source>
+          <target state="new">This will make that the temporary build folders generated when running local builds don't get pushed into the repo:</target>
+        </trans-unit>
+        <trans-unit id="82c97f67-9990-4bac-a463-ad2d86011c30" xml:space="preserve">
+          <source>Create at least one folder underneath your repo.</source>
+          <target state="new">Create at least one folder underneath your repo.</target>
+        </trans-unit>
+        <trans-unit id="23272f9c-2e19-4278-8c37-77db69876f8e" xml:space="preserve">
+          <source>That would be your docset.</source>
+          <target state="new">That would be your docset.</target>
+        </trans-unit>
+        <trans-unit id="b873e958-3930-414a-becc-2d19eba98a92" xml:space="preserve">
+          <source>Create a TOC.md inside your docset folder.</source>
+          <target state="new">Create a TOC.md inside your docset folder.</target>
+        </trans-unit>
+        <trans-unit id="cb8ae986-c62d-40ce-a44b-11cb99e4749a" xml:space="preserve">
+          <source>Create a <bpt id="1fadb12a-dc9a-435d-9e46-85af82a69e27">&lt;strong&gt;</bpt>live<ept id="1fadb12a-dc9a-435d-9e46-85af82a69e27">&lt;/strong&gt;</ept> branch.</source>
+          <target state="new">Create a <bpt id="1fadb12a-dc9a-435d-9e46-85af82a69e27">&lt;strong&gt;</bpt>live<ept id="1fadb12a-dc9a-435d-9e46-85af82a69e27">&lt;/strong&gt;</ept> branch.</target>
+        </trans-unit>
+        <trans-unit id="5d2c8f14-30e4-4c39-a490-facc0df013d7" xml:space="preserve">
+          <source>Open Publishing provision is made out of the "live" branch.</source>
+          <target state="new">Open Publishing provision is made out of the "live" branch.</target>
+        </trans-unit>
+        <trans-unit id="cc718f99-64d9-4182-a581-c15bc3d9fa4e" xml:space="preserve">
+          <source>So once you have created the repos, you need to create a <bpt id="37b55b4e-4f09-4d09-9d6d-4fcbbe7c17a9">&lt;strong&gt;</bpt>live<ept id="37b55b4e-4f09-4d09-9d6d-4fcbbe7c17a9">&lt;/strong&gt;</ept> brunch so it can be provisioned.</source>
+          <target state="new">So once you have created the repos, you need to create a <bpt id="37b55b4e-4f09-4d09-9d6d-4fcbbe7c17a9">&lt;strong&gt;</bpt>live<ept id="37b55b4e-4f09-4d09-9d6d-4fcbbe7c17a9">&lt;/strong&gt;</ept> brunch so it can be provisioned.</target>
+        </trans-unit>
+        <trans-unit id="6ff96440-f189-4609-ada8-9ccc00a7c030" xml:space="preserve">
+          <source>1.1 Examples of repo structure</source>
+          <target state="new">1.1 Examples of repo structure</target>
+        </trans-unit>
+        <trans-unit id="0e2da0c2-f385-4c73-a9b7-1bdad9d1b37b" xml:space="preserve">
+          <source>The following is a repo structure with one docset.</source>
+          <target state="new">The following is a repo structure with one docset.</target>
+        </trans-unit>
+        <trans-unit id="cbde1b77-6530-44bf-80ab-8b16231d8f5d" xml:space="preserve">
+          <source>The following is a repo structure with multiple docsets and independent TOCs.</source>
+          <target state="new">The following is a repo structure with multiple docsets and independent TOCs.</target>
+        </trans-unit>
+        <trans-unit id="b2d5b4f2-e63d-47ff-a5a6-8e5e982507f4" xml:space="preserve">
+          <source>The following is a repo structure with multiple docsets and a single TOC.</source>
+          <target state="new">The following is a repo structure with multiple docsets and a single TOC.</target>
+        </trans-unit>
+        <trans-unit id="6e3aad3f-338f-42f4-a4f8-33c1dd8f4e57" xml:space="preserve">
+          <source>2. Branches</source>
+          <target state="new">2. Branches</target>
+        </trans-unit>
+        <trans-unit id="558aa7a2-ad8b-4814-b3c8-7ed51a2802a8" xml:space="preserve">
+          <source>In open publishing, we use GIT branches to maintain different copies of the same content.</source>
+          <target state="new">In open publishing, we use GIT branches to maintain different copies of the same content.</target>
+        </trans-unit>
+        <trans-unit id="02c3b719-ef84-4d4f-a5f5-9bf9b656152b" xml:space="preserve">
+          <source>Same topic in different branches will be published to different urls of rendering sites.</source>
+          <target state="new">Same topic in different branches will be published to different urls of rendering sites.</target>
+        </trans-unit>
+        <trans-unit id="711bec2e-2d53-443f-a8d8-0221551547dd" xml:space="preserve">
+          <source>This could be used in several scenarios:</source>
+          <target state="new">This could be used in several scenarios:</target>
+        </trans-unit>
+        <trans-unit id="dbaba647-f67e-447d-835f-49d9bb4c9d76" xml:space="preserve">
+          <source>Stage/promote.</source>
+          <target state="new">Stage/promote.</target>
+        </trans-unit>
+        <trans-unit id="3a699d4b-42ce-41c8-8a11-3f29a18385c9" xml:space="preserve">
+          <source>User can use one branch as staging branch and merge it to a live branch as a promote operation.</source>
+          <target state="new">User can use one branch as staging branch and merge it to a live branch as a promote operation.</target>
+        </trans-unit>
+        <trans-unit id="4442f7ea-980d-4bd8-be9c-1fd8942fc184" xml:space="preserve">
+          <source>Private working branch.</source>
+          <target state="new">Private working branch.</target>
+        </trans-unit>
+        <trans-unit id="0923b8e6-cb2d-492c-b80d-cbdc507c5074" xml:space="preserve">
+          <source>User can create his own branch to save files that is still under writing, and merge it to common branch when it's ready.</source>
+          <target state="new">User can create his own branch to save files that is still under writing, and merge it to common branch when it's ready.</target>
+        </trans-unit>
+        <trans-unit id="ffa47900-d952-41fa-98b0-38b6fe15c4f7" xml:space="preserve">
+          <source>Files in private branch can still be validated/previewed by open publishing.</source>
+          <target state="new">Files in private branch can still be validated/previewed by open publishing.</target>
+        </trans-unit>
+        <trans-unit id="5a801df1-2e13-4ff4-97f5-aa9f22c702ba" xml:space="preserve">
+          <source>2.1 Live Branch</source>
+          <target state="new">2.1 Live Branch</target>
+        </trans-unit>
+        <trans-unit id="495f2143-7206-49d1-8a02-f1dfaefc0226" xml:space="preserve">
+          <source>Among all branches, there should be only one branch that is exposed to external users, and other staging/working branches are only used by writers for internal testing.</source>
+          <target state="new">Among all branches, there should be only one branch that is exposed to external users, and other staging/working branches are only used by writers for internal testing.</target>
+        </trans-unit>
+        <trans-unit id="7c2cae56-0460-48f1-8806-f599813a7afa" xml:space="preserve">
+          <source>This branch is called "Live" branch.</source>
+          <target state="new">This branch is called "Live" branch.</target>
+        </trans-unit>
+        <trans-unit id="5ddf0e50-d655-49a6-a8a8-7c5722e712b6" xml:space="preserve">
+          <source>Live branch can be identified by a special branch name.</source>
+          <target state="new">Live branch can be identified by a special branch name.</target>
+        </trans-unit>
+        <trans-unit id="b4673e08-e929-4532-ae8e-4b2da55ef775" xml:space="preserve">
+          <source>Content in live branch will be published to the live site.</source>
+          <target state="new">Content in live branch will be published to the live site.</target>
+        </trans-unit>
+        <trans-unit id="35feecab-1b1c-4c7c-bad0-4de5a9ba6bdf" xml:space="preserve">
+          <source>Content in other branches will still be published, but only to stage or sandbox.</source>
+          <target state="new">Content in other branches will still be published, but only to stage or sandbox.</target>
+        </trans-unit>
+        <trans-unit id="56f28254-f9c3-450c-9239-b127271f3c73" xml:space="preserve">
+          <source>3. Dogfooding new features using Branches</source>
+          <target state="new">3. Dogfooding new features using Branches</target>
+        </trans-unit>
+        <trans-unit id="1e791ce4-9a47-46f4-83ef-9034bad95915" xml:space="preserve">
+          <source>It'll be a common case that user wants to try new features (like a new markdown extension) in his working branch while keep live branch using stable features.</source>
+          <target state="new">It'll be a common case that user wants to try new features (like a new markdown extension) in his working branch while keep live branch using stable features.</target>
+        </trans-unit>
+        <trans-unit id="985e0405-2fca-4460-975e-e7d416a40b7f" xml:space="preserve">
+          <source>We're going to support this by allowing the user to specify the build toolset they want to use (in GIT repo).</source>
+          <target state="new">We're going to support this by allowing the user to specify the build toolset they want to use (in GIT repo).</target>
+        </trans-unit>
+        <trans-unit id="6331528f-ef92-482a-b76d-a6c3ad05c14d" xml:space="preserve">
+          <source>We'll release multiple versions of the build tool (specified in packages.config) and let the user choose which one they want to use.</source>
+          <target state="new">We'll release multiple versions of the build tool (specified in packages.config) and let the user choose which one they want to use.</target>
+        </trans-unit>
+        <trans-unit id="88274f75-2b34-4f17-ad5c-eb5594425db8" xml:space="preserve">
+          <source>After they test the feature in working branch, they can merge the content to live branch then live branch will also upgrade to use the new build tool.</source>
+          <target state="new">After they test the feature in working branch, they can merge the content to live branch then live branch will also upgrade to use the new build tool.</target>
+        </trans-unit>
+        <trans-unit id="cf99fdaa-b9a1-4f70-b7ea-2241348062f0" xml:space="preserve">
+          <source>4. Next steps</source>
+          <target state="new">4. Next steps</target>
+        </trans-unit>
+        <trans-unit id="a44de92b-519f-4b7f-83e2-6c4d03c83f40" xml:space="preserve">
+          <source>The next step is to <bpt id="a64f6d92-5f3c-44a8-b6c3-17b2d63ed7e2CapsExtId1">&lt;linkText&gt;</bpt>provision the repo<ept id="a64f6d92-5f3c-44a8-b6c3-17b2d63ed7e2CapsExtId1">&lt;/linkText&gt;</ept><bpt id="a64f6d92-5f3c-44a8-b6c3-17b2d63ed7e2CapsExtId2">&lt;title&gt;</bpt><ept id="a64f6d92-5f3c-44a8-b6c3-17b2d63ed7e2CapsExtId2">&lt;/title&gt;</ept>.</source>
+          <target state="new">The next step is to <bpt id="a64f6d92-5f3c-44a8-b6c3-17b2d63ed7e2CapsExtId1">&lt;linkText&gt;</bpt>provision the repo<ept id="a64f6d92-5f3c-44a8-b6c3-17b2d63ed7e2CapsExtId1">&lt;/linkText&gt;</ept><bpt id="a64f6d92-5f3c-44a8-b6c3-17b2d63ed7e2CapsExtId2">&lt;title&gt;</bpt><ept id="a64f6d92-5f3c-44a8-b6c3-17b2d63ed7e2CapsExtId2">&lt;/title&gt;</ept>.</target>
+        </trans-unit>
+        <trans-unit id="290cc436-8744-414f-860b-1f17bb3d877b" xml:space="preserve">
+          <source>VSC will do that for you.</source>
+          <target state="new">VSC will do that for you.</target>
+        </trans-unit>
+        <trans-unit id="b30b7d16-4430-4fbf-be0e-5cb4246500e1" xml:space="preserve">
+          <source>Please make sure that:</source>
+          <target state="new">Please make sure that:</target>
+        </trans-unit>
+        <trans-unit id="ffb12831-c445-434f-a439-0fea35538981" xml:space="preserve">
+          <source>Please send Xiaokai He and Sandra Aldana the following information:</source>
+          <target state="new">Please send Xiaokai He and Sandra Aldana the following information:</target>
+        </trans-unit>
+        <trans-unit id="66774217-8da8-46e7-bd1b-8e05d56a48a0" xml:space="preserve">
+          <source>Repo URLs</source>
+          <target state="new">Repo URLs</target>
+        </trans-unit>
+        <trans-unit id="6ed6c8e3-8ee8-4404-ab50-6a18ec077ffd" xml:space="preserve">
+          <source>Publishing end-point: MSDN, TechNet, VS.com, other.</source>
+          <target state="new">Publishing end-point: MSDN, TechNet, VS.com, other.</target>
+        </trans-unit>
+        <trans-unit id="53765cc8-0bdd-4c24-bd33-b2dfaf566544" xml:space="preserve">
+          <source>If other, we need the canonical URL you would like to have for your site.</source>
+          <target state="new">If other, we need the canonical URL you would like to have for your site.</target>
+        </trans-unit>
+        <trans-unit id="1bb1e4e6-b2a7-4631-8760-9cd21adb9ee2" xml:space="preserve">
+          <source>Base URL for your content.</source>
+          <target state="new">Base URL for your content.</target>
+        </trans-unit>
+        <trans-unit id="3d298505-612d-493e-bca9-07f4f9097942" xml:space="preserve">
+          <source>This can be the docset name or a different one.</source>
+          <target state="new">This can be the docset name or a different one.</target>
+        </trans-unit>
+        <trans-unit id="5805d07e-dbb9-449a-8fe7-d0800cc8cec0" xml:space="preserve">
+          <source>This will be appended to the end-point URL.</source>
+          <target state="new">This will be appended to the end-point URL.</target>
+        </trans-unit>
+        <trans-unit id="da53c5f1-ecf1-4c94-bbc0-a918aead9c69" xml:space="preserve">
+          <source>In our case, it is "openpublishing/docs", so the URL is <bpt id="ef7fcc49-a1e2-4647-bd09-e2e5e3b3fe1b">&lt;code&gt;</bpt>http://int.msdn.microsoft.com/en-us/openpublishing/docs<ept id="ef7fcc49-a1e2-4647-bd09-e2e5e3b3fe1b">&lt;/code&gt;</ept>.</source>
+          <target state="new">In our case, it is "openpublishing/docs", so the URL is <bpt id="ef7fcc49-a1e2-4647-bd09-e2e5e3b3fe1b">&lt;code&gt;</bpt>http://int.msdn.microsoft.com/en-us/openpublishing/docs<ept id="ef7fcc49-a1e2-4647-bd09-e2e5e3b3fe1b">&lt;/code&gt;</ept>.</target>
+        </trans-unit>
+      </group>
+    </body>
+  </file>
+</xliff>

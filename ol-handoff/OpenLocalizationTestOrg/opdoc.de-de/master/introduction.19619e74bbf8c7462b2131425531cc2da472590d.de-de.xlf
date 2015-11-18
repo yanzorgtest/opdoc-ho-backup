@@ -1,0 +1,273 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<xliff version="1.2" xmlns="urn:oasis:names:tc:xliff:document:1.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:oasis:names:tc:xliff:document:1.2 xliff-core-1.2-transitional.xsd">
+  <file datatype="xml" source-language="en-us" target-language="de-de" original="foo.file" tool-id="b9a9c989-a8b4-4e8b-87ae-96ebbb5520f5" product-name="foo" product-version="1.0" build-num="1">
+    <header>
+      <tool tool-id="b9a9c989-a8b4-4e8b-87ae-96ebbb5520f5" tool-name="MarkdownToXliff" tool-version="1.0" tool-company="Microsoft" />
+      <olfilehash xmlns="">e61fec6ca27d0de0c56e00791854433e21a2f95b</olfilehash>
+    </header>
+    <body>
+      <group id="a6c911dc-d3ea-4a2a-9499-65fd1b159d29">
+        <trans-unit id="68421a2f-9aad-460f-85d6-a1fc65c552f1" xml:space="preserve">
+          <source>Open Publishing Introduction</source>
+          <target state="new">Open Publishing Introduction</target>
+        </trans-unit>
+        <trans-unit id="6cc82e8d-ca68-4867-91f7-7a66185518c3" xml:space="preserve">
+          <source>Open Publishing (OP) is a modern content authoring and publish workflow based on markdown and Git.</source>
+          <target state="new">Open Publishing (OP) is a modern content authoring and publish workflow based on markdown and Git.</target>
+        </trans-unit>
+        <trans-unit id="5a77039a-6b80-4d3d-b97d-ac9cc8d8eb07" xml:space="preserve">
+          <source>It is built as a set of content services accessible through open standard-based interfaces such as Git.</source>
+          <target state="new">It is built as a set of content services accessible through open standard-based interfaces such as Git.</target>
+        </trans-unit>
+        <trans-unit id="f849fe4a-9542-45d7-a5a3-b758a7235089" xml:space="preserve">
+          <source>Easy to author:</source>
+          <target state="new">Easy to author:</target>
+        </trans-unit>
+        <trans-unit id="28488c88-0760-47b4-be2b-0d20ce0bc72b" xml:space="preserve">
+          <source>Markdown as authoring language</source>
+          <target state="new">Markdown as authoring language</target>
+        </trans-unit>
+        <trans-unit id="ca4da86c-522b-43d0-adfc-0542fa954b63" xml:space="preserve">
+          <source>Validate and preview your changes locally just as you write the code</source>
+          <target state="new">Validate and preview your changes locally just as you write the code</target>
+        </trans-unit>
+        <trans-unit id="c6bf3785-7ea6-4b7c-88a4-b9261a3ac94a" xml:space="preserve">
+          <source>Easy to publish:</source>
+          <target state="new">Easy to publish:</target>
+        </trans-unit>
+        <trans-unit id="9c6d33ca-795a-443d-9354-b830af54a236" xml:space="preserve">
+          <source>Push your content to Git and wait it to be published automatically</source>
+          <target state="new">Push your content to Git and wait it to be published automatically</target>
+        </trans-unit>
+        <trans-unit id="335f1916-bb25-48fa-a106-0d6cb7219a2e" xml:space="preserve">
+          <source>Open to multiple endpoint support</source>
+          <target state="new">Open to multiple endpoint support</target>
+        </trans-unit>
+        <trans-unit id="72c1bb55-fbd2-4de1-8731-770f32d8dc8b" xml:space="preserve">
+          <source>Easy to collaborate:</source>
+          <target state="new">Easy to collaborate:</target>
+        </trans-unit>
+        <trans-unit id="86e2e4ee-6796-41ad-9ff2-5402ce6f6a7b" xml:space="preserve">
+          <source>Use Git (GitHub/VSO) as collaboration interface</source>
+          <target state="new">Use Git (GitHub/VSO) as collaboration interface</target>
+        </trans-unit>
+        <trans-unit id="2c462866-01d8-4922-b9a0-73d16500baa9" xml:space="preserve">
+          <source>Contribute/review/comment using pull request</source>
+          <target state="new">Contribute/review/comment using pull request</target>
+        </trans-unit>
+        <trans-unit id="a128cad3-02e6-4202-9164-46a817fff2b6" xml:space="preserve">
+          <source>You can see a demo on Open Publishing <bpt id="56086b5f-5c79-4e12-9c4f-9bec1474ba5bCapsExtId1">&lt;linkText&gt;</bpt>here<ept id="56086b5f-5c79-4e12-9c4f-9bec1474ba5bCapsExtId1">&lt;/linkText&gt;</ept><bpt id="56086b5f-5c79-4e12-9c4f-9bec1474ba5bCapsExtId2">&lt;title&gt;</bpt><ept id="56086b5f-5c79-4e12-9c4f-9bec1474ba5bCapsExtId2">&lt;/title&gt;</ept></source>
+          <target state="new">You can see a demo on Open Publishing <bpt id="56086b5f-5c79-4e12-9c4f-9bec1474ba5bCapsExtId1">&lt;linkText&gt;</bpt>here<ept id="56086b5f-5c79-4e12-9c4f-9bec1474ba5bCapsExtId1">&lt;/linkText&gt;</ept><bpt id="56086b5f-5c79-4e12-9c4f-9bec1474ba5bCapsExtId2">&lt;title&gt;</bpt><ept id="56086b5f-5c79-4e12-9c4f-9bec1474ba5bCapsExtId2">&lt;/title&gt;</ept></target>
+        </trans-unit>
+        <trans-unit id="65685860-2d65-4add-a9ba-516e01ee0a3b" xml:space="preserve">
+          <source>Open Publishing is being developed by the Visual Studio China team.</source>
+          <target state="new">Open Publishing is being developed by the Visual Studio China team.</target>
+        </trans-unit>
+        <trans-unit id="22b44221-1b07-43f3-b900-2fdf71c8d516" xml:space="preserve">
+          <source>The team owns the MSDN and Technet platforms, as well as other tools related to content authoring and publishing.</source>
+          <target state="new">The team owns the MSDN and Technet platforms, as well as other tools related to content authoring and publishing.</target>
+        </trans-unit>
+        <trans-unit id="f4136b63-5273-4b91-8499-dcbdfea77369" xml:space="preserve">
+          <source>1. Why Open Publishing?</source>
+          <target state="new">1. Why Open Publishing?</target>
+        </trans-unit>
+        <trans-unit id="52757e8e-8cff-4b30-bbf4-da7cd48b6c1f" xml:space="preserve">
+          <source>Our legacy documentation processes and tools are not designed for services that are easily consumable by a variety of customers with unique and individual needs.</source>
+          <target state="new">Our legacy documentation processes and tools are not designed for services that are easily consumable by a variety of customers with unique and individual needs.</target>
+        </trans-unit>
+        <trans-unit id="bab8b203-f4a9-41b8-8b04-2da64a46cea2" xml:space="preserve">
+          <source>This presents itself in several ways:</source>
+          <target state="new">This presents itself in several ways:</target>
+        </trans-unit>
+        <trans-unit id="39336af0-0fcc-499d-8cc2-5ff9b06ddc28" xml:space="preserve">
+          <source>Document releases are moving from years/months releases to weeks/days/several times a day</source>
+          <target state="new">Document releases are moving from years/months releases to weeks/days/several times a day</target>
+        </trans-unit>
+        <trans-unit id="a697486c-edd5-4803-83ce-d78dbe4a17c3" xml:space="preserve">
+          <source>Technical documentation is shifting from large size to small, hierarchical to flat, from static to interactive</source>
+          <target state="new">Technical documentation is shifting from large size to small, hierarchical to flat, from static to interactive</target>
+        </trans-unit>
+        <trans-unit id="4d682037-193b-49be-8023-845293bec78c" xml:space="preserve">
+          <source>Product/Engineering teams and external communities need to directly contribute to content creation/feedback</source>
+          <target state="new">Product/Engineering teams and external communities need to directly contribute to content creation/feedback</target>
+        </trans-unit>
+        <trans-unit id="0879fe98-6af2-41fc-80cb-c072e97f1953" xml:space="preserve">
+          <source>Product/Engineering teams prefer to use the same process for code and docs</source>
+          <target state="new">Product/Engineering teams prefer to use the same process for code and docs</target>
+        </trans-unit>
+        <trans-unit id="ae859ea3-46cd-49c1-9fbc-73bce49d2dec" xml:space="preserve">
+          <source>Product/Engineering teams are increasingly hosting more docs on their own websites</source>
+          <target state="new">Product/Engineering teams are increasingly hosting more docs on their own websites</target>
+        </trans-unit>
+        <trans-unit id="4548f9d0-4265-4272-bce9-f7e19084c96e" xml:space="preserve">
+          <source>Without common tools, many teams are building their own tools, sites, etc. This means a lot of fragmentation in processes, tools and environments, which affects productivity and customer experience.</source>
+          <target state="new">Without common tools, many teams are building their own tools, sites, etc. This means a lot of fragmentation in processes, tools and environments, which affects productivity and customer experience.</target>
+        </trans-unit>
+        <trans-unit id="5400f4b8-75b5-4566-8908-de1cb1958df8" xml:space="preserve">
+          <source>Although different teams may have different workflows, many content publishing scenarios and requirements are the same.</source>
+          <target state="new">Although different teams may have different workflows, many content publishing scenarios and requirements are the same.</target>
+        </trans-unit>
+        <trans-unit id="529da95f-042d-45ea-b342-253868566a60" xml:space="preserve">
+          <source><bpt id="ed575e2a-d905-4553-b69a-99a926779ac1">&lt;linkText&gt;</bpt>Commonality<ept id="ed575e2a-d905-4553-b69a-99a926779ac1">&lt;/linkText&gt;</ept></source>
+          <target state="new"><bpt id="ed575e2a-d905-4553-b69a-99a926779ac1">&lt;linkText&gt;</bpt>Commonality<ept id="ed575e2a-d905-4553-b69a-99a926779ac1">&lt;/linkText&gt;</ept></target>
+        </trans-unit>
+        <trans-unit id="1847d174-1709-4bab-86bb-0519d49d8626" xml:space="preserve">
+          <source>Thus, if we can open up the content pipeline piece by piece, teams can use those essential common blocks.</source>
+          <target state="new">Thus, if we can open up the content pipeline piece by piece, teams can use those essential common blocks.</target>
+        </trans-unit>
+        <trans-unit id="887395ab-fdd5-4f1e-a11d-76fabb00abc0" xml:space="preserve">
+          <source>We will accomplish this by providing services via Open Publishing.</source>
+          <target state="new">We will accomplish this by providing services via Open Publishing.</target>
+        </trans-unit>
+        <trans-unit id="4d733a29-09dd-4036-b95e-f3bb565321d9" xml:space="preserve">
+          <source>Key benefits:</source>
+          <target state="new">Key benefits:</target>
+        </trans-unit>
+        <trans-unit id="98b004f4-4435-4b08-ad08-1a351f34f4fa" xml:space="preserve">
+          <source>Decoupling of content creation and distribution</source>
+          <target state="new">Decoupling of content creation and distribution</target>
+        </trans-unit>
+        <trans-unit id="c0e75746-244d-4b03-ba3f-0790475215e4" xml:space="preserve">
+          <source>Continuous integration</source>
+          <target state="new">Continuous integration</target>
+        </trans-unit>
+        <trans-unit id="8de263f7-0752-40f7-803b-27b805d0c712" xml:space="preserve">
+          <source>Open contribution and connected feedback</source>
+          <target state="new">Open contribution and connected feedback</target>
+        </trans-unit>
+        <trans-unit id="fcc875ad-9fe4-4cdb-adae-91d25f021a67" xml:space="preserve">
+          <source>Flexible hosting</source>
+          <target state="new">Flexible hosting</target>
+        </trans-unit>
+        <trans-unit id="14a27462-c424-4aa9-b285-d8e65044e1e9" xml:space="preserve">
+          <source>Centralized analytics</source>
+          <target state="new">Centralized analytics</target>
+        </trans-unit>
+        <trans-unit id="d1021dd0-8c46-42c7-ba3f-c36d9d08d8c4" xml:space="preserve">
+          <source>There would be four core services in Open Publishing</source>
+          <target state="new">There would be four core services in Open Publishing</target>
+        </trans-unit>
+        <trans-unit id="d78a1727-55d1-4343-aa90-3495902ab42e" xml:space="preserve">
+          <source>Reference content auto-generation</source>
+          <target state="new">Reference content auto-generation</target>
+        </trans-unit>
+        <trans-unit id="637b6c12-0ef0-4e85-aa3a-07854486ef70" xml:space="preserve">
+          <source>Content publishing</source>
+          <target state="new">Content publishing</target>
+        </trans-unit>
+        <trans-unit id="99f47b04-ae1b-481b-a596-6e8b80ba064e" xml:space="preserve">
+          <source>Localization</source>
+          <target state="new">Localization</target>
+        </trans-unit>
+        <trans-unit id="e23e187e-cd3d-4822-8533-3f924fbb7193" xml:space="preserve">
+          <source>BI</source>
+          <target state="new">BI</target>
+        </trans-unit>
+        <trans-unit id="6ad97156-b12c-4502-b041-fda62d07e598" xml:space="preserve">
+          <source>In the future, Open Publishing service would be open sourced to any team in Microsoft, to allow other them to contribute to the codebase and build even more customized solutions.</source>
+          <target state="new">In the future, Open Publishing service would be open sourced to any team in Microsoft, to allow other them to contribute to the codebase and build even more customized solutions.</target>
+        </trans-unit>
+        <trans-unit id="226519f2-39bc-433b-aebc-7f5851443e8a" xml:space="preserve">
+          <source>2. Major Scenarios</source>
+          <target state="new">2. Major Scenarios</target>
+        </trans-unit>
+        <trans-unit id="9b4872c5-9ad7-4129-bd82-7e681d1560f2" xml:space="preserve">
+          <source>Open Publishing will be created and deployed in Phases. For a up-to-date list of current and future work, please visit <bpt id="495373b1-36e4-4ee7-8d16-680e1c62c5a9CapsExtId1">&lt;linkText&gt;</bpt>TFS feature request list<ept id="495373b1-36e4-4ee7-8d16-680e1c62c5a9CapsExtId1">&lt;/linkText&gt;</ept><bpt id="495373b1-36e4-4ee7-8d16-680e1c62c5a9CapsExtId2">&lt;title&gt;</bpt><ept id="495373b1-36e4-4ee7-8d16-680e1c62c5a9CapsExtId2">&lt;/title&gt;</ept>.</source>
+          <target state="new">Open Publishing will be created and deployed in Phases. For a up-to-date list of current and future work, please visit <bpt id="495373b1-36e4-4ee7-8d16-680e1c62c5a9CapsExtId1">&lt;linkText&gt;</bpt>TFS feature request list<ept id="495373b1-36e4-4ee7-8d16-680e1c62c5a9CapsExtId1">&lt;/linkText&gt;</ept><bpt id="495373b1-36e4-4ee7-8d16-680e1c62c5a9CapsExtId2">&lt;title&gt;</bpt><ept id="495373b1-36e4-4ee7-8d16-680e1c62c5a9CapsExtId2">&lt;/title&gt;</ept>.</target>
+        </trans-unit>
+        <trans-unit id="834607d8-52ea-40b7-9576-2d7aac85fcd3" xml:space="preserve">
+          <source>The following are the key scenarios that Open Publishing will cover:</source>
+          <target state="new">The following are the key scenarios that Open Publishing will cover:</target>
+        </trans-unit>
+        <trans-unit id="44d79160-94fb-402d-a360-3f2fb42b0117" xml:space="preserve">
+          <source>Standardized interface and agile tooling</source>
+          <target state="new">Standardized interface and agile tooling</target>
+        </trans-unit>
+        <trans-unit id="b074e2c4-59da-4379-9a07-368d46c8eb60" xml:space="preserve">
+          <source>Git and Markdown (as well as HTML) are commonly accepted interface and format both internally and externally</source>
+          <target state="new">Git and Markdown (as well as HTML) are commonly accepted interface and format both internally and externally</target>
+        </trans-unit>
+        <trans-unit id="16bf8c82-d5ba-4708-be0b-e60e11ef58b1" xml:space="preserve">
+          <source>Plenty of additional tools available for different teams to choose according to their existing process and usage</source>
+          <target state="new">Plenty of additional tools available for different teams to choose according to their existing process and usage</target>
+        </trans-unit>
+        <trans-unit id="b2178872-2918-4344-bb05-01d04acb97cc" xml:space="preserve">
+          <source>Available and accessible for all</source>
+          <target state="new">Available and accessible for all</target>
+        </trans-unit>
+        <trans-unit id="8b7e54f3-3c5a-45a2-860e-48d1191db464" xml:space="preserve">
+          <source>Internally - product teams as well as content teams</source>
+          <target state="new">Internally - product teams as well as content teams</target>
+        </trans-unit>
+        <trans-unit id="f16ce2e8-8cac-4a47-b7bc-00d19188cf59" xml:space="preserve">
+          <source>Externally - open to Microsoft customers for contribution</source>
+          <target state="new">Externally - open to Microsoft customers for contribution</target>
+        </trans-unit>
+        <trans-unit id="7e8272d4-18a4-4518-b80a-502a9f597933" xml:space="preserve">
+          <source>Different types of documentation</source>
+          <target state="new">Different types of documentation</target>
+        </trans-unit>
+        <trans-unit id="3e95b4e7-a16b-4a95-b6c0-38a391ecf32b" xml:space="preserve">
+          <source>Conceptual content for getting started, tutorials, etc.</source>
+          <target state="new">Conceptual content for getting started, tutorials, etc.</target>
+        </trans-unit>
+        <trans-unit id="d59a60f4-78b7-4649-9af7-1d34c6982636" xml:space="preserve">
+          <source>Reference content for API</source>
+          <target state="new">Reference content for API</target>
+        </trans-unit>
+        <trans-unit id="ca387fae-2bf4-46b0-b65b-08f755ed724a" xml:space="preserve">
+          <source>Accepting content authored from multiple tool chains, such as</source>
+          <target state="new">Accepting content authored from multiple tool chains, such as</target>
+        </trans-unit>
+        <trans-unit id="b2141ee0-b6d2-4fee-9ff7-fe535066dc16" xml:space="preserve">
+          <source>Rich Content Management systems like CAPS (Content Authoring and Publishing Services) used by teams who like a rich experience to author, localize, and publish content.</source>
+          <target state="new">Rich Content Management systems like CAPS (Content Authoring and Publishing Services) used by teams who like a rich experience to author, localize, and publish content.</target>
+        </trans-unit>
+        <trans-unit id="c636bbed-6428-4b0d-90e5-028402153962" xml:space="preserve">
+          <source>Git repos, including GitHub and VSO</source>
+          <target state="new">Git repos, including GitHub and VSO</target>
+        </trans-unit>
+        <trans-unit id="e57988e2-305f-4de0-9486-2a054cc56aa1" xml:space="preserve">
+          <source>Multiple hosting environments</source>
+          <target state="new">Multiple hosting environments</target>
+        </trans-unit>
+        <trans-unit id="5bca1d2a-79a5-484b-8a60-66657e531c4b" xml:space="preserve">
+          <source>MSDN, TechNet, VisualStudio.com</source>
+          <target state="new">MSDN, TechNet, VisualStudio.com</target>
+        </trans-unit>
+        <trans-unit id="fdb73873-e02d-4756-b101-0426faaa7d09" xml:space="preserve">
+          <source>Custom domain support</source>
+          <target state="new">Custom domain support</target>
+        </trans-unit>
+        <trans-unit id="495e15eb-6fd5-461c-9116-af84e1d3c7c4" xml:space="preserve">
+          <source>Content management as a service</source>
+          <target state="new">Content management as a service</target>
+        </trans-unit>
+        <trans-unit id="21c12071-31d6-45aa-a2ed-d04339fc56a6" xml:space="preserve">
+          <source>Self-managed, flexible content workflow: from provisioning, authoring, staging and reviewing to publishing</source>
+          <target state="new">Self-managed, flexible content workflow: from provisioning, authoring, staging and reviewing to publishing</target>
+        </trans-unit>
+        <trans-unit id="53717be3-c3cc-4e00-9c18-f72572e9f209" xml:space="preserve">
+          <source>Integrated localization service: get your content localized and published easily</source>
+          <target state="new">Integrated localization service: get your content localized and published easily</target>
+        </trans-unit>
+        <trans-unit id="5c96ee10-4980-4785-992f-52d14b06479d" xml:space="preserve">
+          <source>Connected BI service, established feedback loop and customizable analytics from content creator to consumers</source>
+          <target state="new">Connected BI service, established feedback loop and customizable analytics from content creator to consumers</target>
+        </trans-unit>
+        <trans-unit id="fbd33eec-b6ff-481f-94e6-ae90a3391d96" xml:space="preserve">
+          <source>Consistent SEO approach</source>
+          <target state="new">Consistent SEO approach</target>
+        </trans-unit>
+        <trans-unit id="70d76c41-fa34-4e49-a0ec-c711f7c6000d" xml:space="preserve">
+          <source>3. Service Architecture</source>
+          <target state="new">3. Service Architecture</target>
+        </trans-unit>
+        <trans-unit id="0331e870-8d68-4965-8e04-57579f4715cd" xml:space="preserve">
+          <source><bpt id="92d1a4bc-95f9-473e-bf80-f3cd626a29db">&lt;linkText&gt;</bpt>Service Architecture<ept id="92d1a4bc-95f9-473e-bf80-f3cd626a29db">&lt;/linkText&gt;</ept></source>
+          <target state="new"><bpt id="92d1a4bc-95f9-473e-bf80-f3cd626a29db">&lt;linkText&gt;</bpt>Service Architecture<ept id="92d1a4bc-95f9-473e-bf80-f3cd626a29db">&lt;/linkText&gt;</ept></target>
+        </trans-unit>
+      </group>
+    </body>
+  </file>
+</xliff>

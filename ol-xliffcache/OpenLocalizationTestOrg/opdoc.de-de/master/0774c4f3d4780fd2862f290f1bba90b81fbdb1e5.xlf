@@ -1,0 +1,97 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<xliff version="1.2" xmlns="urn:oasis:names:tc:xliff:document:1.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:oasis:names:tc:xliff:document:1.2 xliff-core-1.2-transitional.xsd">
+  <file datatype="xml" source-language="en-us" target-language="de-de" original="foo.file" tool-id="2dd268c0-0529-4f53-bf58-31124e875215" product-name="foo" product-version="1.0" build-num="1">
+    <header>
+      <tool tool-id="2dd268c0-0529-4f53-bf58-31124e875215" tool-name="MarkdownToXliff" tool-version="1.0" tool-company="Microsoft" />
+      <olfilehash xmlns="">0774c4f3d4780fd2862f290f1bba90b81fbdb1e5</olfilehash>
+    </header>
+    <body>
+      <group id="33c0fbf0-0cb1-4b6d-a3b6-fdfdc48acf8b">
+        <trans-unit id="edcce8c4-36ef-4ece-bb59-87c3c8b159e7" xml:space="preserve">
+          <source>Localization</source>
+          <target state="new">Localization</target>
+        </trans-unit>
+        <trans-unit id="3cb0312a-65b4-4760-ae23-7ec2eba46e63" xml:space="preserve">
+          <source>Localization is offered via the Open Localization service.</source>
+          <target state="new">Localization is offered via the Open Localization service.</target>
+        </trans-unit>
+        <trans-unit id="ed547282-9126-46dd-97da-c2e42d34611b" xml:space="preserve">
+          <source>Repo creation</source>
+          <target state="new">Repo creation</target>
+        </trans-unit>
+        <trans-unit id="d59599ba-d804-4122-ace1-144457f9d9d2" xml:space="preserve">
+          <source>Repos are created automatically by updating the <bpt id="90387d6c-5d85-4664-b178-601871f2645bCapsExtId1">&lt;linkText&gt;</bpt>.localization-config<ept id="90387d6c-5d85-4664-b178-601871f2645bCapsExtId1">&lt;/linkText&gt;</ept><bpt id="90387d6c-5d85-4664-b178-601871f2645bCapsExtId2">&lt;title&gt;</bpt><ept id="90387d6c-5d85-4664-b178-601871f2645bCapsExtId2">&lt;/title&gt;</ept></source>
+          <target state="new">Repos are created automatically by updating the <bpt id="90387d6c-5d85-4664-b178-601871f2645bCapsExtId1">&lt;linkText&gt;</bpt>.localization-config<ept id="90387d6c-5d85-4664-b178-601871f2645bCapsExtId1">&lt;/linkText&gt;</ept><bpt id="90387d6c-5d85-4664-b178-601871f2645bCapsExtId2">&lt;title&gt;</bpt><ept id="90387d6c-5d85-4664-b178-601871f2645bCapsExtId2">&lt;/title&gt;</ept></target>
+        </trans-unit>
+        <trans-unit id="73b8ccc8-ddc2-4bdd-bfb3-d98918d794d8" xml:space="preserve">
+          <source>Handoff</source>
+          <target state="new">Handoff</target>
+        </trans-unit>
+        <trans-unit id="5ff089b3-3d28-485c-add5-36d109e9bcc4" xml:space="preserve">
+          <source>Whenever there is any content pulled to the English “master” branch, the localization service will be triggered and the handoff package is created automatically.</source>
+          <target state="new">Whenever there is any content pulled to the English “master” branch, the localization service will be triggered and the handoff package is created automatically.</target>
+        </trans-unit>
+        <trans-unit id="356b0176-778f-46bd-8fa1-c023d720951d" xml:space="preserve">
+          <source>The package is being updated until the files are handed off.</source>
+          <target state="new">The package is being updated until the files are handed off.</target>
+        </trans-unit>
+        <trans-unit id="7c7456d8-f775-4645-88e8-25a34882c2ec" xml:space="preserve">
+          <source>Then, a new package will be created.</source>
+          <target state="new">Then, a new package will be created.</target>
+        </trans-unit>
+        <trans-unit id="e39be2e2-d11b-4c03-8937-2d92508fe05a" xml:space="preserve">
+          <source>Hand back</source>
+          <target state="new">Hand back</target>
+        </trans-unit>
+        <trans-unit id="35198dba-28c4-42e8-bb5c-3ba7be1d3cf8" xml:space="preserve">
+          <source>After the files are translated and hand back is placed in the right location, hand back gets triggered and the localized content will be pushed to the localized repository’s “master” branch.</source>
+          <target state="new">After the files are translated and hand back is placed in the right location, hand back gets triggered and the localized content will be pushed to the localized repository’s “master” branch.</target>
+        </trans-unit>
+        <trans-unit id="683f77f0-5edd-4ed4-ac59-6fc704ee7da3" xml:space="preserve">
+          <source>At this time build will be also triggered and localized content will be published to stage.</source>
+          <target state="new">At this time build will be also triggered and localized content will be published to stage.</target>
+        </trans-unit>
+        <trans-unit id="6d07cd8a-cba9-4251-9163-cf1c97e82507" xml:space="preserve">
+          <source>Content Publishing</source>
+          <target state="new">Content Publishing</target>
+        </trans-unit>
+        <trans-unit id="e5523ee1-dcae-4185-b631-ba343315e874" xml:space="preserve">
+          <source>This section only contains any differences between English and localized languages publishing.</source>
+          <target state="new">This section only contains any differences between English and localized languages publishing.</target>
+        </trans-unit>
+        <trans-unit id="c86cafbc-3b2c-4913-abe3-32a4202fe8e5" xml:space="preserve">
+          <source>Make sure to refer to the <bpt id="1920d0bd-d589-47e7-9515-79e11ce283c7CapsExtId1">&lt;linkText&gt;</bpt>Content publishing<ept id="1920d0bd-d589-47e7-9515-79e11ce283c7CapsExtId1">&lt;/linkText&gt;</ept><bpt id="1920d0bd-d589-47e7-9515-79e11ce283c7CapsExtId2">&lt;title&gt;</bpt><ept id="1920d0bd-d589-47e7-9515-79e11ce283c7CapsExtId2">&lt;/title&gt;</ept> topic for complete information.</source>
+          <target state="new">Make sure to refer to the <bpt id="1920d0bd-d589-47e7-9515-79e11ce283c7CapsExtId1">&lt;linkText&gt;</bpt>Content publishing<ept id="1920d0bd-d589-47e7-9515-79e11ce283c7CapsExtId1">&lt;/linkText&gt;</ept><bpt id="1920d0bd-d589-47e7-9515-79e11ce283c7CapsExtId2">&lt;title&gt;</bpt><ept id="1920d0bd-d589-47e7-9515-79e11ce283c7CapsExtId2">&lt;/title&gt;</ept> topic for complete information.</target>
+        </trans-unit>
+        <trans-unit id="c834b227-ecb2-4e92-948b-70ad7183e73f" xml:space="preserve">
+          <source>Alike English, once the hand back is done into the master branch, the content will be published to stage.</source>
+          <target state="new">Alike English, once the hand back is done into the master branch, the content will be published to stage.</target>
+        </trans-unit>
+        <trans-unit id="e5159dff-abb9-479f-8af8-b67b6d521b00" xml:space="preserve">
+          <source>This is an automatic process.</source>
+          <target state="new">This is an automatic process.</target>
+        </trans-unit>
+        <trans-unit id="e9533147-bc9e-4763-964b-3adf65101f1f" xml:space="preserve">
+          <source>Merging the content to the live branch is a manual process.</source>
+          <target state="new">Merging the content to the live branch is a manual process.</target>
+        </trans-unit>
+        <trans-unit id="06358093-fc99-40f6-8027-6177317ddc56" xml:space="preserve">
+          <source>Once the content is in the live brnach, the localized content will go to live.</source>
+          <target state="new">Once the content is in the live brnach, the localized content will go to live.</target>
+        </trans-unit>
+        <trans-unit id="21ca5849-dddd-47a2-9fc0-bd60d323b83f" xml:space="preserve">
+          <source>Build status and reports</source>
+          <target state="new">Build status and reports</target>
+        </trans-unit>
+        <trans-unit id="2f66e731-20ea-4a98-89bd-a6abade04109" xml:space="preserve">
+          <source>The submitter of the changes as well as those in the (notification list)[repo-config.md], will get a mail indicating whether the build is successful or not, a link to the documentation, as well as a link to the build report.</source>
+          <target state="new">The submitter of the changes as well as those in the (notification list)[repo-config.md], will get a mail indicating whether the build is successful or not, a link to the documentation, as well as a link to the build report.</target>
+        </trans-unit>
+        <trans-unit id="d1f24734-c997-4d96-b52c-5950e6f00e51" xml:space="preserve">
+          <source>Alternatively, teams can look at the <bpt id="ff21c34f-8340-4e8e-af85-83534c361f77CapsExtId1">&lt;linkText&gt;</bpt>Open Publishing Portal<ept id="ff21c34f-8340-4e8e-af85-83534c361f77CapsExtId1">&lt;/linkText&gt;</ept><bpt id="ff21c34f-8340-4e8e-af85-83534c361f77CapsExtId2">&lt;title&gt;</bpt><ept id="ff21c34f-8340-4e8e-af85-83534c361f77CapsExtId2">&lt;/title&gt;</ept> for build status and logs of current and past builds.</source>
+          <target state="new">Alternatively, teams can look at the <bpt id="ff21c34f-8340-4e8e-af85-83534c361f77CapsExtId1">&lt;linkText&gt;</bpt>Open Publishing Portal<ept id="ff21c34f-8340-4e8e-af85-83534c361f77CapsExtId1">&lt;/linkText&gt;</ept><bpt id="ff21c34f-8340-4e8e-af85-83534c361f77CapsExtId2">&lt;title&gt;</bpt><ept id="ff21c34f-8340-4e8e-af85-83534c361f77CapsExtId2">&lt;/title&gt;</ept> for build status and logs of current and past builds.</target>
+        </trans-unit>
+      </group>
+    </body>
+  </file>
+</xliff>

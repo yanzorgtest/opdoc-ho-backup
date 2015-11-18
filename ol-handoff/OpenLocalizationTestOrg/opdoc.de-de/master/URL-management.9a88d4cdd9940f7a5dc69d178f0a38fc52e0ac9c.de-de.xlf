@@ -1,0 +1,133 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<xliff version="1.2" xmlns="urn:oasis:names:tc:xliff:document:1.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:oasis:names:tc:xliff:document:1.2 xliff-core-1.2-transitional.xsd">
+  <file datatype="xml" source-language="en-us" target-language="de-de" original="foo.file" tool-id="96d51ad7-da9f-4c7f-a8e8-416e843e247d" product-name="foo" product-version="1.0" build-num="1">
+    <header>
+      <tool tool-id="96d51ad7-da9f-4c7f-a8e8-416e843e247d" tool-name="MarkdownToXliff" tool-version="1.0" tool-company="Microsoft" />
+      <olfilehash xmlns="">d8d535cdf843dfe7a11d5df09eb752fea693ea01</olfilehash>
+    </header>
+    <body>
+      <group id="1fcf0c7a-3651-4caa-8909-6092cc74d1c9">
+        <trans-unit id="45b336ce-8a09-4573-b4a0-3b36c728470a" xml:space="preserve">
+          <source>URL Management</source>
+          <target state="new">URL Management</target>
+        </trans-unit>
+        <trans-unit id="332c0277-641b-4dd6-8de2-d4f571c3e91c" xml:space="preserve">
+          <source>Your URL will be defined by the domain where content gets published, locale, docset name,  folder structure, and file names in your repo.</source>
+          <target state="new">Your URL will be defined by the domain where content gets published, locale, docset name,  folder structure, and file names in your repo.</target>
+        </trans-unit>
+        <trans-unit id="5a9e9409-ecae-416c-9756-7b06de2490ea" xml:space="preserve">
+          <source><bpt id="17e3f8d1-fc83-42b4-a37c-a889ceab9bfe">&lt;code&gt;</bpt>http://{site}/{locale}/[{"version"}][{"product"}]/{ContentPath}<ept id="17e3f8d1-fc83-42b4-a37c-a889ceab9bfe">&lt;/code&gt;</ept></source>
+          <target state="new"><bpt id="17e3f8d1-fc83-42b4-a37c-a889ceab9bfe">&lt;code&gt;</bpt>http://{site}/{locale}/[{"version"}][{"product"}]/{ContentPath}<ept id="17e3f8d1-fc83-42b4-a37c-a889ceab9bfe">&lt;/code&gt;</ept></target>
+        </trans-unit>
+        <trans-unit id="f4c9c6ed-b018-4f5d-9453-9adc62798423" xml:space="preserve">
+          <source><bpt id="e0648607-df11-4747-9190-799896b9252b">&lt;strong&gt;</bpt>Parameter<ept id="e0648607-df11-4747-9190-799896b9252b">&lt;/strong&gt;</ept></source>
+          <target state="new"><bpt id="e0648607-df11-4747-9190-799896b9252b">&lt;strong&gt;</bpt>Parameter<ept id="e0648607-df11-4747-9190-799896b9252b">&lt;/strong&gt;</ept></target>
+        </trans-unit>
+        <trans-unit id="37aa5e82-32da-4861-bcc1-d023934e15c0" xml:space="preserve">
+          <source><bpt id="7da421d9-5c2d-46a0-8b71-bb3fcb51393b">&lt;strong&gt;</bpt>Required<ept id="7da421d9-5c2d-46a0-8b71-bb3fcb51393b">&lt;/strong&gt;</ept></source>
+          <target state="new"><bpt id="7da421d9-5c2d-46a0-8b71-bb3fcb51393b">&lt;strong&gt;</bpt>Required<ept id="7da421d9-5c2d-46a0-8b71-bb3fcb51393b">&lt;/strong&gt;</ept></target>
+        </trans-unit>
+        <trans-unit id="8ebd6b4e-7a32-4d7a-9a4c-8be17e37b9af" xml:space="preserve">
+          <source><bpt id="c616c4fa-b253-4770-a969-bc05a01ecb47">&lt;strong&gt;</bpt>Source<ept id="c616c4fa-b253-4770-a969-bc05a01ecb47">&lt;/strong&gt;</ept></source>
+          <target state="new"><bpt id="c616c4fa-b253-4770-a969-bc05a01ecb47">&lt;strong&gt;</bpt>Source<ept id="c616c4fa-b253-4770-a969-bc05a01ecb47">&lt;/strong&gt;</ept></target>
+        </trans-unit>
+        <trans-unit id="5cd58b46-00fe-40eb-929e-28f12efcfaf3" xml:space="preserve">
+          <source><bpt id="29731bc9-d6d5-4b39-8648-3f7351657677">&lt;strong&gt;</bpt>Description<ept id="29731bc9-d6d5-4b39-8648-3f7351657677">&lt;/strong&gt;</ept></source>
+          <target state="new"><bpt id="29731bc9-d6d5-4b39-8648-3f7351657677">&lt;strong&gt;</bpt>Description<ept id="29731bc9-d6d5-4b39-8648-3f7351657677">&lt;/strong&gt;</ept></target>
+        </trans-unit>
+        <trans-unit id="5865092d-b343-4ea2-9cae-4fdcdf0db11c" xml:space="preserve">
+          <source>Site</source>
+          <target state="new">Site</target>
+        </trans-unit>
+        <trans-unit id="5a9a4c37-c898-4b7f-aa31-45ac9dc90193" xml:space="preserve">
+          <source>Required</source>
+          <target state="new">Required</target>
+        </trans-unit>
+        <trans-unit id="045629af-7033-4da2-b9f0-aa03c0d1aecc" xml:space="preserve">
+          <source>Publishing metadata set at account provisioning</source>
+          <target state="new">Publishing metadata set at account provisioning</target>
+        </trans-unit>
+        <trans-unit id="b2363b42-d88b-4a6d-8006-46b6f818dba9" xml:space="preserve">
+          <source>The URLs to the host name of the Web app that renders the content.</source>
+          <target state="new">The URLs to the host name of the Web app that renders the content.</target>
+        </trans-unit>
+        <trans-unit id="8010e012-4b64-4ed8-a386-f99777f664a8" xml:space="preserve">
+          <source>It can be the URL for public site, internal testing or staging environment, or even localhost of local preview.</source>
+          <target state="new">It can be the URL for public site, internal testing or staging environment, or even localhost of local preview.</target>
+        </trans-unit>
+        <trans-unit id="2fd91b40-858b-4927-a7c6-9224dd9b93ed" xml:space="preserve">
+          <source>Locale</source>
+          <target state="new">Locale</target>
+        </trans-unit>
+        <trans-unit id="f990fbc5-5a17-4586-ae77-38afa04ff148" xml:space="preserve">
+          <source>Required</source>
+          <target state="new">Required</target>
+        </trans-unit>
+        <trans-unit id="cdb20221-49d7-44b6-adaa-828f9fc9c7a5" xml:space="preserve">
+          <source>Document metadata from metadata file in <bpt id="5ec97585-2b85-4fb1-9c26-e9a044eff4ccCapsExtId1">&lt;linkText&gt;</bpt>GIT repository<ept id="5ec97585-2b85-4fb1-9c26-e9a044eff4ccCapsExtId1">&lt;/linkText&gt;</ept><bpt id="5ec97585-2b85-4fb1-9c26-e9a044eff4ccCapsExtId2">&lt;title&gt;</bpt><ept id="5ec97585-2b85-4fb1-9c26-e9a044eff4ccCapsExtId2">&lt;/title&gt;</ept></source>
+          <target state="new">Document metadata from metadata file in <bpt id="5ec97585-2b85-4fb1-9c26-e9a044eff4ccCapsExtId1">&lt;linkText&gt;</bpt>GIT repository<ept id="5ec97585-2b85-4fb1-9c26-e9a044eff4ccCapsExtId1">&lt;/linkText&gt;</ept><bpt id="5ec97585-2b85-4fb1-9c26-e9a044eff4ccCapsExtId2">&lt;title&gt;</bpt><ept id="5ec97585-2b85-4fb1-9c26-e9a044eff4ccCapsExtId2">&lt;/title&gt;</ept></target>
+        </trans-unit>
+        <trans-unit id="33ae457d-5d69-40ae-9faf-0feb04d57e23" xml:space="preserve">
+          <source>A string in {language}-{territory} format to indicate the locale of the content.</source>
+          <target state="new">A string in {language}-{territory} format to indicate the locale of the content.</target>
+        </trans-unit>
+        <trans-unit id="540d3598-d120-4014-9b90-ba2fb599fca5" xml:space="preserve">
+          <source>Version</source>
+          <target state="new">Version</target>
+        </trans-unit>
+        <trans-unit id="936a1079-66b2-4e30-9185-cd1e68c73ad3" xml:space="preserve">
+          <source>Optional</source>
+          <target state="new">Optional</target>
+        </trans-unit>
+        <trans-unit id="c3150ad8-a9b8-4492-b98a-f5e2b3faad61" xml:space="preserve">
+          <source>Document metadata from metadata file in <bpt id="1b28acf7-51ef-4f0f-8fae-5f48f3bfb41aCapsExtId1">&lt;linkText&gt;</bpt>GIT repository<ept id="1b28acf7-51ef-4f0f-8fae-5f48f3bfb41aCapsExtId1">&lt;/linkText&gt;</ept><bpt id="1b28acf7-51ef-4f0f-8fae-5f48f3bfb41aCapsExtId2">&lt;title&gt;</bpt><ept id="1b28acf7-51ef-4f0f-8fae-5f48f3bfb41aCapsExtId2">&lt;/title&gt;</ept></source>
+          <target state="new">Document metadata from metadata file in <bpt id="1b28acf7-51ef-4f0f-8fae-5f48f3bfb41aCapsExtId1">&lt;linkText&gt;</bpt>GIT repository<ept id="1b28acf7-51ef-4f0f-8fae-5f48f3bfb41aCapsExtId1">&lt;/linkText&gt;</ept><bpt id="1b28acf7-51ef-4f0f-8fae-5f48f3bfb41aCapsExtId2">&lt;title&gt;</bpt><ept id="1b28acf7-51ef-4f0f-8fae-5f48f3bfb41aCapsExtId2">&lt;/title&gt;</ept></target>
+        </trans-unit>
+        <trans-unit id="5c336255-2be9-4715-b974-955ea10585b2" xml:space="preserve">
+          <source>A SEO friendly version string that contains a human friendly product name and a version</source>
+          <target state="new">A SEO friendly version string that contains a human friendly product name and a version</target>
+        </trans-unit>
+        <trans-unit id="3ec107e7-a4a4-4980-ac6f-7b12f37607ca" xml:space="preserve">
+          <source>Product</source>
+          <target state="new">Product</target>
+        </trans-unit>
+        <trans-unit id="5ee29fdf-93d6-4b8a-a400-0eb5d0166e28" xml:space="preserve">
+          <source>Required</source>
+          <target state="new">Required</target>
+        </trans-unit>
+        <trans-unit id="de4a21ee-5e37-472c-88ea-295f4ee7e062" xml:space="preserve">
+          <source>Document metadata from metadata file in <bpt id="3a60d85b-67be-4554-824c-dffd2eedfc7fCapsExtId1">&lt;linkText&gt;</bpt>GIT repository<ept id="3a60d85b-67be-4554-824c-dffd2eedfc7fCapsExtId1">&lt;/linkText&gt;</ept><bpt id="3a60d85b-67be-4554-824c-dffd2eedfc7fCapsExtId2">&lt;title&gt;</bpt><ept id="3a60d85b-67be-4554-824c-dffd2eedfc7fCapsExtId2">&lt;/title&gt;</ept></source>
+          <target state="new">Document metadata from metadata file in <bpt id="3a60d85b-67be-4554-824c-dffd2eedfc7fCapsExtId1">&lt;linkText&gt;</bpt>GIT repository<ept id="3a60d85b-67be-4554-824c-dffd2eedfc7fCapsExtId1">&lt;/linkText&gt;</ept><bpt id="3a60d85b-67be-4554-824c-dffd2eedfc7fCapsExtId2">&lt;title&gt;</bpt><ept id="3a60d85b-67be-4554-824c-dffd2eedfc7fCapsExtId2">&lt;/title&gt;</ept></target>
+        </trans-unit>
+        <trans-unit id="67874bf9-cf25-4ed6-a781-97b344e28c70" xml:space="preserve">
+          <source>A string that describes the product for which the content is written</source>
+          <target state="new">A string that describes the product for which the content is written</target>
+        </trans-unit>
+        <trans-unit id="384b3cf6-1a16-496f-93fb-cf2217c508a4" xml:space="preserve">
+          <source>ContentPath</source>
+          <target state="new">ContentPath</target>
+        </trans-unit>
+        <trans-unit id="1e015ddd-91a4-49bf-8044-6adea5cc1ff3" xml:space="preserve">
+          <source>Required</source>
+          <target state="new">Required</target>
+        </trans-unit>
+        <trans-unit id="8242d35e-c7de-4b7c-a4e7-4cb4087d4da1" xml:space="preserve">
+          <source>File name in <bpt id="4c5ce22a-f45f-454d-ba54-74aae4762acbCapsExtId1">&lt;linkText&gt;</bpt>GIT repository<ept id="4c5ce22a-f45f-454d-ba54-74aae4762acbCapsExtId1">&lt;/linkText&gt;</ept><bpt id="4c5ce22a-f45f-454d-ba54-74aae4762acbCapsExtId2">&lt;title&gt;</bpt><ept id="4c5ce22a-f45f-454d-ba54-74aae4762acbCapsExtId2">&lt;/title&gt;</ept></source>
+          <target state="new">File name in <bpt id="4c5ce22a-f45f-454d-ba54-74aae4762acbCapsExtId1">&lt;linkText&gt;</bpt>GIT repository<ept id="4c5ce22a-f45f-454d-ba54-74aae4762acbCapsExtId1">&lt;/linkText&gt;</ept><bpt id="4c5ce22a-f45f-454d-ba54-74aae4762acbCapsExtId2">&lt;title&gt;</bpt><ept id="4c5ce22a-f45f-454d-ba54-74aae4762acbCapsExtId2">&lt;/title&gt;</ept></target>
+        </trans-unit>
+        <trans-unit id="e0b397aa-cb01-4548-91db-95fe6fa4ca65" xml:space="preserve">
+          <source>A path structure for a content item that authors their content.</source>
+          <target state="new">A path structure for a content item that authors their content.</target>
+        </trans-unit>
+        <trans-unit id="16301052-3f06-45a0-b5c7-f7c146024efa" xml:space="preserve">
+          <source>This path structure is the folder path of a content item in a repo.</source>
+          <target state="new">This path structure is the folder path of a content item in a repo.</target>
+        </trans-unit>
+        <trans-unit id="0134ec6c-185d-4404-a9cd-1dcd3ae5b0b0" xml:space="preserve">
+          <source>With this URL schema defined, content author and site management are given great flexibility in the layout of the content files in repo as well as rendering URLs.</source>
+          <target state="new">With this URL schema defined, content author and site management are given great flexibility in the layout of the content files in repo as well as rendering URLs.</target>
+        </trans-unit>
+      </group>
+    </body>
+  </file>
+</xliff>

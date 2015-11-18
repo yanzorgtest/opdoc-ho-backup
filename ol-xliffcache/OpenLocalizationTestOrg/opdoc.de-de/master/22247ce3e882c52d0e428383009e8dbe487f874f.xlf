@@ -1,0 +1,81 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<xliff version="1.2" xmlns="urn:oasis:names:tc:xliff:document:1.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:oasis:names:tc:xliff:document:1.2 xliff-core-1.2-transitional.xsd">
+  <file datatype="xml" source-language="en-us" target-language="de-de" original="foo.file" tool-id="9f286fbe-23e0-4984-8f8a-9ce38543a67e" product-name="foo" product-version="1.0" build-num="1">
+    <header>
+      <tool tool-id="9f286fbe-23e0-4984-8f8a-9ce38543a67e" tool-name="MarkdownToXliff" tool-version="1.0" tool-company="Microsoft" />
+      <olfilehash xmlns="">22247ce3e882c52d0e428383009e8dbe487f874f</olfilehash>
+    </header>
+    <body>
+      <group id="51867d22-7986-46c9-a0f4-3e10015c6b62">
+        <trans-unit id="2ca6336f-7503-4a7d-8e9f-e3e1c756d185" xml:space="preserve">
+          <source>Welcome to Open Publishing Docs</source>
+          <target state="new">Welcome to Open Publishing Docs</target>
+        </trans-unit>
+        <trans-unit id="617f5784-ca7c-4888-9fdd-c9af5cb91651" xml:space="preserve">
+          <source>This is the repository of Open Publishing Documents powered by MSDN Open Publishing.</source>
+          <target state="new">This is the repository of Open Publishing Documents powered by MSDN Open Publishing.</target>
+        </trans-unit>
+        <trans-unit id="67b12b39-dae7-405a-931a-ed1ff5ddffe2" xml:space="preserve">
+          <source>Quick Start</source>
+          <target state="new">Quick Start</target>
+        </trans-unit>
+        <trans-unit id="a0b3614d-bbc3-44f6-a159-334b80066d68" xml:space="preserve">
+          <source>Start contributing to Open Publishing docs using the following steps:</source>
+          <target state="new">Start contributing to Open Publishing docs using the following steps:</target>
+        </trans-unit>
+        <trans-unit id="9a02570b-d688-4557-af4b-8078d991ba17" xml:space="preserve">
+          <source>Clone the repo:</source>
+          <target state="new">Clone the repo:</target>
+        </trans-unit>
+        <trans-unit id="844434b3-1ed7-45e8-bb98-9242f30727c1" xml:space="preserve">
+          <source>Edit the Markdown files using your favorite Markdown editor.</source>
+          <target state="new">Edit the Markdown files using your favorite Markdown editor.</target>
+        </trans-unit>
+        <trans-unit id="dd635566-3fd4-464d-b9b7-3d51af9b3690" xml:space="preserve">
+          <source>Commit and push your changes:</source>
+          <target state="new">Commit and push your changes:</target>
+        </trans-unit>
+        <trans-unit id="7d79c395-bcc3-4356-a7c3-99c2036bc733" xml:space="preserve">
+          <source>Wait for a moment and your changes will be automatically published to:</source>
+          <target state="new">Wait for a moment and your changes will be automatically published to:</target>
+        </trans-unit>
+        <trans-unit id="d3648889-0638-4c91-8aae-0ddb1e7b1faa" xml:space="preserve">
+          <source>https://int.msdn.microsoft.com/en-us/openpublishing/docs/introduction</source>
+          <target state="new">https://int.msdn.microsoft.com/en-us/openpublishing/docs/introduction</target>
+        </trans-unit>
+        <trans-unit id="bfb7ff68-84e5-4f7b-a1be-e3b8c172d5ce" xml:space="preserve">
+          <source>WDG documentation: https://int.msdn.microsoft.com/en-us/openpublishing/wdg/wdcml-to-open-publish</source>
+          <target state="new">WDG documentation: https://int.msdn.microsoft.com/en-us/openpublishing/wdg/wdcml-to-open-publish</target>
+        </trans-unit>
+        <trans-unit id="526c9372-ff35-41bc-94e2-cc86e751184c" xml:space="preserve">
+          <source>If you don't have the permission to push to this repo, fork it to your own account and use pull request to submit your changes back.</source>
+          <target state="new">If you don't have the permission to push to this repo, fork it to your own account and use pull request to submit your changes back.</target>
+        </trans-unit>
+        <trans-unit id="26cc525b-fb60-41b6-b2d1-8033619374aa" xml:space="preserve">
+          <source>Validation and Preview</source>
+          <target state="new">Validation and Preview</target>
+        </trans-unit>
+        <trans-unit id="404a206e-e34a-420e-b1d9-dfff8fbf3156" xml:space="preserve">
+          <source>Before pushing your changes to remote, you can build and preview your doc in local to discover problems early:</source>
+          <target state="new">Before pushing your changes to remote, you can build and preview your doc in local to discover problems early:</target>
+        </trans-unit>
+        <trans-unit id="6d364493-d675-4934-9055-39bf4c6fe6c8" xml:space="preserve">
+          <source>To validate your changes, just run <bpt id="7afab8b9-7fae-4abf-bdfa-156119440c9d">&lt;code&gt;</bpt>msbuild<ept id="7afab8b9-7fae-4abf-bdfa-156119440c9d">&lt;/code&gt;</ept> under the root of the repo.</source>
+          <target state="new">To validate your changes, just run <bpt id="7afab8b9-7fae-4abf-bdfa-156119440c9d">&lt;code&gt;</bpt>msbuild<ept id="7afab8b9-7fae-4abf-bdfa-156119440c9d">&lt;/code&gt;</ept> under the root of the repo.</target>
+        </trans-unit>
+        <trans-unit id="3508194f-f4dd-4a8e-8ac6-8e08e130354f" xml:space="preserve">
+          <source>To preview your changes:</source>
+          <target state="new">To preview your changes:</target>
+        </trans-unit>
+        <trans-unit id="e19d2a89-10c5-41ec-bd62-bde36be18072" xml:space="preserve">
+          <source>Run <bpt id="41faa717-d544-495f-bf72-a5aa4e740fe8">&lt;code&gt;</bpt>msbuild /t:serve<ept id="41faa717-d544-495f-bf72-a5aa4e740fe8">&lt;/code&gt;</ept> under the root of the repo.</source>
+          <target state="new">Run <bpt id="41faa717-d544-495f-bf72-a5aa4e740fe8">&lt;code&gt;</bpt>msbuild /t:serve<ept id="41faa717-d544-495f-bf72-a5aa4e740fe8">&lt;/code&gt;</ept> under the root of the repo.</target>
+        </trans-unit>
+        <trans-unit id="6947a15b-eaad-4483-92a2-fd7d49714d99" xml:space="preserve">
+          <source>Open <bpt id="fc263e16-6465-47f2-9e8c-631d9535f425">&lt;code&gt;</bpt>http://localhost:8000<ept id="fc263e16-6465-47f2-9e8c-631d9535f425">&lt;/code&gt;</ept> in your browser.</source>
+          <target state="new">Open <bpt id="fc263e16-6465-47f2-9e8c-631d9535f425">&lt;code&gt;</bpt>http://localhost:8000<ept id="fc263e16-6465-47f2-9e8c-631d9535f425">&lt;/code&gt;</ept> in your browser.</target>
+        </trans-unit>
+      </group>
+    </body>
+  </file>
+</xliff>

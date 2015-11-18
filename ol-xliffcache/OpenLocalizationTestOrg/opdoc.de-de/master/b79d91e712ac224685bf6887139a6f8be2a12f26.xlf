@@ -1,0 +1,273 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<xliff version="1.2" xmlns="urn:oasis:names:tc:xliff:document:1.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:oasis:names:tc:xliff:document:1.2 xliff-core-1.2-transitional.xsd">
+  <file datatype="xml" source-language="en-us" target-language="de-de" original="foo.file" tool-id="e0111278-67af-4cb6-aab5-085cc41a9bfa" product-name="foo" product-version="1.0" build-num="1">
+    <header>
+      <tool tool-id="e0111278-67af-4cb6-aab5-085cc41a9bfa" tool-name="MarkdownToXliff" tool-version="1.0" tool-company="Microsoft" />
+      <olfilehash xmlns="">b79d91e712ac224685bf6887139a6f8be2a12f26</olfilehash>
+    </header>
+    <body>
+      <group id="85c51539-3f83-4078-91d2-88e7387b4383">
+        <trans-unit id="6feb7618-4fcd-4607-919c-d2a8a394c62d" xml:space="preserve">
+          <source>Provisioning the GIT repos - (VSC task)</source>
+          <target state="new">Provisioning the GIT repos - (VSC task)</target>
+        </trans-unit>
+        <trans-unit id="2045ea36-aca0-4450-8720-0b7284a7c24e" xml:space="preserve">
+          <source>After all the following steps are completed, Open Publishing will automatically build and publish the updated content from a monitored docset to MSDN, TechNet, or VS.com web sites.</source>
+          <target state="new">After all the following steps are completed, Open Publishing will automatically build and publish the updated content from a monitored docset to MSDN, TechNet, or VS.com web sites.</target>
+        </trans-unit>
+        <trans-unit id="bf493408-0e20-431c-9cec-e151480ec72c" xml:space="preserve">
+          <source>You should have got from the partner the information listed in the <bpt id="6fd31165-df76-412a-afa1-e60c0f47e836CapsExtId1">&lt;linkText&gt;</bpt>repo creation page<ept id="6fd31165-df76-412a-afa1-e60c0f47e836CapsExtId1">&lt;/linkText&gt;</ept><bpt id="6fd31165-df76-412a-afa1-e60c0f47e836CapsExtId2">&lt;title&gt;</bpt><ept id="6fd31165-df76-412a-afa1-e60c0f47e836CapsExtId2">&lt;/title&gt;</ept></source>
+          <target state="new">You should have got from the partner the information listed in the <bpt id="6fd31165-df76-412a-afa1-e60c0f47e836CapsExtId1">&lt;linkText&gt;</bpt>repo creation page<ept id="6fd31165-df76-412a-afa1-e60c0f47e836CapsExtId1">&lt;/linkText&gt;</ept><bpt id="6fd31165-df76-412a-afa1-e60c0f47e836CapsExtId2">&lt;title&gt;</bpt><ept id="6fd31165-df76-412a-afa1-e60c0f47e836CapsExtId2">&lt;/title&gt;</ept></target>
+        </trans-unit>
+        <trans-unit id="cc0b1ca1-38b0-4fab-bba3-e237145f7a1a" xml:space="preserve">
+          <source>You can get a sample of the files to be added to the repo from this site.</source>
+          <target state="new">You can get a sample of the files to be added to the repo from this site.</target>
+        </trans-unit>
+        <trans-unit id="f131f28c-8184-44d9-b215-afd1adf975c4" xml:space="preserve">
+          <source>1. Making the repo an Open Publishing repo</source>
+          <target state="new">1. Making the repo an Open Publishing repo</target>
+        </trans-unit>
+        <trans-unit id="80fc66ba-56fb-4246-97cf-ebecd57ef264" xml:space="preserve">
+          <source>1.1. Adding the Publishing Service Configuration File: .openpublishing.publish.config.json</source>
+          <target state="new">1.1. Adding the Publishing Service Configuration File: .openpublishing.publish.config.json</target>
+        </trans-unit>
+        <trans-unit id="a0b94ff4-702b-4733-bba7-a251606f7334" xml:space="preserve">
+          <source>This file needs to be under the repository.</source>
+          <target state="new">This file needs to be under the repository.</target>
+        </trans-unit>
+        <trans-unit id="95513a60-dca4-4f61-9251-14e2887e4324" xml:space="preserve">
+          <source>This file tells Open Publishing how to build and publish the content found in the GIT repo.</source>
+          <target state="new">This file tells Open Publishing how to build and publish the content found in the GIT repo.</target>
+        </trans-unit>
+        <trans-unit id="a40994b3-6128-48d2-a479-5c6fad938a35" xml:space="preserve">
+          <source><bpt id="ef5806bd-0ef0-46a5-a7b2-d4297b8df2be">&lt;strong&gt;</bpt>build_entry_point<ept id="ef5806bd-0ef0-46a5-a7b2-d4297b8df2be">&lt;/strong&gt;</ept>: Indicate how to run the build.</source>
+          <target state="new"><bpt id="ef5806bd-0ef0-46a5-a7b2-d4297b8df2be">&lt;strong&gt;</bpt>build_entry_point<ept id="ef5806bd-0ef0-46a5-a7b2-d4297b8df2be">&lt;/strong&gt;</ept>: Indicate how to run the build.</target>
+        </trans-unit>
+        <trans-unit id="4a0a1ab8-3074-4dfc-b32f-2576effadc8b" xml:space="preserve">
+          <source>User can either use the build tool OP provides or use their own tools to build the content.</source>
+          <target state="new">User can either use the build tool OP provides or use their own tools to build the content.</target>
+        </trans-unit>
+        <trans-unit id="8002dc6e-fb2d-4fae-9423-1142d827ab9c" xml:space="preserve">
+          <source><bpt id="3efa28b7-42f3-4498-98f5-45a404358343">&lt;strong&gt;</bpt>docsets_to_publish<ept id="3efa28b7-42f3-4498-98f5-45a404358343">&lt;/strong&gt;</ept>: A collection of docsets that need to be published.</source>
+          <target state="new"><bpt id="3efa28b7-42f3-4498-98f5-45a404358343">&lt;strong&gt;</bpt>docsets_to_publish<ept id="3efa28b7-42f3-4498-98f5-45a404358343">&lt;/strong&gt;</ept>: A collection of docsets that need to be published.</target>
+        </trans-unit>
+        <trans-unit id="c489f67c-eb12-4e29-93aa-6b54c6811107" xml:space="preserve">
+          <source><bpt id="887467d7-d563-48ea-a922-7ea21c0c9e59">&lt;strong&gt;</bpt>docset_name<ept id="887467d7-d563-48ea-a922-7ea21c0c9e59">&lt;/strong&gt;</ept> - Provide the name of the docset.</source>
+          <target state="new"><bpt id="887467d7-d563-48ea-a922-7ea21c0c9e59">&lt;strong&gt;</bpt>docset_name<ept id="887467d7-d563-48ea-a922-7ea21c0c9e59">&lt;/strong&gt;</ept> - Provide the name of the docset.</target>
+        </trans-unit>
+        <trans-unit id="dfae447b-54a8-4179-ba2d-d2aeb4167296" xml:space="preserve">
+          <source>This docset need to provisioned on portal at first, otherwise the content under the docset won't be published.</source>
+          <target state="new">This docset need to provisioned on portal at first, otherwise the content under the docset won't be published.</target>
+        </trans-unit>
+        <trans-unit id="baae14ed-cb69-422c-8f1d-89a5baf724f2" xml:space="preserve">
+          <source>For different docsets the names should be different.</source>
+          <target state="new">For different docsets the names should be different.</target>
+        </trans-unit>
+        <trans-unit id="9af6381c-18f1-47c5-8ffd-f45f998b5da6" xml:space="preserve">
+          <source>For docsets that just different in locale or version, the name should be same.</source>
+          <target state="new">For docsets that just different in locale or version, the name should be same.</target>
+        </trans-unit>
+        <trans-unit id="7b06cda6-942e-4fc7-b3f8-a46ac06d918e" xml:space="preserve">
+          <source>Otherwise, the fallback logic won't work.</source>
+          <target state="new">Otherwise, the fallback logic won't work.</target>
+        </trans-unit>
+        <trans-unit id="f3838ac7-0cc0-4bda-9881-19dc64e92aa6" xml:space="preserve">
+          <source><bpt id="4b59aaf4-969a-4fd2-a795-53090cde2277">&lt;strong&gt;</bpt>"build_output_subfolder"<ept id="4b59aaf4-969a-4fd2-a795-53090cde2277">&lt;/strong&gt;</ept> - The relative output sub folder of build tool.</source>
+          <target state="new"><bpt id="4b59aaf4-969a-4fd2-a795-53090cde2277">&lt;strong&gt;</bpt>"build_output_subfolder"<ept id="4b59aaf4-969a-4fd2-a795-53090cde2277">&lt;/strong&gt;</ept> - The relative output sub folder of build tool.</target>
+        </trans-unit>
+        <trans-unit id="d06f65f8-289b-43ad-99b9-79518d2cd8d6" xml:space="preserve">
+          <source>Content that has been built will be put there.</source>
+          <target state="new">Content that has been built will be put there.</target>
+        </trans-unit>
+        <trans-unit id="437c4fbc-801d-421c-8490-76b4ceb5ef7b" xml:space="preserve">
+          <source>Only content under that folder will be published.</source>
+          <target state="new">Only content under that folder will be published.</target>
+        </trans-unit>
+        <trans-unit id="e416c8f1-dd09-4d63-ae62-ce950d7e6823" xml:space="preserve">
+          <source>So this value depends on the build tools.</source>
+          <target state="new">So this value depends on the build tools.</target>
+        </trans-unit>
+        <trans-unit id="8cb1e978-2894-42d8-8a01-4dc96244f58c" xml:space="preserve">
+          <source><bpt id="dd7921e4-e67e-4edb-ae9e-1e08370b537c">&lt;strong&gt;</bpt>version<ept id="dd7921e4-e67e-4edb-ae9e-1e08370b537c">&lt;/strong&gt;</ept> - Version of current content.</source>
+          <target state="new"><bpt id="dd7921e4-e67e-4edb-ae9e-1e08370b537c">&lt;strong&gt;</bpt>version<ept id="dd7921e4-e67e-4edb-ae9e-1e08370b537c">&lt;/strong&gt;</ept> - Version of current content.</target>
+        </trans-unit>
+        <trans-unit id="4a092e66-a4ad-4e69-99bf-b245c86130db" xml:space="preserve">
+          <source>Start from 0.</source>
+          <target state="new">Start from 0.</target>
+        </trans-unit>
+        <trans-unit id="ce18c87c-2c65-4451-a460-4cf2a9624f4d" xml:space="preserve">
+          <source><bpt id="d031f415-60f5-41d3-a99c-a2e9d1d0d407">&lt;strong&gt;</bpt>locale<ept id="d031f415-60f5-41d3-a99c-a2e9d1d0d407">&lt;/strong&gt;</ept> - Just leave it as 'en-us' as localized repos are created/configured using the <bpt id="03add1c1-79a8-4372-bbcf-78f7de3a6aaeCapsExtId1">&lt;linkText&gt;</bpt>.localization-config file<ept id="03add1c1-79a8-4372-bbcf-78f7de3a6aaeCapsExtId1">&lt;/linkText&gt;</ept><bpt id="03add1c1-79a8-4372-bbcf-78f7de3a6aaeCapsExtId2">&lt;title&gt;</bpt><ept id="03add1c1-79a8-4372-bbcf-78f7de3a6aaeCapsExtId2">&lt;/title&gt;</ept>.</source>
+          <target state="new"><bpt id="d031f415-60f5-41d3-a99c-a2e9d1d0d407">&lt;strong&gt;</bpt>locale<ept id="d031f415-60f5-41d3-a99c-a2e9d1d0d407">&lt;/strong&gt;</ept> - Just leave it as 'en-us' as localized repos are created/configured using the <bpt id="03add1c1-79a8-4372-bbcf-78f7de3a6aaeCapsExtId1">&lt;linkText&gt;</bpt>.localization-config file<ept id="03add1c1-79a8-4372-bbcf-78f7de3a6aaeCapsExtId1">&lt;/linkText&gt;</ept><bpt id="03add1c1-79a8-4372-bbcf-78f7de3a6aaeCapsExtId2">&lt;title&gt;</bpt><ept id="03add1c1-79a8-4372-bbcf-78f7de3a6aaeCapsExtId2">&lt;/title&gt;</ept>.</target>
+        </trans-unit>
+        <trans-unit id="a9ffa52a-55b7-45b6-86dc-e7df691e3bbd" xml:space="preserve">
+          <source><bpt id="300916d9-12ee-4574-ae2d-7998d0318fb3">&lt;strong&gt;</bpt>open_to_public_contributors<ept id="300916d9-12ee-4574-ae2d-7998d0318fb3">&lt;/strong&gt;</ept></source>
+          <target state="new"><bpt id="300916d9-12ee-4574-ae2d-7998d0318fb3">&lt;strong&gt;</bpt>open_to_public_contributors<ept id="300916d9-12ee-4574-ae2d-7998d0318fb3">&lt;/strong&gt;</ept></target>
+        </trans-unit>
+        <trans-unit id="5a185ec2-f10e-4365-b85a-d8391a9a5de4" xml:space="preserve">
+          <source>Set to true if you want your customers to contribute to the content.</source>
+          <target state="new">Set to true if you want your customers to contribute to the content.</target>
+        </trans-unit>
+        <trans-unit id="6bec0572-b392-4465-854d-3d4468072692" xml:space="preserve">
+          <source>Set to false if you do not want your customers to contribute to the content.</source>
+          <target state="new">Set to false if you do not want your customers to contribute to the content.</target>
+        </trans-unit>
+        <trans-unit id="da0d2469-3941-4798-aaf4-2a31b92542fc" xml:space="preserve">
+          <source><bpt id="39579274-a440-4a94-ac7a-02841da7cdb2">&lt;strong&gt;</bpt>notification_subscribers<ept id="39579274-a440-4a94-ac7a-02841da7cdb2">&lt;/strong&gt;</ept> - Provide the email array of some ones who want to receive the notification.</source>
+          <target state="new"><bpt id="39579274-a440-4a94-ac7a-02841da7cdb2">&lt;strong&gt;</bpt>notification_subscribers<ept id="39579274-a440-4a94-ac7a-02841da7cdb2">&lt;/strong&gt;</ept> - Provide the email array of some ones who want to receive the notification.</target>
+        </trans-unit>
+        <trans-unit id="8cc9a951-1461-4b32-8af4-98f3af81b8c3" xml:space="preserve">
+          <source><bpt id="6e41bb8e-d8b1-4e91-b278-8d70cea9ecfc">&lt;strong&gt;</bpt>branches_to_filter<ept id="6e41bb8e-d8b1-4e91-b278-8d70cea9ecfc">&lt;/strong&gt;</ept> - Provide the branch array which will won't be monitored by OP build and publish.</source>
+          <target state="new"><bpt id="6e41bb8e-d8b1-4e91-b278-8d70cea9ecfc">&lt;strong&gt;</bpt>branches_to_filter<ept id="6e41bb8e-d8b1-4e91-b278-8d70cea9ecfc">&lt;/strong&gt;</ept> - Provide the branch array which will won't be monitored by OP build and publish.</target>
+        </trans-unit>
+        <trans-unit id="ccdf358a-b82f-4f21-97e2-870a26b7838a" xml:space="preserve">
+          <source>1.2. Provisioning on the portal</source>
+          <target state="new">1.2. Provisioning on the portal</target>
+        </trans-unit>
+        <trans-unit id="258d2783-5361-4838-baed-16397e69c796" xml:space="preserve">
+          <source>Once you have the publish configuration file under the repository and make sure you also have the live branch contains that configuration file, go to <bpt id="735a6729-8d2e-4793-b8c1-7f439da0d947CapsExtId1">&lt;linkText&gt;</bpt>portal<ept id="735a6729-8d2e-4793-b8c1-7f439da0d947CapsExtId1">&lt;/linkText&gt;</ept><bpt id="735a6729-8d2e-4793-b8c1-7f439da0d947CapsExtId2">&lt;title&gt;</bpt><ept id="735a6729-8d2e-4793-b8c1-7f439da0d947CapsExtId2">&lt;/title&gt;</ept> to have the repo monitored.</source>
+          <target state="new">Once you have the publish configuration file under the repository and make sure you also have the live branch contains that configuration file, go to <bpt id="735a6729-8d2e-4793-b8c1-7f439da0d947CapsExtId1">&lt;linkText&gt;</bpt>portal<ept id="735a6729-8d2e-4793-b8c1-7f439da0d947CapsExtId1">&lt;/linkText&gt;</ept><bpt id="735a6729-8d2e-4793-b8c1-7f439da0d947CapsExtId2">&lt;title&gt;</bpt><ept id="735a6729-8d2e-4793-b8c1-7f439da0d947CapsExtId2">&lt;/title&gt;</ept> to have the repo monitored.</target>
+        </trans-unit>
+        <trans-unit id="7cf0eef5-88ac-4106-8c4d-689caf209e65" xml:space="preserve">
+          <source>Open Publishing portal will only parse the configuration file under live branch when doing provision.</source>
+          <target state="new">Open Publishing portal will only parse the configuration file under live branch when doing provision.</target>
+        </trans-unit>
+        <trans-unit id="d8cc8fe7-2178-4af8-9b5c-45feb907cd22" xml:space="preserve">
+          <source>"Base Path": It can be configured via the portal.</source>
+          <target state="new">"Base Path": It can be configured via the portal.</target>
+        </trans-unit>
+        <trans-unit id="d46493f1-8785-4f75-b282-e1ebac5694c2" xml:space="preserve">
+          <source>This field would be the common base path for all the topics in this docset, and is eventually part of the rendering URL.</source>
+          <target state="new">This field would be the common base path for all the topics in this docset, and is eventually part of the rendering URL.</target>
+        </trans-unit>
+        <trans-unit id="9de1b4ef-149b-4f38-be91-971a176d10b7" xml:space="preserve">
+          <source>2. Adding the Build Tools Configuration</source>
+          <target state="new">2. Adding the Build Tools Configuration</target>
+        </trans-unit>
+        <trans-unit id="a4277f58-7d1b-4832-acf2-925e92ba43c0" xml:space="preserve">
+          <source>The Open Publishing service provides the entry point for how to build the content.</source>
+          <target state="new">The Open Publishing service provides the entry point for how to build the content.</target>
+        </trans-unit>
+        <trans-unit id="36239cb3-19eb-4359-83ee-899c447ccc53" xml:space="preserve">
+          <source>Users can either use their own build tools or use the build tool provided by Open Publishing service.</source>
+          <target state="new">Users can either use their own build tools or use the build tool provided by Open Publishing service.</target>
+        </trans-unit>
+        <trans-unit id="aecf1a87-cbb1-403f-8d3f-6c9577c139ee" xml:space="preserve">
+          <source>Open Publishing currently has two build tools.</source>
+          <target state="new">Open Publishing currently has two build tools.</target>
+        </trans-unit>
+        <trans-unit id="8f2cbb93-38cc-48fe-834b-d2900cb93750" xml:space="preserve">
+          <source>The first build tool only has a simple function to build Markdown content.</source>
+          <target state="new">The first build tool only has a simple function to build Markdown content.</target>
+        </trans-unit>
+        <trans-unit id="98841562-fa66-4887-8bba-884a975f529d" xml:space="preserve">
+          <source>The is a powerful build tool called DocasCode (link will follow).</source>
+          <target state="new">The is a powerful build tool called DocasCode (link will follow).</target>
+        </trans-unit>
+        <trans-unit id="0e8902d7-887e-43e9-acad-bb7ae6786dc8" xml:space="preserve">
+          <source>In addition to Markdown it can build documentation from specific language source code.</source>
+          <target state="new">In addition to Markdown it can build documentation from specific language source code.</target>
+        </trans-unit>
+        <trans-unit id="d11c8714-4fd1-48ab-8097-dd86d8a8d144" xml:space="preserve">
+          <source>2.1 Assign the build tools provided by Open Publishing</source>
+          <target state="new">2.1 Assign the build tools provided by Open Publishing</target>
+        </trans-unit>
+        <trans-unit id="bd642e78-c769-49d1-abba-b25912940a37" xml:space="preserve">
+          <source>2.1.1 Simple Build Tool for Markdown</source>
+          <target state="new">2.1.1 Simple Build Tool for Markdown</target>
+        </trans-unit>
+        <trans-unit id="dcddd8eb-930b-46e1-94ec-680c07a134e1" xml:space="preserve">
+          <source>Two files need to be added under the repository folder <bpt id="ee971caf-d8ce-42ac-bde9-5a916b9b1111">&lt;strong&gt;</bpt>Tools/Nuget<ept id="ee971caf-d8ce-42ac-bde9-5a916b9b1111">&lt;/strong&gt;</ept>.</source>
+          <target state="new">Two files need to be added under the repository folder <bpt id="ee971caf-d8ce-42ac-bde9-5a916b9b1111">&lt;strong&gt;</bpt>Tools/Nuget<ept id="ee971caf-d8ce-42ac-bde9-5a916b9b1111">&lt;/strong&gt;</ept>.</target>
+        </trans-unit>
+        <trans-unit id="881d8a99-30ea-4d2f-8aaf-668e8bf82c71" xml:space="preserve">
+          <source>They are <bpt id="9fd80955-3740-4805-bfee-9a909fc797c7CapsExtId1">&lt;linkText&gt;</bpt>Nuget.Config<ept id="9fd80955-3740-4805-bfee-9a909fc797c7CapsExtId1">&lt;/linkText&gt;</ept><bpt id="9fd80955-3740-4805-bfee-9a909fc797c7CapsExtId2">&lt;title&gt;</bpt><ept id="9fd80955-3740-4805-bfee-9a909fc797c7CapsExtId2">&lt;/title&gt;</ept> and <bpt id="270bccd1-8975-443f-b04d-cff7df54a270CapsExtId1">&lt;linkText&gt;</bpt>nuget.exe<ept id="270bccd1-8975-443f-b04d-cff7df54a270CapsExtId1">&lt;/linkText&gt;</ept><bpt id="270bccd1-8975-443f-b04d-cff7df54a270CapsExtId2">&lt;title&gt;</bpt><ept id="270bccd1-8975-443f-b04d-cff7df54a270CapsExtId2">&lt;/title&gt;</ept>.</source>
+          <target state="new">They are <bpt id="9fd80955-3740-4805-bfee-9a909fc797c7CapsExtId1">&lt;linkText&gt;</bpt>Nuget.Config<ept id="9fd80955-3740-4805-bfee-9a909fc797c7CapsExtId1">&lt;/linkText&gt;</ept><bpt id="9fd80955-3740-4805-bfee-9a909fc797c7CapsExtId2">&lt;title&gt;</bpt><ept id="9fd80955-3740-4805-bfee-9a909fc797c7CapsExtId2">&lt;/title&gt;</ept> and <bpt id="270bccd1-8975-443f-b04d-cff7df54a270CapsExtId1">&lt;linkText&gt;</bpt>nuget.exe<ept id="270bccd1-8975-443f-b04d-cff7df54a270CapsExtId1">&lt;/linkText&gt;</ept><bpt id="270bccd1-8975-443f-b04d-cff7df54a270CapsExtId2">&lt;title&gt;</bpt><ept id="270bccd1-8975-443f-b04d-cff7df54a270CapsExtId2">&lt;/title&gt;</ept>.</target>
+        </trans-unit>
+        <trans-unit id="0ed163c8-dfc2-4d14-9e7e-1259f498eba1" xml:space="preserve">
+          <source>Some global build configuration files need to be added at the root of the repository.</source>
+          <target state="new">Some global build configuration files need to be added at the root of the repository.</target>
+        </trans-unit>
+        <trans-unit id="071acc5a-18d6-4fb0-8132-34fc07cac302" xml:space="preserve">
+          <source><bpt id="2db32ac6-7211-406c-9726-c13eed27d085">&lt;strong&gt;</bpt>.openpublishing.build.config.json<ept id="2db32ac6-7211-406c-9726-c13eed27d085">&lt;/strong&gt;</ept>: Tells build tool how many docsets to build.</source>
+          <target state="new"><bpt id="2db32ac6-7211-406c-9726-c13eed27d085">&lt;strong&gt;</bpt>.openpublishing.build.config.json<ept id="2db32ac6-7211-406c-9726-c13eed27d085">&lt;/strong&gt;</ept>: Tells build tool how many docsets to build.</target>
+        </trans-unit>
+        <trans-unit id="66d10709-3d3d-4e52-95ce-4f9ee0ba2b8a" xml:space="preserve">
+          <source>Two corresponding docset configuration file should be also added to each  docset:</source>
+          <target state="new">Two corresponding docset configuration file should be also added to each  docset:</target>
+        </trans-unit>
+        <trans-unit id="3d7aecce-9704-40ad-9803-a483426b6522" xml:space="preserve">
+          <source><bpt id="13618c92-ee62-4b52-bc36-76d044d4b03c">&lt;strong&gt;</bpt>.openpublish.build.docset.json<ept id="13618c92-ee62-4b52-bc36-76d044d4b03c">&lt;/strong&gt;</ept></source>
+          <target state="new"><bpt id="13618c92-ee62-4b52-bc36-76d044d4b03c">&lt;strong&gt;</bpt>.openpublish.build.docset.json<ept id="13618c92-ee62-4b52-bc36-76d044d4b03c">&lt;/strong&gt;</ept></target>
+        </trans-unit>
+        <trans-unit id="be3c3d11-59c6-46a2-9925-46c9ff7825a1" xml:space="preserve">
+          <source><bpt id="df76cfe6-9b9f-4ce6-b4b7-502142479e1f">&lt;strong&gt;</bpt>toc_file<ept id="df76cfe6-9b9f-4ce6-b4b7-502142479e1f">&lt;/strong&gt;</ept>: Points to the location of the curerent docset file, in general, "TOC.md".</source>
+          <target state="new"><bpt id="df76cfe6-9b9f-4ce6-b4b7-502142479e1f">&lt;strong&gt;</bpt>toc_file<ept id="df76cfe6-9b9f-4ce6-b4b7-502142479e1f">&lt;/strong&gt;</ept>: Points to the location of the curerent docset file, in general, "TOC.md".</target>
+        </trans-unit>
+        <trans-unit id="ed1e6f44-c400-4732-9c09-439fda6e820e" xml:space="preserve">
+          <source><bpt id="b5a25255-1511-4d20-b1b4-5f42954ebffd">&lt;strong&gt;</bpt>exclude_path_patterns<ept id="b5a25255-1511-4d20-b1b4-5f42954ebffd">&lt;/strong&gt;</ept> - specify file extensions of files you would like the build to ignore.</source>
+          <target state="new"><bpt id="b5a25255-1511-4d20-b1b4-5f42954ebffd">&lt;strong&gt;</bpt>exclude_path_patterns<ept id="b5a25255-1511-4d20-b1b4-5f42954ebffd">&lt;/strong&gt;</ept> - specify file extensions of files you would like the build to ignore.</target>
+        </trans-unit>
+        <trans-unit id="906ed38c-6a81-4664-9946-8d28d367aade" xml:space="preserve">
+          <source>Example: [ "*.vsdx" ]</source>
+          <target state="new">Example: [ "*.vsdx" ]</target>
+        </trans-unit>
+        <trans-unit id="c6acfcf7-38f3-474d-99b2-b18e576470ef" xml:space="preserve">
+          <source><bpt id="9a558004-6a3a-4643-aae1-a7d065965f7c">&lt;strong&gt;</bpt>common_metadata<ept id="9a558004-6a3a-4643-aae1-a7d065965f7c">&lt;/strong&gt;</ept> - Metadata supported  so far:</source>
+          <target state="new"><bpt id="9a558004-6a3a-4643-aae1-a7d065965f7c">&lt;strong&gt;</bpt>common_metadata<ept id="9a558004-6a3a-4643-aae1-a7d065965f7c">&lt;/strong&gt;</ept> - Metadata supported  so far:</target>
+        </trans-unit>
+        <trans-unit id="89400201-e799-4469-8be3-b2cdc5823a53" xml:space="preserve">
+          <source>"ROBOTS": "NOINDEX, NOFOLLOW"</source>
+          <target state="new">"ROBOTS": "NOINDEX, NOFOLLOW"</target>
+        </trans-unit>
+        <trans-unit id="2957296a-3b53-4692-be2f-3c84497076a6" xml:space="preserve">
+          <source><bpt id="00c6c294-aaf9-4df0-ae3b-068112b61582">&lt;em&gt;</bpt>*make sure to add Robots = Index and Follow to get the content indexed *<ept id="00c6c294-aaf9-4df0-ae3b-068112b61582">&lt;/em&gt;</ept></source>
+          <target state="new"><bpt id="00c6c294-aaf9-4df0-ae3b-068112b61582">&lt;em&gt;</bpt>*make sure to add Robots = Index and Follow to get the content indexed *<ept id="00c6c294-aaf9-4df0-ae3b-068112b61582">&lt;/em&gt;</ept></target>
+        </trans-unit>
+        <trans-unit id="c755db47-8600-4f98-82b4-f2e2172551f4" xml:space="preserve">
+          <source><bpt id="388f59bc-967c-48e9-aa06-531757e817f4CapsExtId1">&lt;linkText&gt;</bpt>TOC.md<ept id="388f59bc-967c-48e9-aa06-531757e817f4CapsExtId1">&lt;/linkText&gt;</ept><bpt id="388f59bc-967c-48e9-aa06-531757e817f4CapsExtId2">&lt;title&gt;</bpt><ept id="388f59bc-967c-48e9-aa06-531757e817f4CapsExtId2">&lt;/title&gt;</ept></source>
+          <target state="new"><bpt id="388f59bc-967c-48e9-aa06-531757e817f4CapsExtId1">&lt;linkText&gt;</bpt>TOC.md<ept id="388f59bc-967c-48e9-aa06-531757e817f4CapsExtId1">&lt;/linkText&gt;</ept><bpt id="388f59bc-967c-48e9-aa06-531757e817f4CapsExtId2">&lt;title&gt;</bpt><ept id="388f59bc-967c-48e9-aa06-531757e817f4CapsExtId2">&lt;/title&gt;</ept></target>
+        </trans-unit>
+        <trans-unit id="8755d4d9-a516-48df-9228-956d22c51a51" xml:space="preserve">
+          <source><bpt id="5650ef22-2adf-4b94-9c3a-ab455ec7975a">&lt;strong&gt;</bpt>.openpublishing.build.mdproj<ept id="5650ef22-2adf-4b94-9c3a-ab455ec7975a">&lt;/strong&gt;</ept>: The build target of msbuild.</source>
+          <target state="new"><bpt id="5650ef22-2adf-4b94-9c3a-ab455ec7975a">&lt;strong&gt;</bpt>.openpublishing.build.mdproj<ept id="5650ef22-2adf-4b94-9c3a-ab455ec7975a">&lt;/strong&gt;</ept>: The build target of msbuild.</target>
+        </trans-unit>
+        <trans-unit id="00203b5b-30ea-4a4c-a04a-f0338253e62d" xml:space="preserve">
+          <source>User can also inject custom steps using msbuild language or just copy it from this repo to use that.</source>
+          <target state="new">User can also inject custom steps using msbuild language or just copy it from this repo to use that.</target>
+        </trans-unit>
+        <trans-unit id="3365314c-31d9-4dad-b00a-bacbea238f3b" xml:space="preserve">
+          <source><bpt id="a64fa545-8326-4ca7-98ab-619cdeb23dc4CapsExtId1">&lt;linkText&gt;</bpt>packages.config<ept id="a64fa545-8326-4ca7-98ab-619cdeb23dc4CapsExtId1">&lt;/linkText&gt;</ept><bpt id="a64fa545-8326-4ca7-98ab-619cdeb23dc4CapsExtId2">&lt;title&gt;</bpt><ept id="a64fa545-8326-4ca7-98ab-619cdeb23dc4CapsExtId2">&lt;/title&gt;</ept>: Indicates the version of build tool.</source>
+          <target state="new"><bpt id="a64fa545-8326-4ca7-98ab-619cdeb23dc4CapsExtId1">&lt;linkText&gt;</bpt>packages.config<ept id="a64fa545-8326-4ca7-98ab-619cdeb23dc4CapsExtId1">&lt;/linkText&gt;</ept><bpt id="a64fa545-8326-4ca7-98ab-619cdeb23dc4CapsExtId2">&lt;title&gt;</bpt><ept id="a64fa545-8326-4ca7-98ab-619cdeb23dc4CapsExtId2">&lt;/title&gt;</ept>: Indicates the version of build tool.</target>
+        </trans-unit>
+        <trans-unit id="4fc6fad5-9d06-4ab3-a7e6-3b09b3d74c38" xml:space="preserve">
+          <source>Tool with different versions will have different capabilities.</source>
+          <target state="new">Tool with different versions will have different capabilities.</target>
+        </trans-unit>
+        <trans-unit id="782ded89-a924-4cf0-a0f5-9e7611f7f9fb" xml:space="preserve">
+          <source>By default, the latest version will always be used.</source>
+          <target state="new">By default, the latest version will always be used.</target>
+        </trans-unit>
+        <trans-unit id="3e98b717-6f7d-48f3-ad8e-5f29c935f67f" xml:space="preserve">
+          <source>However, if you user like to use a previous version (they might not need all the functionality that is available and might make your build slower), then they can specify the version here.</source>
+          <target state="new">However, if you user like to use a previous version (they might not need all the functionality that is available and might make your build slower), then they can specify the version here.</target>
+        </trans-unit>
+        <trans-unit id="a9e30e96-7f31-42c9-9a7e-1535649984a9" xml:space="preserve">
+          <source>The engineering team will maintain a list of all the packages available and main features for each.</source>
+          <target state="new">The engineering team will maintain a list of all the packages available and main features for each.</target>
+        </trans-unit>
+        <trans-unit id="017385b8-615d-4e36-a4d5-2af4387f19be" xml:space="preserve">
+          <source>2.1.2 <bpt id="289b21fc-ab56-4d0f-9cbb-525e79e021ba">&lt;strong&gt;</bpt>DocasCode<ept id="289b21fc-ab56-4d0f-9cbb-525e79e021ba">&lt;/strong&gt;</ept></source>
+          <target state="new">2.1.2 <bpt id="289b21fc-ab56-4d0f-9cbb-525e79e021ba">&lt;strong&gt;</bpt>DocasCode<ept id="289b21fc-ab56-4d0f-9cbb-525e79e021ba">&lt;/strong&gt;</ept></target>
+        </trans-unit>
+        <trans-unit id="f0ae3186-0650-4370-819e-5ef00bf4e76b" xml:space="preserve">
+          <source>- Coming Soon~</source>
+          <target state="new">- Coming Soon~</target>
+        </trans-unit>
+        <trans-unit id="13454e41-7f57-49d3-a2fe-1e4d3a428644" xml:space="preserve">
+          <source>2.2. How to use the external tool to build the markdown content</source>
+          <target state="new">2.2. How to use the external tool to build the markdown content</target>
+        </trans-unit>
+      </group>
+    </body>
+  </file>
+</xliff>

@@ -1,0 +1,265 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<xliff version="1.2" xmlns="urn:oasis:names:tc:xliff:document:1.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:oasis:names:tc:xliff:document:1.2 xliff-core-1.2-transitional.xsd">
+  <file datatype="xml" source-language="en-us" target-language="de-de" original="foo.file" tool-id="b480bb20-866c-4abe-8dfd-dcabea20dbce" product-name="foo" product-version="1.0" build-num="1">
+    <header>
+      <tool tool-id="b480bb20-866c-4abe-8dfd-dcabea20dbce" tool-name="MarkdownToXliff" tool-version="1.0" tool-company="Microsoft" />
+      <olfilehash xmlns="">f50391fcf03fb1610fdd777f40d1cd7f003ff65e</olfilehash>
+    </header>
+    <body>
+      <group id="fdb5f728-9949-4dee-95d0-824ecd76f05b">
+        <trans-unit id="6bce8e77-584b-402f-9862-c4e40e0ad2ad" xml:space="preserve">
+          <source>Creating the GIT repos</source>
+          <target state="new">Creating the GIT repos</target>
+        </trans-unit>
+        <trans-unit id="61b762af-f55e-4df9-bcbe-97f04aabd806" xml:space="preserve">
+          <source>It is the content owner's responsibility to create the GIT repos and provide the right permissions to the users to access them.</source>
+          <target state="new">It is the content owner's responsibility to create the GIT repos and provide the right permissions to the users to access them.</target>
+        </trans-unit>
+        <trans-unit id="141dcf96-400e-416b-9065-1b1f054c3f8b" xml:space="preserve">
+          <source>A GIT repo is either GitHub or Visual Studio Online.</source>
+          <target state="new">A GIT repo is either GitHub or Visual Studio Online.</target>
+        </trans-unit>
+        <trans-unit id="630ada41-9de7-4104-8dc7-a1258a3c7ed6" xml:space="preserve">
+          <source>If you are not familiar with GitHub, check out a summary of <bpt id="4bea84b7-be1b-4b8b-8124-08c168b75914CapsExtId1">&lt;linkText&gt;</bpt>GitHub terminology<ept id="4bea84b7-be1b-4b8b-8124-08c168b75914CapsExtId1">&lt;/linkText&gt;</ept><bpt id="4bea84b7-be1b-4b8b-8124-08c168b75914CapsExtId2">&lt;title&gt;</bpt><ept id="4bea84b7-be1b-4b8b-8124-08c168b75914CapsExtId2">&lt;/title&gt;</ept> used in this documentation as well as the <bpt id="7c50f17c-4b7c-4f9f-b022-dae525fd7a4bCapsExtId1">&lt;linkText&gt;</bpt>GitHub tutorials<ept id="7c50f17c-4b7c-4f9f-b022-dae525fd7a4bCapsExtId1">&lt;/linkText&gt;</ept><bpt id="7c50f17c-4b7c-4f9f-b022-dae525fd7a4bCapsExtId2">&lt;title&gt;</bpt><ept id="7c50f17c-4b7c-4f9f-b022-dae525fd7a4bCapsExtId2">&lt;/title&gt;</ept></source>
+          <target state="new">If you are not familiar with GitHub, check out a summary of <bpt id="4bea84b7-be1b-4b8b-8124-08c168b75914CapsExtId1">&lt;linkText&gt;</bpt>GitHub terminology<ept id="4bea84b7-be1b-4b8b-8124-08c168b75914CapsExtId1">&lt;/linkText&gt;</ept><bpt id="4bea84b7-be1b-4b8b-8124-08c168b75914CapsExtId2">&lt;title&gt;</bpt><ept id="4bea84b7-be1b-4b8b-8124-08c168b75914CapsExtId2">&lt;/title&gt;</ept> used in this documentation as well as the <bpt id="7c50f17c-4b7c-4f9f-b022-dae525fd7a4bCapsExtId1">&lt;linkText&gt;</bpt>GitHub tutorials<ept id="7c50f17c-4b7c-4f9f-b022-dae525fd7a4bCapsExtId1">&lt;/linkText&gt;</ept><bpt id="7c50f17c-4b7c-4f9f-b022-dae525fd7a4bCapsExtId2">&lt;title&gt;</bpt><ept id="7c50f17c-4b7c-4f9f-b022-dae525fd7a4bCapsExtId2">&lt;/title&gt;</ept></target>
+        </trans-unit>
+        <trans-unit id="42034cb5-9ee7-4ba6-bc5a-ebed7905b0f0" xml:space="preserve">
+          <source>For GitHub repository setup, follow the <bpt id="017f0232-5dbe-4d11-92cc-bf99b9d5f97bCapsExtId1">&lt;linkText&gt;</bpt>GitHub tutorials<ept id="017f0232-5dbe-4d11-92cc-bf99b9d5f97bCapsExtId1">&lt;/linkText&gt;</ept><bpt id="017f0232-5dbe-4d11-92cc-bf99b9d5f97bCapsExtId2">&lt;title&gt;</bpt><ept id="017f0232-5dbe-4d11-92cc-bf99b9d5f97bCapsExtId2">&lt;/title&gt;</ept>.</source>
+          <target state="new">For GitHub repository setup, follow the <bpt id="017f0232-5dbe-4d11-92cc-bf99b9d5f97bCapsExtId1">&lt;linkText&gt;</bpt>GitHub tutorials<ept id="017f0232-5dbe-4d11-92cc-bf99b9d5f97bCapsExtId1">&lt;/linkText&gt;</ept><bpt id="017f0232-5dbe-4d11-92cc-bf99b9d5f97bCapsExtId2">&lt;title&gt;</bpt><ept id="017f0232-5dbe-4d11-92cc-bf99b9d5f97bCapsExtId2">&lt;/title&gt;</ept>.</target>
+        </trans-unit>
+        <trans-unit id="678ae501-1b5d-4595-ae38-254e92c739e8" xml:space="preserve">
+          <source>For Visual Studio Online see (TBD).</source>
+          <target state="new">For Visual Studio Online see (TBD).</target>
+        </trans-unit>
+        <trans-unit id="c8da4ce1-3b99-469e-8e70-97fca5e23e76" xml:space="preserve">
+          <source>1. Create the repo</source>
+          <target state="new">1. Create the repo</target>
+        </trans-unit>
+        <trans-unit id="1be65636-d8c6-43ff-9f69-4260d2b3f51a" xml:space="preserve">
+          <source>The first step is to create a GIT repository.</source>
+          <target state="new">The first step is to create a GIT repository.</target>
+        </trans-unit>
+        <trans-unit id="321002fa-a544-41b1-a7ae-d3706d9f8652" xml:space="preserve">
+          <source>Make sure you add a readme.md file to the repo.</source>
+          <target state="new">Make sure you add a readme.md file to the repo.</target>
+        </trans-unit>
+        <trans-unit id="a527ee29-ec86-4736-a0f4-b2de4282e927" xml:space="preserve">
+          <source>You will need this file to tell your users how to contribute to the repo.</source>
+          <target state="new">You will need this file to tell your users how to contribute to the repo.</target>
+        </trans-unit>
+        <trans-unit id="db03f0b9-10b3-4dca-8d94-9f7461e0eaf5" xml:space="preserve">
+          <source>Decide whether the repo is going to be public or private.</source>
+          <target state="new">Decide whether the repo is going to be public or private.</target>
+        </trans-unit>
+        <trans-unit id="30bb1506-fae0-4746-a3bb-8503cfaf0a98" xml:space="preserve">
+          <source>1.1 GitHub Private vs. public repo</source>
+          <target state="new">1.1 GitHub Private vs. public repo</target>
+        </trans-unit>
+        <trans-unit id="cd9ff844-8162-4e60-9824-f2ae6d94a2fc" xml:space="preserve">
+          <source>If you do not want/need external contributions (i.e. external to Microsoft), you would need create a private repo.</source>
+          <target state="new">If you do not want/need external contributions (i.e. external to Microsoft), you would need create a private repo.</target>
+        </trans-unit>
+        <trans-unit id="2dded5d2-e151-4a6d-ad7c-5bde64a71aa7" xml:space="preserve">
+          <source>If you want/need external contributions (i.e. external to Microsoft), then you would need to create two repos: one public and one private.</source>
+          <target state="new">If you want/need external contributions (i.e. external to Microsoft), then you would need to create two repos: one public and one private.</target>
+        </trans-unit>
+        <trans-unit id="0e68cf62-1048-4375-bd6f-dd5026c3ff3d" xml:space="preserve">
+          <source>The private repo will contain the under development content, that is, the content that your customers cannot see.</source>
+          <target state="new">The private repo will contain the under development content, that is, the content that your customers cannot see.</target>
+        </trans-unit>
+        <trans-unit id="c11cb1f0-e993-4a4b-9477-88584f2dbdf3" xml:space="preserve">
+          <source>The public repo will contain the content that is widely available, which your customers can contribute to.</source>
+          <target state="new">The public repo will contain the content that is widely available, which your customers can contribute to.</target>
+        </trans-unit>
+        <trans-unit id="82861291-5f65-4936-9faa-b994a7615d58" xml:space="preserve">
+          <source>Note, even if you have not published you content live, anything in the public repo will be visible to external users.</source>
+          <target state="new">Note, even if you have not published you content live, anything in the public repo will be visible to external users.</target>
+        </trans-unit>
+        <trans-unit id="1c3a2fad-9577-4cd7-a9c6-f2fa61dfec96" xml:space="preserve">
+          <source>You can also create a private fork out of your private repo.</source>
+          <target state="new">You can also create a private fork out of your private repo.</target>
+        </trans-unit>
+        <trans-unit id="c2d8d981-bad8-48ab-bc47-c12454686408" xml:space="preserve">
+          <source>This <bpt id="baf5306d-d71a-4128-9c07-82ab861cd5c6CapsExtId1">&lt;linkText&gt;</bpt>article<ept id="baf5306d-d71a-4128-9c07-82ab861cd5c6CapsExtId1">&lt;/linkText&gt;</ept><bpt id="baf5306d-d71a-4128-9c07-82ab861cd5c6CapsExtId2">&lt;title&gt;</bpt><ept id="baf5306d-d71a-4128-9c07-82ab861cd5c6CapsExtId2">&lt;/title&gt;</ept> shows you how.</source>
+          <target state="new">This <bpt id="baf5306d-d71a-4128-9c07-82ab861cd5c6CapsExtId1">&lt;linkText&gt;</bpt>article<ept id="baf5306d-d71a-4128-9c07-82ab861cd5c6CapsExtId1">&lt;/linkText&gt;</ept><bpt id="baf5306d-d71a-4128-9c07-82ab861cd5c6CapsExtId2">&lt;title&gt;</bpt><ept id="baf5306d-d71a-4128-9c07-82ab861cd5c6CapsExtId2">&lt;/title&gt;</ept> shows you how.</target>
+        </trans-unit>
+        <trans-unit id="4bb80415-db58-439d-bd0a-0aceae7dbb9e" xml:space="preserve">
+          <source>If you create both kinds of repo (private and public), you need to manually synchronize your private repo to your public repo when you are ready to make the content available to your customers.</source>
+          <target state="new">If you create both kinds of repo (private and public), you need to manually synchronize your private repo to your public repo when you are ready to make the content available to your customers.</target>
+        </trans-unit>
+        <trans-unit id="565eba69-87b8-4f70-b1c6-8d3e89cc6ed3" xml:space="preserve">
+          <source>Here is a recommendation:</source>
+          <target state="new">Here is a recommendation:</target>
+        </trans-unit>
+        <trans-unit id="985bb390-1bfd-4891-8990-4d6a5717d923" xml:space="preserve">
+          <source>Pull the changes made in the public repo into a local branch of the private repo.</source>
+          <target state="new">Pull the changes made in the public repo into a local branch of the private repo.</target>
+        </trans-unit>
+        <trans-unit id="e2a2fdf2-b1de-4e0a-909c-c64c974b3147" xml:space="preserve">
+          <source>Fix any merge conflicts and submit a pull request to the (master)(GitHub-terminology.md) branch in the private repo.</source>
+          <target state="new">Fix any merge conflicts and submit a pull request to the (master)(GitHub-terminology.md) branch in the private repo.</target>
+        </trans-unit>
+        <trans-unit id="a65d8acf-5992-4d4c-a60b-c1b48d8c98ce" xml:space="preserve">
+          <source>Once the pull request passes validation, merge it to the master branch in the private repo.</source>
+          <target state="new">Once the pull request passes validation, merge it to the master branch in the private repo.</target>
+        </trans-unit>
+        <trans-unit id="9707819a-67bf-4323-93c1-3de9ec407c7d" xml:space="preserve">
+          <source>Create a pull request to add the info from the private repo into the public repo.</source>
+          <target state="new">Create a pull request to add the info from the private repo into the public repo.</target>
+        </trans-unit>
+        <trans-unit id="fafe7b1e-4130-4d21-a23e-9782cb280292" xml:space="preserve">
+          <source>Revolve any conficts.</source>
+          <target state="new">Revolve any conficts.</target>
+        </trans-unit>
+        <trans-unit id="43195ff5-c359-4d0f-89de-ab78c010db60" xml:space="preserve">
+          <source>Once the two repos have synced, you can publish the content you merged in from the public repo.</source>
+          <target state="new">Once the two repos have synced, you can publish the content you merged in from the public repo.</target>
+        </trans-unit>
+        <trans-unit id="d309225a-56e3-44a0-b437-b18b566bcfa6" xml:space="preserve">
+          <source>As Open Publishing offers local preview, you can always pull changes from the public repo to your private repo to have a full view of your content.</source>
+          <target state="new">As Open Publishing offers local preview, you can always pull changes from the public repo to your private repo to have a full view of your content.</target>
+        </trans-unit>
+        <trans-unit id="2a103ba0-36ff-446f-b739-20748ee040b1" xml:space="preserve">
+          <source>The following two images show a graphical view of the recommended workflow.</source>
+          <target state="new">The following two images show a graphical view of the recommended workflow.</target>
+        </trans-unit>
+        <trans-unit id="38b8d412-023c-4daf-9893-13f78e4409c5" xml:space="preserve">
+          <source>Note this is only added here for your reference.</source>
+          <target state="new">Note this is only added here for your reference.</target>
+        </trans-unit>
+        <trans-unit id="b8ecbcd5-342c-4e0f-a27f-6378fcb95180" xml:space="preserve">
+          <source>1.1.1 Internal contributions only workflow</source>
+          <target state="new">1.1.1 Internal contributions only workflow</target>
+        </trans-unit>
+        <trans-unit id="96cababa-b2f3-4a2b-97ea-eb6c82499e1c" xml:space="preserve">
+          <source><bpt id="812291e1-99cc-466b-bfbc-e4ee8e622805">&lt;linkText&gt;</bpt>Internal created content<ept id="812291e1-99cc-466b-bfbc-e4ee8e622805">&lt;/linkText&gt;</ept></source>
+          <target state="new"><bpt id="812291e1-99cc-466b-bfbc-e4ee8e622805">&lt;linkText&gt;</bpt>Internal created content<ept id="812291e1-99cc-466b-bfbc-e4ee8e622805">&lt;/linkText&gt;</ept></target>
+        </trans-unit>
+        <trans-unit id="3aa6cf28-6667-4dc0-a43d-1e52ce104ea2" xml:space="preserve">
+          <source>1.1.2 External contributions workflow</source>
+          <target state="new">1.1.2 External contributions workflow</target>
+        </trans-unit>
+        <trans-unit id="d52027fd-0b3f-4f12-92f7-58fe3cd1eefa" xml:space="preserve">
+          <source><bpt id="35373ef5-2b55-423d-9e50-859c5e8fa47e">&lt;linkText&gt;</bpt>Internal created content<ept id="35373ef5-2b55-423d-9e50-859c5e8fa47e">&lt;/linkText&gt;</ept></source>
+          <target state="new"><bpt id="35373ef5-2b55-423d-9e50-859c5e8fa47e">&lt;linkText&gt;</bpt>Internal created content<ept id="35373ef5-2b55-423d-9e50-859c5e8fa47e">&lt;/linkText&gt;</ept></target>
+        </trans-unit>
+        <trans-unit id="59ee8c3c-e876-49af-80b6-bb2801f0a816" xml:space="preserve">
+          <source>2. Creating your repo in the Microsoft GitHub Organization</source>
+          <target state="new">2. Creating your repo in the Microsoft GitHub Organization</target>
+        </trans-unit>
+        <trans-unit id="90cb76e4-8811-46ec-94fe-248a636f4e8c" xml:space="preserve">
+          <source>We recommend that you create the repo in the Microsoft GibHub Organization.</source>
+          <target state="new">We recommend that you create the repo in the Microsoft GibHub Organization.</target>
+        </trans-unit>
+        <trans-unit id="7c218ec0-f61a-4415-a270-1df9e3ca46c5" xml:space="preserve">
+          <source>That way, you can benefit of all the advantages the organizaiton provides, including enabling Contributaion License Agreement (CLA) automation.</source>
+          <target state="new">That way, you can benefit of all the advantages the organizaiton provides, including enabling Contributaion License Agreement (CLA) automation.</target>
+        </trans-unit>
+        <trans-unit id="def412d4-6d50-4721-aa14-cf3fa8bfcbdd" xml:space="preserve">
+          <source>See <bpt id="519e6c23-51f7-4ad4-9e81-d0e86e086f8cCapsExtId1">&lt;linkText&gt;</bpt>How to Create a Repo in the Microsoft GitHub Organization<ept id="519e6c23-51f7-4ad4-9e81-d0e86e086f8cCapsExtId1">&lt;/linkText&gt;</ept><bpt id="519e6c23-51f7-4ad4-9e81-d0e86e086f8cCapsExtId2">&lt;title&gt;</bpt><ept id="519e6c23-51f7-4ad4-9e81-d0e86e086f8cCapsExtId2">&lt;/title&gt;</ept> for details.</source>
+          <target state="new">See <bpt id="519e6c23-51f7-4ad4-9e81-d0e86e086f8cCapsExtId1">&lt;linkText&gt;</bpt>How to Create a Repo in the Microsoft GitHub Organization<ept id="519e6c23-51f7-4ad4-9e81-d0e86e086f8cCapsExtId1">&lt;/linkText&gt;</ept><bpt id="519e6c23-51f7-4ad4-9e81-d0e86e086f8cCapsExtId2">&lt;title&gt;</bpt><ept id="519e6c23-51f7-4ad4-9e81-d0e86e086f8cCapsExtId2">&lt;/title&gt;</ept> for details.</target>
+        </trans-unit>
+        <trans-unit id="4f5d6a6e-8cfd-4162-9233-a49491b5219f" xml:space="preserve">
+          <source>When creating the organization, choose:</source>
+          <target state="new">When creating the organization, choose:</target>
+        </trans-unit>
+        <trans-unit id="e1851b30-952b-40de-bffa-0be0f2a76423" xml:space="preserve">
+          <source>MIT license</source>
+          <target state="new">MIT license</target>
+        </trans-unit>
+        <trans-unit id="bb4a6cf9-1bea-4b23-baaf-28709d7d6789" xml:space="preserve">
+          <source>Choose <bpt id="cc9a4db8-f1e7-4a3c-bc7c-7e3713ce0eb4">&lt;strong&gt;</bpt>Sample code exception<ept id="cc9a4db8-f1e7-4a3c-bc7c-7e3713ce0eb4">&lt;/strong&gt;</ept> unless your repo will also have samples.</source>
+          <target state="new">Choose <bpt id="cc9a4db8-f1e7-4a3c-bc7c-7e3713ce0eb4">&lt;strong&gt;</bpt>Sample code exception<ept id="cc9a4db8-f1e7-4a3c-bc7c-7e3713ce0eb4">&lt;/strong&gt;</ept> unless your repo will also have samples.</target>
+        </trans-unit>
+        <trans-unit id="f0ad8ad0-9c07-4d8d-b34d-1e9bb0fa250e" xml:space="preserve">
+          <source>3. Setting up permissions to the GIT repo</source>
+          <target state="new">3. Setting up permissions to the GIT repo</target>
+        </trans-unit>
+        <trans-unit id="030c1f87-c84c-45cc-87bb-3c8883f53f23" xml:space="preserve">
+          <source>For permission to access the content repo, the content owner is responsible for leveraging GITHUB permission system.</source>
+          <target state="new">For permission to access the content repo, the content owner is responsible for leveraging GITHUB permission system.</target>
+        </trans-unit>
+        <trans-unit id="f25b20d2-21aa-40a3-8dc3-5f937e2a7f97" xml:space="preserve">
+          <source>The owner will need to give the appropriate users read or write permission to the repo (private or public).</source>
+          <target state="new">The owner will need to give the appropriate users read or write permission to the repo (private or public).</target>
+        </trans-unit>
+        <trans-unit id="079ded07-96fe-48e8-86c8-edf49752b521" xml:space="preserve">
+          <source>Our recommendation is you create an org and host the repo under that org, then add users to that org to give them write permission.</source>
+          <target state="new">Our recommendation is you create an org and host the repo under that org, then add users to that org to give them write permission.</target>
+        </trans-unit>
+        <trans-unit id="82937cb9-25f8-418c-a80a-437c865ec989" xml:space="preserve">
+          <source>Users are always able to publish by pushing a change to a branch, as long as they have the push permission to the repo.</source>
+          <target state="new">Users are always able to publish by pushing a change to a branch, as long as they have the push permission to the repo.</target>
+        </trans-unit>
+        <trans-unit id="e59f9fa1-52b4-4104-981a-3b86abddb27f" xml:space="preserve">
+          <source>To learn more about repo permissions in GitHub, please see the (Repository permission levels for an organization page)[https://help.github.com/articles/repository-permission-levels-for-an-organization/].</source>
+          <target state="new">To learn more about repo permissions in GitHub, please see the (Repository permission levels for an organization page)[https://help.github.com/articles/repository-permission-levels-for-an-organization/].</target>
+        </trans-unit>
+        <trans-unit id="03ab7873-1f25-47d3-9874-8e9919644504" xml:space="preserve">
+          <source>4. Creating and setting up localized repos</source>
+          <target state="new">4. Creating and setting up localized repos</target>
+        </trans-unit>
+        <trans-unit id="5e1a2644-a11d-48c1-805f-c8cf8909a1ea" xml:space="preserve">
+          <source>The localized content will live in a separated repo, connected to the English one.</source>
+          <target state="new">The localized content will live in a separated repo, connected to the English one.</target>
+        </trans-unit>
+        <trans-unit id="d60ffacf-57c0-49c5-bf6d-8630c6be5572" xml:space="preserve">
+          <source>For that, you need to modify the config file <bpt id="25da9a01-9fbf-4896-b83b-76b7fd5682ea">&lt;strong&gt;</bpt>.localization-config<ept id="25da9a01-9fbf-4896-b83b-76b7fd5682ea">&lt;/strong&gt;</ept>.This file contains the definition of the localized repos.</source>
+          <target state="new">For that, you need to modify the config file <bpt id="25da9a01-9fbf-4896-b83b-76b7fd5682ea">&lt;strong&gt;</bpt>.localization-config<ept id="25da9a01-9fbf-4896-b83b-76b7fd5682ea">&lt;/strong&gt;</ept>.This file contains the definition of the localized repos.</target>
+        </trans-unit>
+        <trans-unit id="13d02416-a07b-449c-8420-88b042b3da97" xml:space="preserve">
+          <source><bpt id="38efa03f-cfed-4433-acd7-5f60aaf8c7cc">&lt;strong&gt;</bpt>locales<ept id="38efa03f-cfed-4433-acd7-5f60aaf8c7cc">&lt;/strong&gt;</ept> - add the locales you would like to localize in the form of locale-culture set.</source>
+          <target state="new"><bpt id="38efa03f-cfed-4433-acd7-5f60aaf8c7cc">&lt;strong&gt;</bpt>locales<ept id="38efa03f-cfed-4433-acd7-5f60aaf8c7cc">&lt;/strong&gt;</ept> - add the locales you would like to localize in the form of locale-culture set.</target>
+        </trans-unit>
+        <trans-unit id="c05c278b-6a2b-47ee-bf6d-db694179387f" xml:space="preserve">
+          <source>E.g. "ja-jp", "de-de",...</source>
+          <target state="new">E.g. "ja-jp", "de-de",...</target>
+        </trans-unit>
+        <trans-unit id="1f736730-2e4e-4716-8c60-8dcb8435ece5" xml:space="preserve">
+          <source><bpt id="a2dbc3af-5f35-450d-9ab8-4b9e00dc8c14">&lt;strong&gt;</bpt>files<ept id="a2dbc3af-5f35-450d-9ab8-4b9e00dc8c14">&lt;/strong&gt;</ept> - List all the folders and file types to localize, include the docset name plus "**" to include all the folders underneath, and then mask the file types.</source>
+          <target state="new"><bpt id="a2dbc3af-5f35-450d-9ab8-4b9e00dc8c14">&lt;strong&gt;</bpt>files<ept id="a2dbc3af-5f35-450d-9ab8-4b9e00dc8c14">&lt;/strong&gt;</ept> - List all the folders and file types to localize, include the docset name plus "**" to include all the folders underneath, and then mask the file types.</target>
+        </trans-unit>
+        <trans-unit id="9a1c41eb-4799-4806-b5ee-4a83e331f140" xml:space="preserve">
+          <source>E.g. "virtualization/<bpt id="45061340-6cb7-402f-bc42-ba9d58d9fb77">&lt;em&gt;</bpt>*/<ept id="45061340-6cb7-402f-bc42-ba9d58d9fb77">&lt;/em&gt;</ept>.md" includes all the Markdown files under the docset, including all the subfolders.</source>
+          <target state="new">E.g. "virtualization/<bpt id="45061340-6cb7-402f-bc42-ba9d58d9fb77">&lt;em&gt;</bpt>*/<ept id="45061340-6cb7-402f-bc42-ba9d58d9fb77">&lt;/em&gt;</ept>.md" includes all the Markdown files under the docset, including all the subfolders.</target>
+        </trans-unit>
+        <trans-unit id="95d4a0f9-9f9f-4384-b918-e83d60515ee5" xml:space="preserve">
+          <source><bpt id="1c654827-2f42-474b-a7f0-4bec06ee8f37">&lt;strong&gt;</bpt>includeDependencies<ept id="1c654827-2f42-474b-a7f0-4bec06ee8f37">&lt;/strong&gt;</ept></source>
+          <target state="new"><bpt id="1c654827-2f42-474b-a7f0-4bec06ee8f37">&lt;strong&gt;</bpt>includeDependencies<ept id="1c654827-2f42-474b-a7f0-4bec06ee8f37">&lt;/strong&gt;</ept></target>
+        </trans-unit>
+        <trans-unit id="fa80255a-f332-4def-b6ed-440cf4decded" xml:space="preserve">
+          <source>Set to true to include in the handoffs the topic dependencies (includes).</source>
+          <target state="new">Set to true to include in the handoffs the topic dependencies (includes).</target>
+        </trans-unit>
+        <trans-unit id="83cfd81e-857e-46ec-ba03-4a79fdae81dd" xml:space="preserve">
+          <source>Set to false to only include the Markdown files.</source>
+          <target state="new">Set to false to only include the Markdown files.</target>
+        </trans-unit>
+        <trans-unit id="a6c754dd-4f96-44ca-97c1-8fb9b41a4533" xml:space="preserve">
+          <source><bpt id="de76c922-5fac-4bb5-a621-754b2ff34e12">&lt;strong&gt;</bpt>autoPush<ept id="de76c922-5fac-4bb5-a621-754b2ff34e12">&lt;/strong&gt;</ept></source>
+          <target state="new"><bpt id="de76c922-5fac-4bb5-a621-754b2ff34e12">&lt;strong&gt;</bpt>autoPush<ept id="de76c922-5fac-4bb5-a621-754b2ff34e12">&lt;/strong&gt;</ept></target>
+        </trans-unit>
+        <trans-unit id="59bffc90-5da2-465c-9ef5-b7f8a9fdfbcf" xml:space="preserve">
+          <source>Set to true to automatically check-in the hand back files into the localized repo.</source>
+          <target state="new">Set to true to automatically check-in the hand back files into the localized repo.</target>
+        </trans-unit>
+        <trans-unit id="32276a77-9c2d-4987-96c4-f235e6ceb336" xml:space="preserve">
+          <source>Set to false to create a pull request for the hand back so an admin can approve.</source>
+          <target state="new">Set to false to create a pull request for the hand back so an admin can approve.</target>
+        </trans-unit>
+        <trans-unit id="94d4ebef-8cc3-4028-9ecf-2d49201c9255" xml:space="preserve">
+          <source>Once this file has been committed, if there is a new language added under locales, the localized repo will be created automatically after the English branches publish.</source>
+          <target state="new">Once this file has been committed, if there is a new language added under locales, the localized repo will be created automatically after the English branches publish.</target>
+        </trans-unit>
+        <trans-unit id="1598bf5a-b17c-4c83-a7fe-d6b7e144fe72" xml:space="preserve">
+          <source>5. Next: Configure your repo</source>
+          <target state="new">5. Next: Configure your repo</target>
+        </trans-unit>
+        <trans-unit id="4ba30cd5-0bc9-4669-a281-0f67217a4fd5" xml:space="preserve">
+          <source><bpt id="f2c7232f-b453-4d70-8907-19c5ed11e5d3CapsExtId1">&lt;linkText&gt;</bpt>Configure your repo<ept id="f2c7232f-b453-4d70-8907-19c5ed11e5d3CapsExtId1">&lt;/linkText&gt;</ept><bpt id="f2c7232f-b453-4d70-8907-19c5ed11e5d3CapsExtId2">&lt;title&gt;</bpt><ept id="f2c7232f-b453-4d70-8907-19c5ed11e5d3CapsExtId2">&lt;/title&gt;</ept></source>
+          <target state="new"><bpt id="f2c7232f-b453-4d70-8907-19c5ed11e5d3CapsExtId1">&lt;linkText&gt;</bpt>Configure your repo<ept id="f2c7232f-b453-4d70-8907-19c5ed11e5d3CapsExtId1">&lt;/linkText&gt;</ept><bpt id="f2c7232f-b453-4d70-8907-19c5ed11e5d3CapsExtId2">&lt;title&gt;</bpt><ept id="f2c7232f-b453-4d70-8907-19c5ed11e5d3CapsExtId2">&lt;/title&gt;</ept></target>
+        </trans-unit>
+      </group>
+    </body>
+  </file>
+</xliff>

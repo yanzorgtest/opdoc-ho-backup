@@ -1,0 +1,613 @@
+﻿<markdown_skeleton_root>
+  <block_element>
+    <ArrayOfMarkdownBlockBase xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+      <MarkdownBlockBase
+        xsi:type="MarkdownHeaderBlock"
+        item_id="87a2a0fb-5e69-4428-9956-ae7cf83ab6d9"
+        item_type="Header"
+        item_footer="footer_not_set">
+        <segment>
+          <SegmentId>45b336ce-8a09-4573-b4a0-3b36c728470a</SegmentId>
+          <InternalNormalItem
+            internal_item_id="9b9c5d53-f1c8-401f-a051-8c57948576b4"
+            internal_item_type="Normal">
+            <internal_items />
+          </InternalNormalItem>
+        </segment>
+        <header_type>Star</header_type>
+        <header_level>1</header_level>
+      </MarkdownBlockBase>
+      <MarkdownBlockBase
+        xsi:type="MarkdownParagraphBlock"
+        item_id="668760fb-4820-4e6a-b646-30aca0b9cf8c"
+        item_type="NormalParagraph"
+        item_footer="">
+        <Lines>
+          <MarkdownLine>
+            <LineId>3c21f909-e2fe-4d99-ba34-a8e1b2e06ccb</LineId>
+            <paragraph_segments>
+              <MarkdownSegment>
+                <SegmentId>332c0277-641b-4dd6-8de2-d4f571c3e91c</SegmentId>
+                <InternalNormalItem
+                  internal_item_id="ae8c51c4-47c3-4f8f-bba4-5b8ed209e40f"
+                  internal_item_type="Normal">
+                  <internal_items />
+                </InternalNormalItem>
+              </MarkdownSegment>
+            </paragraph_segments>
+            <Prefix />
+            <Suffix />
+          </MarkdownLine>
+        </Lines>
+        <paragraph_segments>
+          <MarkdownSegment>
+            <SegmentId>332c0277-641b-4dd6-8de2-d4f571c3e91c</SegmentId>
+            <InternalNormalItem
+              internal_item_id="ae8c51c4-47c3-4f8f-bba4-5b8ed209e40f"
+              internal_item_type="Normal">
+              <internal_items />
+            </InternalNormalItem>
+          </MarkdownSegment>
+        </paragraph_segments>
+      </MarkdownBlockBase>
+      <MarkdownBlockBase
+        xsi:type="MarkdownParagraphBlock"
+        item_id="d31700f5-25ad-44aa-800c-aa93ae51c7da"
+        item_type="NormalParagraph"
+        item_footer="&#xA;&#xA;">
+        <Lines>
+          <MarkdownLine>
+            <LineId>9dd43241-aceb-451d-bc37-62917fbcade5</LineId>
+            <paragraph_segments>
+              <MarkdownSegment>
+                <SegmentId>5a9e9409-ecae-416c-9756-7b06de2490ea</SegmentId>
+                <CodeSpanItem
+                  internal_item_id="17e3f8d1-fc83-42b4-a37c-a889ceab9bfe"
+                  internal_item_type="CodeSpan">
+                  <internal_items />
+                  <ItemValue>http://{site}/{locale}/[{"version"}][{"product"}]/{ContentPath}</ItemValue>
+                </CodeSpanItem>
+              </MarkdownSegment>
+            </paragraph_segments>
+            <Prefix> </Prefix>
+            <Suffix />
+          </MarkdownLine>
+        </Lines>
+        <paragraph_segments>
+          <MarkdownSegment>
+            <SegmentId>5a9e9409-ecae-416c-9756-7b06de2490ea</SegmentId>
+            <CodeSpanItem
+              internal_item_id="17e3f8d1-fc83-42b4-a37c-a889ceab9bfe"
+              internal_item_type="CodeSpan">
+              <internal_items />
+              <ItemValue>http://{site}/{locale}/[{"version"}][{"product"}]/{ContentPath}</ItemValue>
+            </CodeSpanItem>
+          </MarkdownSegment>
+        </paragraph_segments>
+      </MarkdownBlockBase>
+      <MarkdownBlockBase
+        xsi:type="MarkdownTableBlock"
+        item_id="e9bb9e52-88de-4d2e-a057-52393ffd4979"
+        item_type="TableBlock"
+        item_footer="">
+        <header_underline>---------|---------|---------|---------|---------</header_underline>
+        <table_rows>
+          <MarkdownTableRowItem
+            internal_item_id="011e0619-2385-4dbc-b526-12856994e022"
+            internal_item_type="Unknown">
+            <internal_items />
+            <row_start />
+            <row_end />
+            <row_cells>
+              <MarkdownTableCellItem
+                internal_item_id="cceb3894-acac-4444-bf45-21d5eca6192d"
+                internal_item_type="Unknown">
+                <internal_items />
+                <paragraph_segments>
+                  <MarkdownSegment>
+                    <SegmentId>f4c9c6ed-b018-4f5d-9453-9adc62798423</SegmentId>
+                    <MarkdownInternalBoldItem
+                      internal_item_id="e0648607-df11-4747-9190-799896b9252b"
+                      internal_item_type="Bold">
+                      <internal_items />
+                      <internal_itatic_bold_item_type>Star</internal_itatic_bold_item_type>
+                    </MarkdownInternalBoldItem>
+                  </MarkdownSegment>
+                </paragraph_segments>
+              </MarkdownTableCellItem>
+              <MarkdownTableCellItem
+                internal_item_id="f9d05e95-f735-4267-82dc-a24152249a7f"
+                internal_item_type="Unknown">
+                <internal_items />
+                <paragraph_segments>
+                  <MarkdownSegment>
+                    <SegmentId>37aa5e82-32da-4861-bcc1-d023934e15c0</SegmentId>
+                    <MarkdownInternalBoldItem
+                      internal_item_id="7da421d9-5c2d-46a0-8b71-bb3fcb51393b"
+                      internal_item_type="Bold">
+                      <internal_items />
+                      <internal_itatic_bold_item_type>Star</internal_itatic_bold_item_type>
+                    </MarkdownInternalBoldItem>
+                  </MarkdownSegment>
+                </paragraph_segments>
+              </MarkdownTableCellItem>
+              <MarkdownTableCellItem
+                internal_item_id="85e79ed3-73e2-4965-85b7-346ea18de1f0"
+                internal_item_type="Unknown">
+                <internal_items />
+                <paragraph_segments>
+                  <MarkdownSegment>
+                    <SegmentId>8ebd6b4e-7a32-4d7a-9a4c-8be17e37b9af</SegmentId>
+                    <MarkdownInternalBoldItem
+                      internal_item_id="c616c4fa-b253-4770-a969-bc05a01ecb47"
+                      internal_item_type="Bold">
+                      <internal_items />
+                      <internal_itatic_bold_item_type>Star</internal_itatic_bold_item_type>
+                    </MarkdownInternalBoldItem>
+                  </MarkdownSegment>
+                </paragraph_segments>
+              </MarkdownTableCellItem>
+              <MarkdownTableCellItem
+                internal_item_id="e0b95173-35f7-4029-815f-f8333972cf0c"
+                internal_item_type="Unknown">
+                <internal_items />
+                <paragraph_segments>
+                  <MarkdownSegment>
+                    <SegmentId>5cd58b46-00fe-40eb-929e-28f12efcfaf3</SegmentId>
+                    <MarkdownInternalBoldItem
+                      internal_item_id="29731bc9-d6d5-4b39-8648-3f7351657677"
+                      internal_item_type="Bold">
+                      <internal_items />
+                      <internal_itatic_bold_item_type>Star</internal_itatic_bold_item_type>
+                    </MarkdownInternalBoldItem>
+                  </MarkdownSegment>
+                </paragraph_segments>
+              </MarkdownTableCellItem>
+            </row_cells>
+          </MarkdownTableRowItem>
+          <MarkdownTableRowItem
+            internal_item_id="e2b4be15-bc50-47a0-89d7-9150d1485118"
+            internal_item_type="Unknown">
+            <internal_items />
+            <row_start />
+            <row_end />
+            <row_cells>
+              <MarkdownTableCellItem
+                internal_item_id="5760a1b6-b3ae-440c-80ba-06107fc54ac8"
+                internal_item_type="Unknown">
+                <internal_items />
+                <paragraph_segments>
+                  <MarkdownSegment>
+                    <SegmentId>5865092d-b343-4ea2-9cae-4fdcdf0db11c</SegmentId>
+                    <InternalNormalItem
+                      internal_item_id="e8bcce66-25ab-42b8-a4a7-8cc3d432b8ef"
+                      internal_item_type="Normal">
+                      <internal_items />
+                    </InternalNormalItem>
+                  </MarkdownSegment>
+                </paragraph_segments>
+              </MarkdownTableCellItem>
+              <MarkdownTableCellItem
+                internal_item_id="355ab442-65fb-4d16-98a3-890944b2809c"
+                internal_item_type="Unknown">
+                <internal_items />
+                <paragraph_segments>
+                  <MarkdownSegment>
+                    <SegmentId>5a9a4c37-c898-4b7f-aa31-45ac9dc90193</SegmentId>
+                    <InternalNormalItem
+                      internal_item_id="616b4003-3ffa-4de5-8dab-6d8cbedc5245"
+                      internal_item_type="Normal">
+                      <internal_items />
+                    </InternalNormalItem>
+                  </MarkdownSegment>
+                </paragraph_segments>
+              </MarkdownTableCellItem>
+              <MarkdownTableCellItem
+                internal_item_id="e47e0a74-74a2-4041-a759-0dafea9feba6"
+                internal_item_type="Unknown">
+                <internal_items />
+                <paragraph_segments>
+                  <MarkdownSegment>
+                    <SegmentId>045629af-7033-4da2-b9f0-aa03c0d1aecc</SegmentId>
+                    <InternalNormalItem
+                      internal_item_id="357065ef-a32d-41cb-9f41-7d918bc24cac"
+                      internal_item_type="Normal">
+                      <internal_items />
+                    </InternalNormalItem>
+                  </MarkdownSegment>
+                </paragraph_segments>
+              </MarkdownTableCellItem>
+              <MarkdownTableCellItem
+                internal_item_id="8250843b-ad9d-4957-b2fd-fd0a8974c9b1"
+                internal_item_type="Unknown">
+                <internal_items />
+                <paragraph_segments>
+                  <MarkdownSegment>
+                    <SegmentId>b2363b42-d88b-4a6d-8006-46b6f818dba9</SegmentId>
+                    <InternalNormalItem
+                      internal_item_id="9f1c00b8-942d-4b13-b4d2-8ccfdd695347"
+                      internal_item_type="Normal">
+                      <internal_items />
+                    </InternalNormalItem>
+                  </MarkdownSegment>
+                  <MarkdownSegment>
+                    <SegmentId>8010e012-4b64-4ed8-a386-f99777f664a8</SegmentId>
+                    <InternalNormalItem
+                      internal_item_id="e541fa3e-67d6-414b-b578-db3cc79a73fe"
+                      internal_item_type="Normal">
+                      <internal_items />
+                    </InternalNormalItem>
+                  </MarkdownSegment>
+                </paragraph_segments>
+              </MarkdownTableCellItem>
+            </row_cells>
+          </MarkdownTableRowItem>
+          <MarkdownTableRowItem
+            internal_item_id="89328664-76e4-4d6f-886c-a1eb2ffb9f9b"
+            internal_item_type="Unknown">
+            <internal_items />
+            <row_start />
+            <row_end />
+            <row_cells>
+              <MarkdownTableCellItem
+                internal_item_id="f8751e26-4209-49fc-921e-eaa445d7add7"
+                internal_item_type="Unknown">
+                <internal_items />
+                <paragraph_segments>
+                  <MarkdownSegment>
+                    <SegmentId>2fd91b40-858b-4927-a7c6-9224dd9b93ed</SegmentId>
+                    <InternalNormalItem
+                      internal_item_id="4acaebbe-74ac-4e01-a1c1-abc392e76d91"
+                      internal_item_type="Normal">
+                      <internal_items />
+                    </InternalNormalItem>
+                  </MarkdownSegment>
+                </paragraph_segments>
+              </MarkdownTableCellItem>
+              <MarkdownTableCellItem
+                internal_item_id="191224d5-3957-4d52-9b9b-d9768b4b2164"
+                internal_item_type="Unknown">
+                <internal_items />
+                <paragraph_segments>
+                  <MarkdownSegment>
+                    <SegmentId>f990fbc5-5a17-4586-ae77-38afa04ff148</SegmentId>
+                    <InternalNormalItem
+                      internal_item_id="ccd39e84-00b9-4b17-8b82-5f32917992a1"
+                      internal_item_type="Normal">
+                      <internal_items />
+                    </InternalNormalItem>
+                  </MarkdownSegment>
+                </paragraph_segments>
+              </MarkdownTableCellItem>
+              <MarkdownTableCellItem
+                internal_item_id="9c0802b3-1e99-4a4c-94d6-85d8eefc07d6"
+                internal_item_type="Unknown">
+                <internal_items />
+                <paragraph_segments>
+                  <MarkdownSegment>
+                    <SegmentId>cdb20221-49d7-44b6-adaa-828f9fc9c7a5</SegmentId>
+                    <InternalNormalItem
+                      internal_item_id="6df06da4-7556-40b7-a7ca-ba35e4933b06"
+                      internal_item_type="Normal">
+                      <internal_items />
+                    </InternalNormalItem>
+                    <LinkItem
+                      internal_item_id="5ec97585-2b85-4fb1-9c26-e9a044eff4cc"
+                      internal_item_type="Link">
+                      <internal_items />
+                      <internal_link_type>Inline</internal_link_type>
+                      <internal_link_text>GIT repository</internal_link_text>
+                      <internal_link_url>repo-config.md</internal_link_url>
+                      <internal_link_title />
+                    </LinkItem>
+                  </MarkdownSegment>
+                </paragraph_segments>
+              </MarkdownTableCellItem>
+              <MarkdownTableCellItem
+                internal_item_id="09eae73c-b239-4050-83c9-f0652e601b27"
+                internal_item_type="Unknown">
+                <internal_items />
+                <paragraph_segments>
+                  <MarkdownSegment>
+                    <SegmentId>33ae457d-5d69-40ae-9faf-0feb04d57e23</SegmentId>
+                    <InternalNormalItem
+                      internal_item_id="f3f04e30-440e-4d2f-a552-111bb85b058f"
+                      internal_item_type="Normal">
+                      <internal_items />
+                    </InternalNormalItem>
+                  </MarkdownSegment>
+                </paragraph_segments>
+              </MarkdownTableCellItem>
+            </row_cells>
+          </MarkdownTableRowItem>
+          <MarkdownTableRowItem
+            internal_item_id="807a4395-7720-4235-8fa5-74059eea194e"
+            internal_item_type="Unknown">
+            <internal_items />
+            <row_start />
+            <row_end />
+            <row_cells>
+              <MarkdownTableCellItem
+                internal_item_id="06b5502b-b1fa-4677-b946-0571bb1aa68d"
+                internal_item_type="Unknown">
+                <internal_items />
+                <paragraph_segments>
+                  <MarkdownSegment>
+                    <SegmentId>540d3598-d120-4014-9b90-ba2fb599fca5</SegmentId>
+                    <InternalNormalItem
+                      internal_item_id="bef3bd21-45ea-4f3d-ab8a-c1cb1be4a2ba"
+                      internal_item_type="Normal">
+                      <internal_items />
+                    </InternalNormalItem>
+                  </MarkdownSegment>
+                </paragraph_segments>
+              </MarkdownTableCellItem>
+              <MarkdownTableCellItem
+                internal_item_id="c70ca142-8107-47f9-ba93-8e48628887fe"
+                internal_item_type="Unknown">
+                <internal_items />
+                <paragraph_segments>
+                  <MarkdownSegment>
+                    <SegmentId>936a1079-66b2-4e30-9185-cd1e68c73ad3</SegmentId>
+                    <InternalNormalItem
+                      internal_item_id="23c6cd38-96a2-4957-a632-56eb804f40f3"
+                      internal_item_type="Normal">
+                      <internal_items />
+                    </InternalNormalItem>
+                  </MarkdownSegment>
+                </paragraph_segments>
+              </MarkdownTableCellItem>
+              <MarkdownTableCellItem
+                internal_item_id="f833a0d0-06ab-405c-819d-696c95efe054"
+                internal_item_type="Unknown">
+                <internal_items />
+                <paragraph_segments>
+                  <MarkdownSegment>
+                    <SegmentId>c3150ad8-a9b8-4492-b98a-f5e2b3faad61</SegmentId>
+                    <InternalNormalItem
+                      internal_item_id="6077fad1-a314-4084-a86c-3f0638a80fcd"
+                      internal_item_type="Normal">
+                      <internal_items />
+                    </InternalNormalItem>
+                    <LinkItem
+                      internal_item_id="1b28acf7-51ef-4f0f-8fae-5f48f3bfb41a"
+                      internal_item_type="Link">
+                      <internal_items />
+                      <internal_link_type>Inline</internal_link_type>
+                      <internal_link_text>GIT repository</internal_link_text>
+                      <internal_link_url>repo-config.md</internal_link_url>
+                      <internal_link_title />
+                    </LinkItem>
+                  </MarkdownSegment>
+                </paragraph_segments>
+              </MarkdownTableCellItem>
+              <MarkdownTableCellItem
+                internal_item_id="f0bc1fd0-de83-4727-96e4-f9e3246d83a8"
+                internal_item_type="Unknown">
+                <internal_items />
+                <paragraph_segments>
+                  <MarkdownSegment>
+                    <SegmentId>5c336255-2be9-4715-b974-955ea10585b2</SegmentId>
+                    <InternalNormalItem
+                      internal_item_id="a6a6a7bc-3563-480b-a553-3d267622a14c"
+                      internal_item_type="Normal">
+                      <internal_items />
+                    </InternalNormalItem>
+                  </MarkdownSegment>
+                </paragraph_segments>
+              </MarkdownTableCellItem>
+            </row_cells>
+          </MarkdownTableRowItem>
+          <MarkdownTableRowItem
+            internal_item_id="9d9ee2fb-5626-4bfd-a476-95fb09478ebd"
+            internal_item_type="Unknown">
+            <internal_items />
+            <row_start />
+            <row_end />
+            <row_cells>
+              <MarkdownTableCellItem
+                internal_item_id="c3ee0e20-d333-481a-b644-d10576f24b97"
+                internal_item_type="Unknown">
+                <internal_items />
+                <paragraph_segments>
+                  <MarkdownSegment>
+                    <SegmentId>3ec107e7-a4a4-4980-ac6f-7b12f37607ca</SegmentId>
+                    <InternalNormalItem
+                      internal_item_id="fb0a4806-836b-4707-9dca-27bbde730c78"
+                      internal_item_type="Normal">
+                      <internal_items />
+                    </InternalNormalItem>
+                  </MarkdownSegment>
+                </paragraph_segments>
+              </MarkdownTableCellItem>
+              <MarkdownTableCellItem
+                internal_item_id="e93bfb84-c056-4c43-b91d-43f67e6578d0"
+                internal_item_type="Unknown">
+                <internal_items />
+                <paragraph_segments>
+                  <MarkdownSegment>
+                    <SegmentId>5ee29fdf-93d6-4b8a-a400-0eb5d0166e28</SegmentId>
+                    <InternalNormalItem
+                      internal_item_id="6c36c62f-d997-4dba-8a44-174f775b938a"
+                      internal_item_type="Normal">
+                      <internal_items />
+                    </InternalNormalItem>
+                  </MarkdownSegment>
+                </paragraph_segments>
+              </MarkdownTableCellItem>
+              <MarkdownTableCellItem
+                internal_item_id="6ed4dc43-d5f2-4a50-8b9f-cd8bcbead6a5"
+                internal_item_type="Unknown">
+                <internal_items />
+                <paragraph_segments>
+                  <MarkdownSegment>
+                    <SegmentId>de4a21ee-5e37-472c-88ea-295f4ee7e062</SegmentId>
+                    <InternalNormalItem
+                      internal_item_id="e47d9cda-d3c2-466c-ab8d-fc584f49aba1"
+                      internal_item_type="Normal">
+                      <internal_items />
+                    </InternalNormalItem>
+                    <LinkItem
+                      internal_item_id="3a60d85b-67be-4554-824c-dffd2eedfc7f"
+                      internal_item_type="Link">
+                      <internal_items />
+                      <internal_link_type>Inline</internal_link_type>
+                      <internal_link_text>GIT repository</internal_link_text>
+                      <internal_link_url>repo-config.md</internal_link_url>
+                      <internal_link_title />
+                    </LinkItem>
+                  </MarkdownSegment>
+                </paragraph_segments>
+              </MarkdownTableCellItem>
+              <MarkdownTableCellItem
+                internal_item_id="cb103d7f-b59b-4792-930c-340fed23bdf7"
+                internal_item_type="Unknown">
+                <internal_items />
+                <paragraph_segments>
+                  <MarkdownSegment>
+                    <SegmentId>67874bf9-cf25-4ed6-a781-97b344e28c70</SegmentId>
+                    <InternalNormalItem
+                      internal_item_id="c84971b4-4eca-4d7f-93cb-5c1c3cc27d2f"
+                      internal_item_type="Normal">
+                      <internal_items />
+                    </InternalNormalItem>
+                  </MarkdownSegment>
+                </paragraph_segments>
+              </MarkdownTableCellItem>
+            </row_cells>
+          </MarkdownTableRowItem>
+          <MarkdownTableRowItem
+            internal_item_id="5455a9bd-1605-4f08-9b9f-a281fb0e25bb"
+            internal_item_type="Unknown">
+            <internal_items />
+            <row_start />
+            <row_end />
+            <row_cells>
+              <MarkdownTableCellItem
+                internal_item_id="c64fe251-4697-489e-afee-142b8793a765"
+                internal_item_type="Unknown">
+                <internal_items />
+                <paragraph_segments>
+                  <MarkdownSegment>
+                    <SegmentId>384b3cf6-1a16-496f-93fb-cf2217c508a4</SegmentId>
+                    <InternalNormalItem
+                      internal_item_id="e890b87c-c44b-4281-bf4c-82dd2dd57af6"
+                      internal_item_type="Normal">
+                      <internal_items />
+                    </InternalNormalItem>
+                  </MarkdownSegment>
+                </paragraph_segments>
+              </MarkdownTableCellItem>
+              <MarkdownTableCellItem
+                internal_item_id="deb733bf-ccad-46b3-be32-ec33d8ded392"
+                internal_item_type="Unknown">
+                <internal_items />
+                <paragraph_segments>
+                  <MarkdownSegment>
+                    <SegmentId>1e015ddd-91a4-49bf-8044-6adea5cc1ff3</SegmentId>
+                    <InternalNormalItem
+                      internal_item_id="7eeb975c-e707-4fde-a8d0-600fb9816245"
+                      internal_item_type="Normal">
+                      <internal_items />
+                    </InternalNormalItem>
+                  </MarkdownSegment>
+                </paragraph_segments>
+              </MarkdownTableCellItem>
+              <MarkdownTableCellItem
+                internal_item_id="0b8df126-3c29-4f8a-b9ad-43b2223c62f9"
+                internal_item_type="Unknown">
+                <internal_items />
+                <paragraph_segments>
+                  <MarkdownSegment>
+                    <SegmentId>8242d35e-c7de-4b7c-a4e7-4cb4087d4da1</SegmentId>
+                    <InternalNormalItem
+                      internal_item_id="b3c3052f-0c19-4419-88f5-448323978426"
+                      internal_item_type="Normal">
+                      <internal_items />
+                    </InternalNormalItem>
+                    <LinkItem
+                      internal_item_id="4c5ce22a-f45f-454d-ba54-74aae4762acb"
+                      internal_item_type="Link">
+                      <internal_items />
+                      <internal_link_type>Inline</internal_link_type>
+                      <internal_link_text>GIT repository</internal_link_text>
+                      <internal_link_url>repo-config.md</internal_link_url>
+                      <internal_link_title />
+                    </LinkItem>
+                  </MarkdownSegment>
+                </paragraph_segments>
+              </MarkdownTableCellItem>
+              <MarkdownTableCellItem
+                internal_item_id="12e19361-1a10-46f7-837f-6f08fefa6dd6"
+                internal_item_type="Unknown">
+                <internal_items />
+                <paragraph_segments>
+                  <MarkdownSegment>
+                    <SegmentId>e0b397aa-cb01-4548-91db-95fe6fa4ca65</SegmentId>
+                    <InternalNormalItem
+                      internal_item_id="8c397df3-f912-4e70-b14c-41faddf9a735"
+                      internal_item_type="Normal">
+                      <internal_items />
+                    </InternalNormalItem>
+                  </MarkdownSegment>
+                  <MarkdownSegment>
+                    <SegmentId>16301052-3f06-45a0-b5c7-f7c146024efa</SegmentId>
+                    <InternalNormalItem
+                      internal_item_id="5346df41-dffb-439a-bbd7-1f21e8962bc1"
+                      internal_item_type="Normal">
+                      <internal_items />
+                    </InternalNormalItem>
+                  </MarkdownSegment>
+                </paragraph_segments>
+              </MarkdownTableCellItem>
+            </row_cells>
+          </MarkdownTableRowItem>
+        </table_rows>
+      </MarkdownBlockBase>
+      <MarkdownBlockBase
+        xsi:type="MarkdownParagraphBlock"
+        item_id="1fc4d745-a4ca-4d55-9450-6521d4664c74"
+        item_type="NormalParagraph"
+        item_footer="">
+        <Lines />
+        <paragraph_segments />
+      </MarkdownBlockBase>
+      <MarkdownBlockBase
+        xsi:type="MarkdownParagraphBlock"
+        item_id="5900728f-4ac0-4ce9-9951-fecffdf60561"
+        item_type="NormalParagraph"
+        item_footer="&#xA;&#xA;&#xA;&#xA;&#xA;&#xA;&#xA;&#xA;">
+        <Lines>
+          <MarkdownLine>
+            <LineId>daf686c5-8b06-4823-a688-d9d0859fbe40</LineId>
+            <paragraph_segments>
+              <MarkdownSegment>
+                <SegmentId>0134ec6c-185d-4404-a9cd-1dcd3ae5b0b0</SegmentId>
+                <InternalNormalItem
+                  internal_item_id="79faffeb-31de-47fd-9295-83501520e00c"
+                  internal_item_type="Normal">
+                  <internal_items />
+                </InternalNormalItem>
+              </MarkdownSegment>
+            </paragraph_segments>
+            <Prefix />
+            <Suffix />
+          </MarkdownLine>
+        </Lines>
+        <paragraph_segments>
+          <MarkdownSegment>
+            <SegmentId>0134ec6c-185d-4404-a9cd-1dcd3ae5b0b0</SegmentId>
+            <InternalNormalItem
+              internal_item_id="79faffeb-31de-47fd-9295-83501520e00c"
+              internal_item_type="Normal">
+              <internal_items />
+            </InternalNormalItem>
+          </MarkdownSegment>
+        </paragraph_segments>
+      </MarkdownBlockBase>
+    </ArrayOfMarkdownBlockBase>
+  </block_element>
+  <references>
+    <ArrayOfMarkdownLinkedReference xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" />
+  </references>
+</markdown_skeleton_root>

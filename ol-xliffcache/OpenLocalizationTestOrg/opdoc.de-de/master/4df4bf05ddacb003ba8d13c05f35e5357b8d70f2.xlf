@@ -1,0 +1,61 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<xliff version="1.2" xmlns="urn:oasis:names:tc:xliff:document:1.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:oasis:names:tc:xliff:document:1.2 xliff-core-1.2-transitional.xsd">
+  <file datatype="xml" source-language="en-us" target-language="de-de" original="foo.file" tool-id="4c99e2c0-f607-4e48-8070-4fb6610f304a" product-name="foo" product-version="1.0" build-num="1">
+    <header>
+      <tool tool-id="4c99e2c0-f607-4e48-8070-4fb6610f304a" tool-name="MarkdownToXliff" tool-version="1.0" tool-company="Microsoft" />
+      <olfilehash xmlns="">4df4bf05ddacb003ba8d13c05f35e5357b8d70f2</olfilehash>
+    </header>
+    <body>
+      <group id="50fa3901-d316-413e-9eae-c31d9702f275">
+        <trans-unit id="75569606-7fdc-42f3-b7ac-b84360050078" xml:space="preserve">
+          <source>Metadata</source>
+          <target state="new">Metadata</target>
+        </trans-unit>
+        <trans-unit id="e8765eb9-79fd-422c-9d99-fa18e28a1376" xml:space="preserve">
+          <source>There is a limited amount of metadata at the moment.</source>
+          <target state="new">There is a limited amount of metadata at the moment.</target>
+        </trans-unit>
+        <trans-unit id="5c30ce9b-a8bc-4869-af31-cdeb060f1fd2" xml:space="preserve">
+          <source>Metadata can be specified at two places:</source>
+          <target state="new">Metadata can be specified at two places:</target>
+        </trans-unit>
+        <trans-unit id="1ae8fc98-b353-48be-ad2e-b523b7bc6904" xml:space="preserve">
+          <source>In each topic, you can use YAML frontmatter to store metadata in Markdown file.</source>
+          <target state="new">In each topic, you can use YAML frontmatter to store metadata in Markdown file.</target>
+        </trans-unit>
+        <trans-unit id="a851d0e1-2a7c-4780-b9e5-da1d8a64410a" xml:space="preserve">
+          <source>This format is already widely used in github and will be rendered into a table in github markdown preview.</source>
+          <target state="new">This format is already widely used in github and will be rendered into a table in github markdown preview.</target>
+        </trans-unit>
+        <trans-unit id="c00ab1ee-abdc-4a8f-b8df-9d259a7d9738" xml:space="preserve">
+          <source>Here is one example:</source>
+          <target state="new">Here is one example:</target>
+        </trans-unit>
+        <trans-unit id="524ced3c-8690-4c9d-a7bc-730b8b8787a0" xml:space="preserve">
+          <source><bpt id="5a0681ec-157c-4d6e-82fb-7961c77724fd">&lt;code&gt;</bpt>---<ept id="5a0681ec-157c-4d6e-82fb-7961c77724fd">&lt;/code&gt;</ept></source>
+          <target state="new"><bpt id="5a0681ec-157c-4d6e-82fb-7961c77724fd">&lt;code&gt;</bpt>---<ept id="5a0681ec-157c-4d6e-82fb-7961c77724fd">&lt;/code&gt;</ept></target>
+        </trans-unit>
+        <trans-unit id="b77b17b0-98ab-4d30-800b-e5cb857d2d1f" xml:space="preserve">
+          <source>title: Get Started</source>
+          <target state="new">title: Get Started</target>
+        </trans-unit>
+        <trans-unit id="40104040-76aa-4266-8ce8-2bf69726bdf2" xml:space="preserve">
+          <source>toc_title: Get Started</source>
+          <target state="new">toc_title: Get Started</target>
+        </trans-unit>
+        <trans-unit id="3e45b87a-d2a3-4492-bedf-8bb8e43a210b" xml:space="preserve">
+          <source>`---</source>
+          <target state="new">`---</target>
+        </trans-unit>
+        <trans-unit id="12403701-b577-42b5-a321-9aab0752c759" xml:space="preserve">
+          <source>Stored in <bpt id="d9d57013-fb27-4cb7-8294-e2df4bbeaf40CapsExtId1">&lt;linkText&gt;</bpt>openpublishing.build.docset.config.json<ept id="d9d57013-fb27-4cb7-8294-e2df4bbeaf40CapsExtId1">&lt;/linkText&gt;</ept><bpt id="d9d57013-fb27-4cb7-8294-e2df4bbeaf40CapsExtId2">&lt;title&gt;</bpt><ept id="d9d57013-fb27-4cb7-8294-e2df4bbeaf40CapsExtId2">&lt;/title&gt;</ept> file within a docset.</source>
+          <target state="new">Stored in <bpt id="d9d57013-fb27-4cb7-8294-e2df4bbeaf40CapsExtId1">&lt;linkText&gt;</bpt>openpublishing.build.docset.config.json<ept id="d9d57013-fb27-4cb7-8294-e2df4bbeaf40CapsExtId1">&lt;/linkText&gt;</ept><bpt id="d9d57013-fb27-4cb7-8294-e2df4bbeaf40CapsExtId2">&lt;title&gt;</bpt><ept id="d9d57013-fb27-4cb7-8294-e2df4bbeaf40CapsExtId2">&lt;/title&gt;</ept> file within a docset.</target>
+        </trans-unit>
+        <trans-unit id="0db0ba11-4d81-4eb1-ba95-34591c6a13f3" xml:space="preserve">
+          <source>"ROBOTS": "NOINDEX, NOFOLLOW" - Indicates the search engines if the docset should be indexed by search engines.</source>
+          <target state="new">"ROBOTS": "NOINDEX, NOFOLLOW" - Indicates the search engines if the docset should be indexed by search engines.</target>
+        </trans-unit>
+      </group>
+    </body>
+  </file>
+</xliff>

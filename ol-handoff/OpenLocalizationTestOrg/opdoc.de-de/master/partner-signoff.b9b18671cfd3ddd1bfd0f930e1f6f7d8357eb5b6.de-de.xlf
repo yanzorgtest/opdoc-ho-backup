@@ -1,0 +1,73 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<xliff version="1.2" xmlns="urn:oasis:names:tc:xliff:document:1.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:oasis:names:tc:xliff:document:1.2 xliff-core-1.2-transitional.xsd">
+  <file datatype="xml" source-language="en-us" target-language="de-de" original="foo.file" tool-id="b794d9fd-d7e7-4510-9aed-54a794bb4b10" product-name="foo" product-version="1.0" build-num="1">
+    <header>
+      <tool tool-id="b794d9fd-d7e7-4510-9aed-54a794bb4b10" tool-name="MarkdownToXliff" tool-version="1.0" tool-company="Microsoft" />
+      <olfilehash xmlns="">17bcadb642a115b4c2624ee2d0dc6f9767d98825</olfilehash>
+    </header>
+    <body>
+      <group id="04bd22ea-a87d-4bed-b7b7-746f6b33ec92">
+        <trans-unit id="d37e96ab-1210-4911-b8f5-149dd5932376" xml:space="preserve">
+          <source>Partner sign off</source>
+          <target state="new">Partner sign off</target>
+        </trans-unit>
+        <trans-unit id="f372a44a-77f5-41cf-bdab-23b7d8904aae" xml:space="preserve">
+          <source>In order to make partners feel comfortable with moving to Open Publishing, we recommend partners to perform a visual inspection of the content.</source>
+          <target state="new">In order to make partners feel comfortable with moving to Open Publishing, we recommend partners to perform a visual inspection of the content.</target>
+        </trans-unit>
+        <trans-unit id="327379c9-50ae-4f56-86ec-16af65637fd7" xml:space="preserve">
+          <source>Here is some items to look for.</source>
+          <target state="new">Here is some items to look for.</target>
+        </trans-unit>
+        <trans-unit id="d57a443c-6001-4cf1-a9df-2b8066813121" xml:space="preserve">
+          <source>If you are moving content from another system (CAPS, OA, etc.), please note that the content might not render exactly the same.</source>
+          <target state="new">If you are moving content from another system (CAPS, OA, etc.), please note that the content might not render exactly the same.</target>
+        </trans-unit>
+        <trans-unit id="db64a57a-0ac8-4dd2-9f29-98749ee481a3" xml:space="preserve">
+          <source>So use your legacy content for reference, although do not expect a 1-to-1 mapping.</source>
+          <target state="new">So use your legacy content for reference, although do not expect a 1-to-1 mapping.</target>
+        </trans-unit>
+        <trans-unit id="e9e409a2-e9a6-4fa9-b2ab-e35202257000" xml:space="preserve">
+          <source>We recommend you find different pages with different content types, so you have a good breadth of content to look at.</source>
+          <target state="new">We recommend you find different pages with different content types, so you have a good breadth of content to look at.</target>
+        </trans-unit>
+        <trans-unit id="78ef160a-81c1-44c6-b2b0-244e008ff791" xml:space="preserve">
+          <source>Additionally, you should look at the content in different screen resolutions, as OP uses the responsive library and content renders differently.</source>
+          <target state="new">Additionally, you should look at the content in different screen resolutions, as OP uses the responsive library and content renders differently.</target>
+        </trans-unit>
+        <trans-unit id="0c5c0fde-bb1b-4e09-9cdd-710726cbeff9" xml:space="preserve">
+          <source>Here are some areas:</source>
+          <target state="new">Here are some areas:</target>
+        </trans-unit>
+        <trans-unit id="e41ffd10-9065-4c2c-88c2-090e1db73f70" xml:space="preserve">
+          <source>TOC is complete and working as expected: it expands and collapses, and links are working.</source>
+          <target state="new">TOC is complete and working as expected: it expands and collapses, and links are working.</target>
+        </trans-unit>
+        <trans-unit id="024a89ba-3f8b-4d78-b40a-8aac11523cce" xml:space="preserve">
+          <source>Content URLs – If you are moving from OA and you are leveraging the URLs, make sure that they are indeed the same while you are testing.</source>
+          <target state="new">Content URLs – If you are moving from OA and you are leveraging the URLs, make sure that they are indeed the same while you are testing.</target>
+        </trans-unit>
+        <trans-unit id="885323b5-3d45-4672-a2dc-8d3ba065c4bd" xml:space="preserve">
+          <source>Images appear as expected</source>
+          <target state="new">Images appear as expected</target>
+        </trans-unit>
+        <trans-unit id="d8f012bd-ac25-46eb-ad9d-ddf1ebed7253" xml:space="preserve">
+          <source>Links render properly and work as expected</source>
+          <target state="new">Links render properly and work as expected</target>
+        </trans-unit>
+        <trans-unit id="f6dba7b1-4d72-4b28-a8be-d5ded32d2ce5" xml:space="preserve">
+          <source>Formatting of the topics is as expected</source>
+          <target state="new">Formatting of the topics is as expected</target>
+        </trans-unit>
+        <trans-unit id="09d242bd-670d-4f58-9b33-0f162caa74ba" xml:space="preserve">
+          <source>Lists and tables look good</source>
+          <target state="new">Lists and tables look good</target>
+        </trans-unit>
+        <trans-unit id="f66dc592-cdb3-46c0-8bb3-448b315be8cc" xml:space="preserve">
+          <source>Code samples render fine</source>
+          <target state="new">Code samples render fine</target>
+        </trans-unit>
+      </group>
+    </body>
+  </file>
+</xliff>

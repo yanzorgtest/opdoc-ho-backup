@@ -1,0 +1,29 @@
+﻿<markdown_skeleton_root>
+  <block_element>
+    <ArrayOfMarkdownBlockBase xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+      <MarkdownBlockBase
+        xsi:type="MarkdownHeaderBlock"
+        item_id="7f621c8d-472d-4159-a268-42b1272a352d"
+        item_type="Header"
+        item_footer="footer_not_set">
+        <segment>
+          <SegmentId>ed829091-94c8-47cc-b9b6-2a4787c166ee</SegmentId>
+          <LinkItem
+            internal_item_id="7a1a6a57-7f04-4f7d-83b8-6c7ec1f83f87"
+            internal_item_type="Link">
+            <internal_items />
+            <internal_link_type>Inline</internal_link_type>
+            <internal_link_text>Converting WDCML to Markdown for Open Publishing</internal_link_text>
+            <internal_link_url>wdcml-to-open-publish.md</internal_link_url>
+            <internal_link_title />
+          </LinkItem>
+        </segment>
+        <header_type>Star</header_type>
+        <header_level>1</header_level>
+      </MarkdownBlockBase>
+    </ArrayOfMarkdownBlockBase>
+  </block_element>
+  <references>
+    <ArrayOfMarkdownLinkedReference xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" />
+  </references>
+</markdown_skeleton_root>

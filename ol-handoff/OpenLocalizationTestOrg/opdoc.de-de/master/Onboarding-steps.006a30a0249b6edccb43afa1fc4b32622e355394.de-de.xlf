@@ -1,0 +1,161 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<xliff version="1.2" xmlns="urn:oasis:names:tc:xliff:document:1.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:oasis:names:tc:xliff:document:1.2 xliff-core-1.2-transitional.xsd">
+  <file datatype="xml" source-language="en-us" target-language="de-de" original="foo.file" tool-id="917bc705-de03-48d9-a67a-4b09d99fea4b" product-name="foo" product-version="1.0" build-num="1">
+    <header>
+      <tool tool-id="917bc705-de03-48d9-a67a-4b09d99fea4b" tool-name="MarkdownToXliff" tool-version="1.0" tool-company="Microsoft" />
+      <olfilehash xmlns="">d8fef2e55d438f971a98cba251c58a8c850a6dfa</olfilehash>
+    </header>
+    <body>
+      <group id="b7b49804-a130-4368-babb-572827d16451">
+        <trans-unit id="14da68b2-06d2-4461-b9e7-c3cdc9419fb7" xml:space="preserve">
+          <source>Onboarding to Open Publishing</source>
+          <target state="new">Onboarding to Open Publishing</target>
+        </trans-unit>
+        <trans-unit id="0b62e96f-05ba-4985-918f-a9ee3c59617e" xml:space="preserve">
+          <source>test1</source>
+          <target state="new">test1</target>
+        </trans-unit>
+        <trans-unit id="f282e4b7-5908-4954-8bd2-84370ee750c6" xml:space="preserve">
+          <source>We can have several cases of onboarding into Open Publishing, depending if a team creates content for the first time or it already exists.</source>
+          <target state="new">We can have several cases of onboarding into Open Publishing, depending if a team creates content for the first time or it already exists.</target>
+        </trans-unit>
+        <trans-unit id="48d08901-f3a1-4060-84e3-02539bf85901" xml:space="preserve">
+          <source>Thus, not all the steps might be applicable to your team.</source>
+          <target state="new">Thus, not all the steps might be applicable to your team.</target>
+        </trans-unit>
+        <trans-unit id="64612d7d-a5fe-4191-a6f4-a5a4422dde80" xml:space="preserve">
+          <source>No worries, we will work with you on a more detailed schedule with all the steps needed for your project.</source>
+          <target state="new">No worries, we will work with you on a more detailed schedule with all the steps needed for your project.</target>
+        </trans-unit>
+        <trans-unit id="43b143d7-fee1-4de2-9eb1-1614807451cc" xml:space="preserve">
+          <source>The following is a list of tasks both content owners and VSC need to do for onboarding:</source>
+          <target state="new">The following is a list of tasks both content owners and VSC need to do for onboarding:</target>
+        </trans-unit>
+        <trans-unit id="506ac643-8885-4063-ad68-fe9f155675a2" xml:space="preserve">
+          <source><bpt id="81ef69b1-7c34-49fc-85ed-ee5e39f833bd">&lt;strong&gt;</bpt>Task<ept id="81ef69b1-7c34-49fc-85ed-ee5e39f833bd">&lt;/strong&gt;</ept></source>
+          <target state="new"><bpt id="81ef69b1-7c34-49fc-85ed-ee5e39f833bd">&lt;strong&gt;</bpt>Task<ept id="81ef69b1-7c34-49fc-85ed-ee5e39f833bd">&lt;/strong&gt;</ept></target>
+        </trans-unit>
+        <trans-unit id="09511439-4e4f-4552-934c-bc49438927e3" xml:space="preserve">
+          <source><bpt id="79157012-ccaa-45a3-8bf8-d9dbce2eb5c5">&lt;strong&gt;</bpt>Owner<ept id="79157012-ccaa-45a3-8bf8-d9dbce2eb5c5">&lt;/strong&gt;</ept></source>
+          <target state="new"><bpt id="79157012-ccaa-45a3-8bf8-d9dbce2eb5c5">&lt;strong&gt;</bpt>Owner<ept id="79157012-ccaa-45a3-8bf8-d9dbce2eb5c5">&lt;/strong&gt;</ept></target>
+        </trans-unit>
+        <trans-unit id="19e0cfc8-0604-4e13-8276-744ee087760a" xml:space="preserve">
+          <source><bpt id="827b185f-5ba0-4469-a82e-8c26b47162f8">&lt;strong&gt;</bpt>Estimated duration<ept id="827b185f-5ba0-4469-a82e-8c26b47162f8">&lt;/strong&gt;</ept></source>
+          <target state="new"><bpt id="827b185f-5ba0-4469-a82e-8c26b47162f8">&lt;strong&gt;</bpt>Estimated duration<ept id="827b185f-5ba0-4469-a82e-8c26b47162f8">&lt;/strong&gt;</ept></target>
+        </trans-unit>
+        <trans-unit id="babbc524-3935-41db-916d-f6936218e737" xml:space="preserve">
+          <source>GIT training</source>
+          <target state="new">GIT training</target>
+        </trans-unit>
+        <trans-unit id="e61aa1b7-102a-4b2e-81b3-3e8c64471aa1" xml:space="preserve">
+          <source>VSC</source>
+          <target state="new">VSC</target>
+        </trans-unit>
+        <trans-unit id="87c91c83-de57-42b9-bdd8-b49660369a25" xml:space="preserve">
+          <source>4 hours</source>
+          <target state="new">4 hours</target>
+        </trans-unit>
+        <trans-unit id="b61dedb1-42b9-46a7-bb34-98d1498ebd95" xml:space="preserve">
+          <source><bpt id="6a2637c6-bf99-416e-95e7-140c98cb9b60CapsExtId1">&lt;linkText&gt;</bpt>Create repos (public and/or private)<ept id="6a2637c6-bf99-416e-95e7-140c98cb9b60CapsExtId1">&lt;/linkText&gt;</ept><bpt id="6a2637c6-bf99-416e-95e7-140c98cb9b60CapsExtId2">&lt;title&gt;</bpt><ept id="6a2637c6-bf99-416e-95e7-140c98cb9b60CapsExtId2">&lt;/title&gt;</ept></source>
+          <target state="new"><bpt id="6a2637c6-bf99-416e-95e7-140c98cb9b60CapsExtId1">&lt;linkText&gt;</bpt>Create repos (public and/or private)<ept id="6a2637c6-bf99-416e-95e7-140c98cb9b60CapsExtId1">&lt;/linkText&gt;</ept><bpt id="6a2637c6-bf99-416e-95e7-140c98cb9b60CapsExtId2">&lt;title&gt;</bpt><ept id="6a2637c6-bf99-416e-95e7-140c98cb9b60CapsExtId2">&lt;/title&gt;</ept></target>
+        </trans-unit>
+        <trans-unit id="6f44c3a5-2838-4284-ab87-b40dd64afc4f" xml:space="preserve">
+          <source>Content owner</source>
+          <target state="new">Content owner</target>
+        </trans-unit>
+        <trans-unit id="2d7d0457-ffb6-401b-9b49-91fa7c1b0ca4" xml:space="preserve">
+          <source>1 hour</source>
+          <target state="new">1 hour</target>
+        </trans-unit>
+        <trans-unit id="1de7f969-b958-474a-b885-beca890c6117" xml:space="preserve">
+          <source><bpt id="38a15912-a075-48f0-8d7a-c74a0f003d15CapsExtId1">&lt;linkText&gt;</bpt>Provision the repo(s)<ept id="38a15912-a075-48f0-8d7a-c74a0f003d15CapsExtId1">&lt;/linkText&gt;</ept><bpt id="38a15912-a075-48f0-8d7a-c74a0f003d15CapsExtId2">&lt;title&gt;</bpt><ept id="38a15912-a075-48f0-8d7a-c74a0f003d15CapsExtId2">&lt;/title&gt;</ept></source>
+          <target state="new"><bpt id="38a15912-a075-48f0-8d7a-c74a0f003d15CapsExtId1">&lt;linkText&gt;</bpt>Provision the repo(s)<ept id="38a15912-a075-48f0-8d7a-c74a0f003d15CapsExtId1">&lt;/linkText&gt;</ept><bpt id="38a15912-a075-48f0-8d7a-c74a0f003d15CapsExtId2">&lt;title&gt;</bpt><ept id="38a15912-a075-48f0-8d7a-c74a0f003d15CapsExtId2">&lt;/title&gt;</ept></target>
+        </trans-unit>
+        <trans-unit id="95f9efd7-356f-4c7b-957c-da3847fce763" xml:space="preserve">
+          <source>Content owner and VSC</source>
+          <target state="new">Content owner and VSC</target>
+        </trans-unit>
+        <trans-unit id="cf31f055-f092-459c-bb9a-df8260f9f229" xml:space="preserve">
+          <source>4 hours</source>
+          <target state="new">4 hours</target>
+        </trans-unit>
+        <trans-unit id="8925e4ee-0c67-4db1-95f7-6555af564fb9" xml:space="preserve">
+          <source><bpt id="81213251-1a0e-4daa-bcc3-1f50e1561af0CapsExtId1">&lt;linkText&gt;</bpt>Define repo and URL structure<ept id="81213251-1a0e-4daa-bcc3-1f50e1561af0CapsExtId1">&lt;/linkText&gt;</ept><bpt id="81213251-1a0e-4daa-bcc3-1f50e1561af0CapsExtId2">&lt;title&gt;</bpt><ept id="81213251-1a0e-4daa-bcc3-1f50e1561af0CapsExtId2">&lt;/title&gt;</ept></source>
+          <target state="new"><bpt id="81213251-1a0e-4daa-bcc3-1f50e1561af0CapsExtId1">&lt;linkText&gt;</bpt>Define repo and URL structure<ept id="81213251-1a0e-4daa-bcc3-1f50e1561af0CapsExtId1">&lt;/linkText&gt;</ept><bpt id="81213251-1a0e-4daa-bcc3-1f50e1561af0CapsExtId2">&lt;title&gt;</bpt><ept id="81213251-1a0e-4daa-bcc3-1f50e1561af0CapsExtId2">&lt;/title&gt;</ept></target>
+        </trans-unit>
+        <trans-unit id="715c75ea-9031-4d75-b5c5-6f1564e57666" xml:space="preserve">
+          <source>Content owner</source>
+          <target state="new">Content owner</target>
+        </trans-unit>
+        <trans-unit id="57a90342-8239-446c-8b57-f5fd74927092" xml:space="preserve">
+          <source>Not available</source>
+          <target state="new">Not available</target>
+        </trans-unit>
+        <trans-unit id="3c920757-056b-408d-be78-f6da99997d9d" xml:space="preserve">
+          <source><bpt id="828c84ad-8b1e-44e4-b9f1-e118f859b88eCapsExtId1">&lt;linkText&gt;</bpt>Create content in GFM Markdown<ept id="828c84ad-8b1e-44e4-b9f1-e118f859b88eCapsExtId1">&lt;/linkText&gt;</ept><bpt id="828c84ad-8b1e-44e4-b9f1-e118f859b88eCapsExtId2">&lt;title&gt;</bpt><ept id="828c84ad-8b1e-44e4-b9f1-e118f859b88eCapsExtId2">&lt;/title&gt;</ept></source>
+          <target state="new"><bpt id="828c84ad-8b1e-44e4-b9f1-e118f859b88eCapsExtId1">&lt;linkText&gt;</bpt>Create content in GFM Markdown<ept id="828c84ad-8b1e-44e4-b9f1-e118f859b88eCapsExtId1">&lt;/linkText&gt;</ept><bpt id="828c84ad-8b1e-44e4-b9f1-e118f859b88eCapsExtId2">&lt;title&gt;</bpt><ept id="828c84ad-8b1e-44e4-b9f1-e118f859b88eCapsExtId2">&lt;/title&gt;</ept></target>
+        </trans-unit>
+        <trans-unit id="38bd124b-4126-46e9-b76f-3e4b9bb90d6b" xml:space="preserve">
+          <source>Content owner</source>
+          <target state="new">Content owner</target>
+        </trans-unit>
+        <trans-unit id="816f2d46-c899-4327-bbdd-7d3891ba96f3" xml:space="preserve">
+          <source>Not available</source>
+          <target state="new">Not available</target>
+        </trans-unit>
+        <trans-unit id="3a976874-7127-4173-bd7a-48edf31d2334" xml:space="preserve">
+          <source>Migrate content from existing repository to GitHub.</source>
+          <target state="new">Migrate content from existing repository to GitHub.</target>
+        </trans-unit>
+        <trans-unit id="3b65cfd1-0a13-4399-be33-efb639beefee" xml:space="preserve">
+          <source>We do not have a tool to do that.</source>
+          <target state="new">We do not have a tool to do that.</target>
+        </trans-unit>
+        <trans-unit id="ae75eaf8-2d00-45b5-b85e-7119a12f581a" xml:space="preserve">
+          <source>Content onwer</source>
+          <target state="new">Content onwer</target>
+        </trans-unit>
+        <trans-unit id="a13ab095-cd7f-41fe-b0f4-6bbb8166e406" xml:space="preserve">
+          <source>Not available</source>
+          <target state="new">Not available</target>
+        </trans-unit>
+        <trans-unit id="d82e5dfe-0990-46e0-aedc-66612eb12f95" xml:space="preserve">
+          <source><bpt id="effaba39-ef55-4dcd-b96c-142f573e051bCapsExtId1">&lt;linkText&gt;</bpt>Create the Table of Contents<ept id="effaba39-ef55-4dcd-b96c-142f573e051bCapsExtId1">&lt;/linkText&gt;</ept><bpt id="effaba39-ef55-4dcd-b96c-142f573e051bCapsExtId2">&lt;title&gt;</bpt><ept id="effaba39-ef55-4dcd-b96c-142f573e051bCapsExtId2">&lt;/title&gt;</ept></source>
+          <target state="new"><bpt id="effaba39-ef55-4dcd-b96c-142f573e051bCapsExtId1">&lt;linkText&gt;</bpt>Create the Table of Contents<ept id="effaba39-ef55-4dcd-b96c-142f573e051bCapsExtId1">&lt;/linkText&gt;</ept><bpt id="effaba39-ef55-4dcd-b96c-142f573e051bCapsExtId2">&lt;title&gt;</bpt><ept id="effaba39-ef55-4dcd-b96c-142f573e051bCapsExtId2">&lt;/title&gt;</ept></target>
+        </trans-unit>
+        <trans-unit id="28854008-8be6-4101-9b12-863eef56a483" xml:space="preserve">
+          <source>Content owner</source>
+          <target state="new">Content owner</target>
+        </trans-unit>
+        <trans-unit id="bcaa5763-7f21-4866-9a50-415c43634005" xml:space="preserve">
+          <source>1 hour and ongoing</source>
+          <target state="new">1 hour and ongoing</target>
+        </trans-unit>
+        <trans-unit id="5184ae19-f2f5-48c2-ab11-0d2eede2d7b3" xml:space="preserve">
+          <source>Test everything works as expected</source>
+          <target state="new">Test everything works as expected</target>
+        </trans-unit>
+        <trans-unit id="89dcb856-3279-489a-925e-f9cede72f3fd" xml:space="preserve">
+          <source>Content owner</source>
+          <target state="new">Content owner</target>
+        </trans-unit>
+        <trans-unit id="073b34fe-e489-4dc6-9f9d-73a9596ab60b" xml:space="preserve">
+          <source>8 hours maximum</source>
+          <target state="new">8 hours maximum</target>
+        </trans-unit>
+        <trans-unit id="791caf48-9977-4805-ba2d-d467c4ea1274" xml:space="preserve">
+          <source><bpt id="dbeaf3a9-c269-452e-954d-5e85d1b2250cCapsExtId1">&lt;linkText&gt;</bpt>Pave over MTPS content and redirect content to OP<ept id="dbeaf3a9-c269-452e-954d-5e85d1b2250cCapsExtId1">&lt;/linkText&gt;</ept><bpt id="dbeaf3a9-c269-452e-954d-5e85d1b2250cCapsExtId2">&lt;title&gt;</bpt><ept id="dbeaf3a9-c269-452e-954d-5e85d1b2250cCapsExtId2">&lt;/title&gt;</ept></source>
+          <target state="new"><bpt id="dbeaf3a9-c269-452e-954d-5e85d1b2250cCapsExtId1">&lt;linkText&gt;</bpt>Pave over MTPS content and redirect content to OP<ept id="dbeaf3a9-c269-452e-954d-5e85d1b2250cCapsExtId1">&lt;/linkText&gt;</ept><bpt id="dbeaf3a9-c269-452e-954d-5e85d1b2250cCapsExtId2">&lt;title&gt;</bpt><ept id="dbeaf3a9-c269-452e-954d-5e85d1b2250cCapsExtId2">&lt;/title&gt;</ept></target>
+        </trans-unit>
+        <trans-unit id="f0f4b700-c37f-46d9-8c3c-fd40639e65ef" xml:space="preserve">
+          <source>Content owner and VSC</source>
+          <target state="new">Content owner and VSC</target>
+        </trans-unit>
+        <trans-unit id="0578b066-ca50-4282-9843-5f30d0475e00" xml:space="preserve">
+          <source>Not available</source>
+          <target state="new">Not available</target>
+        </trans-unit>
+      </group>
+    </body>
+  </file>
+</xliff>

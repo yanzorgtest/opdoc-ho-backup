@@ -1,0 +1,141 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<xliff version="1.2" xmlns="urn:oasis:names:tc:xliff:document:1.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:oasis:names:tc:xliff:document:1.2 xliff-core-1.2-transitional.xsd">
+  <file datatype="xml" source-language="en-us" target-language="de-de" original="foo.file" tool-id="79cc8e9f-5b4e-43fb-bf44-9eaf8ce20938" product-name="foo" product-version="1.0" build-num="1">
+    <header>
+      <tool tool-id="79cc8e9f-5b4e-43fb-bf44-9eaf8ce20938" tool-name="MarkdownToXliff" tool-version="1.0" tool-company="Microsoft" />
+      <olfilehash xmlns="">0f4d3a594aebfe4c15e49e2a6377fb0abdbed982</olfilehash>
+    </header>
+    <body>
+      <group id="ef968f4e-59fb-4b7c-b0f5-1a72d6637132">
+        <trans-unit id="05f4ede5-8e0c-4cf8-a066-70a8f81e4e8e" xml:space="preserve">
+          <source>Converting WDCML to Markdown for Open Publishing</source>
+          <target state="new">Converting WDCML to Markdown for Open Publishing</target>
+        </trans-unit>
+        <trans-unit id="82fa7a0b-0ed5-40c3-9bf4-9dc238b0224d" xml:space="preserve">
+          <source>This topic describes how to convert WDCML to Markdown that validates and renders correctly in the MSDN Open Publishing environment.</source>
+          <target state="new">This topic describes how to convert WDCML to Markdown that validates and renders correctly in the MSDN Open Publishing environment.</target>
+        </trans-unit>
+        <trans-unit id="6b229a0e-9c7f-42c2-a143-c134d066554e" xml:space="preserve">
+          <source>First, install Pandoc and use <bpt id="0724cdb5-0c56-4308-b186-3aeef37fda30">&lt;code&gt;</bpt>cbx msdn markdown<ept id="0724cdb5-0c56-4308-b186-3aeef37fda30">&lt;/code&gt;</ept> to build your project into .md files.</source>
+          <target state="new">First, install Pandoc and use <bpt id="0724cdb5-0c56-4308-b186-3aeef37fda30">&lt;code&gt;</bpt>cbx msdn markdown<ept id="0724cdb5-0c56-4308-b186-3aeef37fda30">&lt;/code&gt;</ept> to build your project into .md files.</target>
+        </trans-unit>
+        <trans-unit id="570d5e78-9af5-420e-a7ca-7102af73e558" xml:space="preserve">
+          <source>Then, use these steps to modify the resulting .md files so that they pass OP validation.</source>
+          <target state="new">Then, use these steps to modify the resulting .md files so that they pass OP validation.</target>
+        </trans-unit>
+        <trans-unit id="462314c9-aca6-44c1-a750-6e5b8f030824" xml:space="preserve">
+          <source>Fix links as follows:</source>
+          <target state="new">Fix links as follows:</target>
+        </trans-unit>
+        <trans-unit id="aeb945e6-00df-4ec2-b036-77fb89600682" xml:space="preserve">
+          <source>Replace .htm link suffixes with .md, for in-project targets, for example:</source>
+          <target state="new">Replace .htm link suffixes with .md, for in-project targets, for example:</target>
+        </trans-unit>
+        <trans-unit id="fdce92f8-1c5d-496a-8dac-e930621f6d18" xml:space="preserve">
+          <source><bpt id="231a2de3-34fd-463b-9339-c2fc01f1f086">&lt;code&gt;</bpt>[Creating a Driver From Existing Source Files](creating_a_driver_from_existing_source_files.htm)<ept id="231a2de3-34fd-463b-9339-c2fc01f1f086">&lt;/code&gt;</ept>.</source>
+          <target state="new"><bpt id="231a2de3-34fd-463b-9339-c2fc01f1f086">&lt;code&gt;</bpt>[Creating a Driver From Existing Source Files](creating_a_driver_from_existing_source_files.htm)<ept id="231a2de3-34fd-463b-9339-c2fc01f1f086">&lt;/code&gt;</ept>.</target>
+        </trans-unit>
+        <trans-unit id="58faaecd-bfeb-4a28-8a60-b488c81af6a9" xml:space="preserve">
+          <source>Replace A keywords with URLs, for example:</source>
+          <target state="new">Replace A keywords with URLs, for example:</target>
+        </trans-unit>
+        <trans-unit id="c21d2590-79e5-440f-9315-22d70dbb6b03" xml:space="preserve">
+          <source><bpt id="bea54abb-9f09-4fcc-a9a8-7a358eede412">&lt;code&gt;</bpt>[Kernel-Mode Driver Framework](kmdf.portal)<ept id="bea54abb-9f09-4fcc-a9a8-7a358eede412">&lt;/code&gt;</ept></source>
+          <target state="new"><bpt id="bea54abb-9f09-4fcc-a9a8-7a358eede412">&lt;code&gt;</bpt>[Kernel-Mode Driver Framework](kmdf.portal)<ept id="bea54abb-9f09-4fcc-a9a8-7a358eede412">&lt;/code&gt;</ept></target>
+        </trans-unit>
+        <trans-unit id="8f85da54-ae46-4632-a0ed-a6f3b3f664ea" xml:space="preserve">
+          <source><bpt id="f4b3844b-425e-47f9-b584-16a32fbc0b98">&lt;code&gt;</bpt>&lt;a href="wmi.mofcomp"&gt;&lt;strong&gt;mofcomp&lt;/strong&gt;&lt;/a&gt;<ept id="f4b3844b-425e-47f9-b584-16a32fbc0b98">&lt;/code&gt;</ept></source>
+          <target state="new"><bpt id="f4b3844b-425e-47f9-b584-16a32fbc0b98">&lt;code&gt;</bpt>&lt;a href="wmi.mofcomp"&gt;&lt;strong&gt;mofcomp&lt;/strong&gt;&lt;/a&gt;<ept id="f4b3844b-425e-47f9-b584-16a32fbc0b98">&lt;/code&gt;</ept></target>
+        </trans-unit>
+        <trans-unit id="80bba293-5334-4b32-ae23-d3b8a7ea0189" xml:space="preserve">
+          <source>Switch references to upper case Images directory to images: <bpt id="18bcaa3c-90cb-4014-a68f-80ecb63f794e">&lt;code&gt;</bpt>![Visual Studio Solution Explorer Driver Package Project](images/VsSlnExplorer.png)<ept id="18bcaa3c-90cb-4014-a68f-80ecb63f794e">&lt;/code&gt;</ept></source>
+          <target state="new">Switch references to upper case Images directory to images: <bpt id="18bcaa3c-90cb-4014-a68f-80ecb63f794e">&lt;code&gt;</bpt>![Visual Studio Solution Explorer Driver Package Project](images/VsSlnExplorer.png)<ept id="18bcaa3c-90cb-4014-a68f-80ecb63f794e">&lt;/code&gt;</ept></target>
+        </trans-unit>
+        <trans-unit id="6a5e626c-8c1d-476c-be03-6aac1a9477c1" xml:space="preserve">
+          <source>Remove %20: <bpt id="0342070a-461d-4606-8dbb-9881dc0764ec">&lt;code&gt;</bpt>[MSBuild](%20http://go.microsoft.com/fwlink/p/?linkid=262804)<ept id="0342070a-461d-4606-8dbb-9881dc0764ec">&lt;/code&gt;</ept></source>
+          <target state="new">Remove %20: <bpt id="0342070a-461d-4606-8dbb-9881dc0764ec">&lt;code&gt;</bpt>[MSBuild](%20http://go.microsoft.com/fwlink/p/?linkid=262804)<ept id="0342070a-461d-4606-8dbb-9881dc0764ec">&lt;/code&gt;</ept></target>
+        </trans-unit>
+        <trans-unit id="e8048fb9-e648-4ccd-a946-d4ec0e331127" xml:space="preserve">
+          <source>Add common/wedge.gif.</source>
+          <target state="new">Add common/wedge.gif.</target>
+        </trans-unit>
+        <trans-unit id="1b343712-6f35-4ada-948a-533f3882e6a2" xml:space="preserve">
+          <source>Place the common directory as a child of your main docset directory.</source>
+          <target state="new">Place the common directory as a child of your main docset directory.</target>
+        </trans-unit>
+        <trans-unit id="9d6ead7d-0fa9-4f3f-8a37-e3141acb69c6" xml:space="preserve">
+          <source>In the Markdown files, change references to <bpt id="b411d895-6316-4adb-88a0-b77d48880b72">&lt;code&gt;</bpt>![](../common/wedge.gif)<ept id="b411d895-6316-4adb-88a0-b77d48880b72">&lt;/code&gt;</ept> to <bpt id="36d828be-5179-4942-8ea9-9e8609f1b2d0">&lt;code&gt;</bpt>![](common/wedge.gif)<ept id="36d828be-5179-4942-8ea9-9e8609f1b2d0">&lt;/code&gt;</ept>.</source>
+          <target state="new">In the Markdown files, change references to <bpt id="b411d895-6316-4adb-88a0-b77d48880b72">&lt;code&gt;</bpt>![](../common/wedge.gif)<ept id="b411d895-6316-4adb-88a0-b77d48880b72">&lt;/code&gt;</ept> to <bpt id="36d828be-5179-4942-8ea9-9e8609f1b2d0">&lt;code&gt;</bpt>![](common/wedge.gif)<ept id="36d828be-5179-4942-8ea9-9e8609f1b2d0">&lt;/code&gt;</ept>.</target>
+        </trans-unit>
+        <trans-unit id="a506a381-5e9d-4d51-8c26-fb1dcfa5fb16" xml:space="preserve">
+          <source>In the OP environment, you cannot use relative references that go above the docset directory.</source>
+          <target state="new">In the OP environment, you cannot use relative references that go above the docset directory.</target>
+        </trans-unit>
+        <trans-unit id="e6d51813-ac97-49ad-966a-b5e567ef13dc" xml:space="preserve">
+          <source>If See Also links are concatenated, prepend asterisks to create bullet list.</source>
+          <target state="new">If See Also links are concatenated, prepend asterisks to create bullet list.</target>
+        </trans-unit>
+        <trans-unit id="f524568e-f027-4b96-9385-22fd32a8d2e4" xml:space="preserve">
+          <source>Create TOC.md in parent directory.</source>
+          <target state="new">Create TOC.md in parent directory.</target>
+        </trans-unit>
+        <trans-unit id="1776c78b-53e1-460b-8336-909faa7968b5" xml:space="preserve">
+          <source>Delete second occurrence of local target string: <bpt id="d03cd9b4-4cc7-493d-a3f1-c7678488874e">&lt;code&gt;</bpt>[Manually installing WDTF on a test computer](dtf.runtime_library#manual_install_wdtf#manual_install_wdtf)<ept id="d03cd9b4-4cc7-493d-a3f1-c7678488874e">&lt;/code&gt;</ept></source>
+          <target state="new">Delete second occurrence of local target string: <bpt id="d03cd9b4-4cc7-493d-a3f1-c7678488874e">&lt;code&gt;</bpt>[Manually installing WDTF on a test computer](dtf.runtime_library#manual_install_wdtf#manual_install_wdtf)<ept id="d03cd9b4-4cc7-493d-a3f1-c7678488874e">&lt;/code&gt;</ept></target>
+        </trans-unit>
+        <trans-unit id="6e3ca610-e981-4c5a-919b-770c6d55aaac" xml:space="preserve">
+          <source>Update embedded video links from: <bpt id="90725d19-8631-4f19-bab9-0b4cf956a695">&lt;code&gt;</bpt>![]()<ept id="90725d19-8631-4f19-bab9-0b4cf956a695">&lt;/code&gt;</ept></source>
+          <target state="new">Update embedded video links from: <bpt id="90725d19-8631-4f19-bab9-0b4cf956a695">&lt;code&gt;</bpt>![]()<ept id="90725d19-8631-4f19-bab9-0b4cf956a695">&lt;/code&gt;</ept></target>
+        </trans-unit>
+        <trans-unit id="8fff473e-b913-42fa-bc05-1254d910b696" xml:space="preserve">
+          <source>to look like this: <bpt id="32aad925-631a-4f15-969a-22d817780648">&lt;code&gt;</bpt>&lt;iframe src="https://hubs-video.ssl.catalog.video.msn.com/embed/57464a96-8900-4194-b806-813eb1dd6ac6/IA?csid=ux-en-us&amp;MsnPlayerLeadsWith=html&amp;PlaybackMode=Inline&amp;MsnPlayerDisplayShareBar=false&amp;MsnPlayerDisplayInfoButton=false&amp;iframe=true&amp;QualityOverride=HD" width="720" height="405" allowFullScreen="true" frameBorder="0" scrolling="no"&gt;&lt;/iframe&gt;<ept id="32aad925-631a-4f15-969a-22d817780648">&lt;/code&gt;</ept></source>
+          <target state="new">to look like this: <bpt id="32aad925-631a-4f15-969a-22d817780648">&lt;code&gt;</bpt>&lt;iframe src="https://hubs-video.ssl.catalog.video.msn.com/embed/57464a96-8900-4194-b806-813eb1dd6ac6/IA?csid=ux-en-us&amp;MsnPlayerLeadsWith=html&amp;PlaybackMode=Inline&amp;MsnPlayerDisplayShareBar=false&amp;MsnPlayerDisplayInfoButton=false&amp;iframe=true&amp;QualityOverride=HD" width="720" height="405" allowFullScreen="true" frameBorder="0" scrolling="no"&gt;&lt;/iframe&gt;<ept id="32aad925-631a-4f15-969a-22d817780648">&lt;/code&gt;</ept></target>
+        </trans-unit>
+        <trans-unit id="809fbc4f-b29a-4fd3-b5a5-fe1dc719a78b" xml:space="preserve">
+          <source>Remove initial span so that OP creates correct topic title for text on browser tab: <bpt id="a84edd8c-121b-4e6f-9f33-d779ee12fadd">&lt;code&gt;</bpt>&lt;span id="vsdriver.avoiding_floating_point_errors_in_custom_build_environments"&gt;&lt;/span&gt;<ept id="a84edd8c-121b-4e6f-9f33-d779ee12fadd">&lt;/code&gt;</ept></source>
+          <target state="new">Remove initial span so that OP creates correct topic title for text on browser tab: <bpt id="a84edd8c-121b-4e6f-9f33-d779ee12fadd">&lt;code&gt;</bpt>&lt;span id="vsdriver.avoiding_floating_point_errors_in_custom_build_environments"&gt;&lt;/span&gt;<ept id="a84edd8c-121b-4e6f-9f33-d779ee12fadd">&lt;/code&gt;</ept></target>
+        </trans-unit>
+        <trans-unit id="64e8d398-6b7e-4a60-9a6d-88273eb01eb6" xml:space="preserve">
+          <source>Remove nested parentheses from links: <bpt id="702bfdf9-8e0a-4a54-bbc8-5b63570fb4b5">&lt;code&gt;</bpt>[InfVerif](https://msdn.microsoft.com/en-us/Library/Windows/Hardware/Dn929319(v=vs.85).aspx)<ept id="702bfdf9-8e0a-4a54-bbc8-5b63570fb4b5">&lt;/code&gt;</ept></source>
+          <target state="new">Remove nested parentheses from links: <bpt id="702bfdf9-8e0a-4a54-bbc8-5b63570fb4b5">&lt;code&gt;</bpt>[InfVerif](https://msdn.microsoft.com/en-us/Library/Windows/Hardware/Dn929319(v=vs.85).aspx)<ept id="702bfdf9-8e0a-4a54-bbc8-5b63570fb4b5">&lt;/code&gt;</ept></target>
+        </trans-unit>
+        <trans-unit id="2d0f1fb8-41e1-49a4-8155-3d838ff82754" xml:space="preserve">
+          <source>For mailto links, replace nested parentheses with %28, %29: <bpt id="b4a8749b-d8d6-4e55-87fe-8095672f7ed0">&lt;code&gt;</bpt>[Send comments about this topic to Microsoft](mailto:wsddocfb@microsoft.com?subject=Documentation%20feedback%20[VsDriver\vsdriver]:%20Analyzing%20a%20Driver%20Using%20Code%20Analysis%20and%20Verification%20Tools%20%20RELEASE:%20(9/30/2015)&amp;body=...<ept id="b4a8749b-d8d6-4e55-87fe-8095672f7ed0">&lt;/code&gt;</ept> Topics that contain parentheses in the topic title also cause additional parentheses in the mailto link: <bpt id="75a722c4-9baf-4d97-b710-4161dc128ba9">&lt;code&gt;</bpt>[Send comments about this topic to Microsoft](mailto:wsddocfb@microsoft.com?subject=Documentation%20feedback%20[VsDriver\vsdriver]:%20What%20happens%20when%20you%20provision%20a%20computer%20(WDK%208.0)%20%20RELEASE:%20%289/30/2015%29<ept id="75a722c4-9baf-4d97-b710-4161dc128ba9">&lt;/code&gt;</ept></source>
+          <target state="new">For mailto links, replace nested parentheses with %28, %29: <bpt id="b4a8749b-d8d6-4e55-87fe-8095672f7ed0">&lt;code&gt;</bpt>[Send comments about this topic to Microsoft](mailto:wsddocfb@microsoft.com?subject=Documentation%20feedback%20[VsDriver\vsdriver]:%20Analyzing%20a%20Driver%20Using%20Code%20Analysis%20and%20Verification%20Tools%20%20RELEASE:%20(9/30/2015)&amp;body=...<ept id="b4a8749b-d8d6-4e55-87fe-8095672f7ed0">&lt;/code&gt;</ept> Topics that contain parentheses in the topic title also cause additional parentheses in the mailto link: <bpt id="75a722c4-9baf-4d97-b710-4161dc128ba9">&lt;code&gt;</bpt>[Send comments about this topic to Microsoft](mailto:wsddocfb@microsoft.com?subject=Documentation%20feedback%20[VsDriver\vsdriver]:%20What%20happens%20when%20you%20provision%20a%20computer%20(WDK%208.0)%20%20RELEASE:%20%289/30/2015%29<ept id="75a722c4-9baf-4d97-b710-4161dc128ba9">&lt;/code&gt;</ept></target>
+        </trans-unit>
+        <trans-unit id="307ca2e2-200c-4dd6-b734-9c37e8a21260" xml:space="preserve">
+          <source>Remove extra whitespace that occurs after a <bpt id="70911fe6-c059-4c70-a43a-63442b2d96fb">&lt;strong&gt;</bpt>Note<ept id="70911fe6-c059-4c70-a43a-63442b2d96fb">&lt;/strong&gt;</ept> inside a numbered list item, because it causes OP to start numbering again from 1.</source>
+          <target state="new">Remove extra whitespace that occurs after a <bpt id="70911fe6-c059-4c70-a43a-63442b2d96fb">&lt;strong&gt;</bpt>Note<ept id="70911fe6-c059-4c70-a43a-63442b2d96fb">&lt;/strong&gt;</ept> inside a numbered list item, because it causes OP to start numbering again from 1.</target>
+        </trans-unit>
+        <trans-unit id="f451a60b-cc14-441a-ab01-45daea425de4" xml:space="preserve">
+          <source>Leave one blank line remaining.</source>
+          <target state="new">Leave one blank line remaining.</target>
+        </trans-unit>
+        <trans-unit id="311a9ae4-5d8b-433f-b53b-0d84e7fa02f4" xml:space="preserve">
+          <source>Remove copyright line: `© 2015 Microsoft.</source>
+          <target state="new">Remove copyright line: `© 2015 Microsoft.</target>
+        </trans-unit>
+        <trans-unit id="8a45760b-e164-453a-a25c-54d1a8f39b9f" xml:space="preserve">
+          <source>All rights reserved.`</source>
+          <target state="new">All rights reserved.`</target>
+        </trans-unit>
+        <trans-unit id="78657767-6604-4881-9b05-0b7d0963c848" xml:space="preserve">
+          <source>Copyright is handled at site level.</source>
+          <target state="new">Copyright is handled at site level.</target>
+        </trans-unit>
+        <trans-unit id="b4314d56-054f-4406-868e-8cb01d131255" xml:space="preserve">
+          <source>Ensure that image file suffixes are lower case, i.e. not PNG.</source>
+          <target state="new">Ensure that image file suffixes are lower case, i.e. not PNG.</target>
+        </trans-unit>
+        <trans-unit id="c960ce8b-c2da-48e1-8729-067d6f6ae3a0" xml:space="preserve">
+          <source>If alignment is incorrect, add a line break after image references.</source>
+          <target state="new">If alignment is incorrect, add a line break after image references.</target>
+        </trans-unit>
+        <trans-unit id="c3cb0b5c-d2a8-4a8b-838d-ef78c414d94d" xml:space="preserve">
+          <source>Snippet type input converts to <bpt id="ef27f6ef-f09e-4930-af57-5fd77f882074">&lt;html&gt;</bpt><ept id="ef27f6ef-f09e-4930-af57-5fd77f882074">&lt;/html&gt;</ept>, but snippet type code converts to a table, which gets padded with extra whitespace.  TBD: why are regular tables not padded similarly?</source>
+          <target state="new">Snippet type input converts to <bpt id="ef27f6ef-f09e-4930-af57-5fd77f882074">&lt;html&gt;</bpt><ept id="ef27f6ef-f09e-4930-af57-5fd77f882074">&lt;/html&gt;</ept>, but snippet type code converts to a table, which gets padded with extra whitespace.  TBD: why are regular tables not padded similarly?</target>
+        </trans-unit>
+      </group>
+    </body>
+  </file>
+</xliff>

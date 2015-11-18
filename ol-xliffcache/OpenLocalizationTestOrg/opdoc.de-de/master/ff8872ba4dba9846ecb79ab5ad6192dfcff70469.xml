@@ -1,0 +1,453 @@
+﻿<markdown_skeleton_root>
+  <block_element>
+    <ArrayOfMarkdownBlockBase xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+      <MarkdownBlockBase
+        xsi:type="MarkdownHeaderBlock"
+        item_id="efa92331-c4aa-4d75-95bf-8d6765630817"
+        item_type="Header"
+        item_footer="footer_not_set">
+        <segment>
+          <SegmentId>53f306f2-cfe9-4c3f-bfc1-21e82203f2ca</SegmentId>
+          <LinkItem
+            internal_item_id="498e8984-3819-41f7-8677-cc9dfef89971"
+            internal_item_type="Link">
+            <internal_items />
+            <internal_link_type>Inline</internal_link_type>
+            <internal_link_text>Open Publishing Introduction</internal_link_text>
+            <internal_link_url>introduction.md</internal_link_url>
+            <internal_link_title />
+          </LinkItem>
+        </segment>
+        <header_type>Star</header_type>
+        <header_level>1</header_level>
+      </MarkdownBlockBase>
+      <MarkdownBlockBase
+        xsi:type="MarkdownHeaderBlock"
+        item_id="daae04bd-6dbc-4716-8125-68d580f41184"
+        item_type="Header"
+        item_footer="footer_not_set">
+        <segment>
+          <SegmentId>9ad4abae-53c4-4fd8-99e8-0cc67220ae74</SegmentId>
+          <LinkItem
+            internal_item_id="fd1ecf31-52d2-4f57-96aa-024a8064e4ab"
+            internal_item_type="Link">
+            <internal_items />
+            <internal_link_type>Inline</internal_link_type>
+            <internal_link_text>Connect with us and TFS information</internal_link_text>
+            <internal_link_url>connect.md</internal_link_url>
+            <internal_link_title />
+          </LinkItem>
+        </segment>
+        <header_type>Star</header_type>
+        <header_level>1</header_level>
+      </MarkdownBlockBase>
+      <MarkdownBlockBase
+        xsi:type="MarkdownHeaderBlock"
+        item_id="6b047beb-7539-4e3f-88ac-20cda0385357"
+        item_type="Header"
+        item_footer="footer_not_set">
+        <segment>
+          <SegmentId>5e7d104e-8a0d-422b-a555-c466f86e7f9a</SegmentId>
+          <LinkItem
+            internal_item_id="11ac19eb-ef40-4513-b825-27b3edda73b9"
+            internal_item_type="Link">
+            <internal_items />
+            <internal_link_type>Inline</internal_link_type>
+            <internal_link_text>Onboarding to Open Publishing</internal_link_text>
+            <internal_link_url>Onboarding-steps.md</internal_link_url>
+            <internal_link_title />
+          </LinkItem>
+        </segment>
+        <header_type>Star</header_type>
+        <header_level>1</header_level>
+      </MarkdownBlockBase>
+      <MarkdownBlockBase
+        xsi:type="MarkdownHeaderBlock"
+        item_id="72406c1f-57f7-4cc1-8254-5f677f865e3c"
+        item_type="Header"
+        item_footer="footer_not_set">
+        <segment>
+          <SegmentId>f1cc82b6-5c57-4f6c-aaad-6b8931a6869d</SegmentId>
+          <LinkItem
+            internal_item_id="3ec3c6ac-c717-4787-96a1-9967af1d6cee"
+            internal_item_type="Link">
+            <internal_items />
+            <internal_link_type>Inline</internal_link_type>
+            <internal_link_text>Partner sign off</internal_link_text>
+            <internal_link_url>partnerdocs/partner-signoff.md</internal_link_url>
+            <internal_link_title />
+          </LinkItem>
+        </segment>
+        <header_type>Star</header_type>
+        <header_level>1</header_level>
+      </MarkdownBlockBase>
+      <MarkdownBlockBase
+        xsi:type="MarkdownHeaderBlock"
+        item_id="d76eb369-209e-4de8-a14c-3205aa6c4c11"
+        item_type="Header"
+        item_footer="footer_not_set">
+        <segment>
+          <SegmentId>7fc67f2d-bc83-4f60-b0d2-9bcad0313b38</SegmentId>
+          <InternalNormalItem
+            internal_item_id="c775d1a4-3102-4412-8ebf-eb83b1bc97d2"
+            internal_item_type="Normal">
+            <internal_items />
+          </InternalNormalItem>
+        </segment>
+        <header_type>Star</header_type>
+        <header_level>1</header_level>
+      </MarkdownBlockBase>
+      <MarkdownBlockBase
+        xsi:type="MarkdownHeaderBlock"
+        item_id="1d819d7f-44dd-4e61-82e9-f0e8e5ed24ff"
+        item_type="Header"
+        item_footer="footer_not_set">
+        <segment>
+          <SegmentId>7926e19d-7a73-4751-936f-6254cff3d75d</SegmentId>
+          <LinkItem
+            internal_item_id="a3f5b376-df3d-4d21-9af6-8530a5fb323f"
+            internal_item_type="Link">
+            <internal_items />
+            <internal_link_type>Inline</internal_link_type>
+            <internal_link_text>Creating the GIT repos</internal_link_text>
+            <internal_link_url>partnerdocs/repo-creation.md</internal_link_url>
+            <internal_link_title />
+          </LinkItem>
+        </segment>
+        <header_type>Star</header_type>
+        <header_level>2</header_level>
+      </MarkdownBlockBase>
+      <MarkdownBlockBase
+        xsi:type="MarkdownHeaderBlock"
+        item_id="9e00f3bf-254a-4248-baa1-813ae9071f0d"
+        item_type="Header"
+        item_footer="footer_not_set">
+        <segment>
+          <SegmentId>1566ae87-fa08-4851-8e80-2f3ea1640625</SegmentId>
+          <LinkItem
+            internal_item_id="95a5681a-9413-4f3e-9974-d2ce7726ad54"
+            internal_item_type="Link">
+            <internal_items />
+            <internal_link_type>Inline</internal_link_type>
+            <internal_link_text>Configuring the repos</internal_link_text>
+            <internal_link_url>partnerdocs/repo-config.md</internal_link_url>
+            <internal_link_title />
+          </LinkItem>
+        </segment>
+        <header_type>Star</header_type>
+        <header_level>2</header_level>
+      </MarkdownBlockBase>
+      <MarkdownBlockBase
+        xsi:type="MarkdownHeaderBlock"
+        item_id="77c3b58c-3f32-40b5-836e-39dddbda3e35"
+        item_type="Header"
+        item_footer="footer_not_set">
+        <segment>
+          <SegmentId>51afd84f-9bcc-4269-9c37-0fd777187594</SegmentId>
+          <LinkItem
+            internal_item_id="dbec6bcc-8d12-4eeb-889c-7ccc75620825"
+            internal_item_type="Link">
+            <internal_items />
+            <internal_link_type>Inline</internal_link_type>
+            <internal_link_text>TOC creation and management</internal_link_text>
+            <internal_link_url>partnerdocs/TOC-management.md</internal_link_url>
+            <internal_link_title />
+          </LinkItem>
+        </segment>
+        <header_type>Star</header_type>
+        <header_level>2</header_level>
+      </MarkdownBlockBase>
+      <MarkdownBlockBase
+        xsi:type="MarkdownHeaderBlock"
+        item_id="28fbae8e-ddb1-490c-9bc4-3462ee97e483"
+        item_type="Header"
+        item_footer="footer_not_set">
+        <segment>
+          <SegmentId>2cd06280-a5be-46a3-a32a-3f54b559fca2</SegmentId>
+          <LinkItem
+            internal_item_id="56a9a75b-cbfa-4d52-96a9-4856ddb6ec31"
+            internal_item_type="Link">
+            <internal_items />
+            <internal_link_type>Inline</internal_link_type>
+            <internal_link_text>URL management</internal_link_text>
+            <internal_link_url>partnerdocs/URL-management.md</internal_link_url>
+            <internal_link_title />
+          </LinkItem>
+        </segment>
+        <header_type>Star</header_type>
+        <header_level>2</header_level>
+      </MarkdownBlockBase>
+      <MarkdownBlockBase
+        xsi:type="MarkdownHeaderBlock"
+        item_id="52519e77-2164-40f7-9db5-29498389d52f"
+        item_type="Header"
+        item_footer="footer_not_set">
+        <segment>
+          <SegmentId>971115fc-e974-4314-8842-e071de12fa15</SegmentId>
+          <LinkItem
+            internal_item_id="987a6323-168f-423b-a0dd-e42ce908cc47"
+            internal_item_type="Link">
+            <internal_items />
+            <internal_link_type>Inline</internal_link_type>
+            <internal_link_text>Paving over MTPS content</internal_link_text>
+            <internal_link_url>partnerdocs/paveover-MTPS-content.md</internal_link_url>
+            <internal_link_title />
+          </LinkItem>
+        </segment>
+        <header_type>Star</header_type>
+        <header_level>2</header_level>
+      </MarkdownBlockBase>
+      <MarkdownBlockBase
+        xsi:type="MarkdownHeaderBlock"
+        item_id="57b92bd1-f887-45ff-bdea-36766a3090d2"
+        item_type="Header"
+        item_footer="footer_not_set">
+        <segment>
+          <SegmentId>64eb3bb3-0947-40a6-866b-4a41d8a21d6d</SegmentId>
+          <InternalNormalItem
+            internal_item_id="da64ee03-2950-4bfb-bcb2-b1815048ee7f"
+            internal_item_type="Normal">
+            <internal_items />
+          </InternalNormalItem>
+        </segment>
+        <header_type>Star</header_type>
+        <header_level>1</header_level>
+      </MarkdownBlockBase>
+      <MarkdownBlockBase
+        xsi:type="MarkdownHeaderBlock"
+        item_id="e8f4a8d5-d5b8-4224-9cda-3e4515644876"
+        item_type="Header"
+        item_footer="footer_not_set">
+        <segment>
+          <SegmentId>37006596-079e-4783-979c-f4d98ad45e32</SegmentId>
+          <LinkItem
+            internal_item_id="1d37b858-48ba-4bd3-a0a3-53b0bd1dd4a5"
+            internal_item_type="Link">
+            <internal_items />
+            <internal_link_type>Inline</internal_link_type>
+            <internal_link_text>Metadata</internal_link_text>
+            <internal_link_url>partnerdocs/metadata.md</internal_link_url>
+            <internal_link_title />
+          </LinkItem>
+        </segment>
+        <header_type>Star</header_type>
+        <header_level>2</header_level>
+      </MarkdownBlockBase>
+      <MarkdownBlockBase
+        xsi:type="MarkdownHeaderBlock"
+        item_id="3fcbe924-6f1a-4b0c-919b-768a6f909619"
+        item_type="Header"
+        item_footer="footer_not_set">
+        <segment>
+          <SegmentId>7ec48f3c-2775-437b-b606-32e06114d54f</SegmentId>
+          <LinkItem
+            internal_item_id="b74ae5ba-4d2c-4fe8-a62d-d701c6b32f4b"
+            internal_item_type="Link">
+            <internal_items />
+            <internal_link_type>Inline</internal_link_type>
+            <internal_link_text>Local build and publishing</internal_link_text>
+            <internal_link_url>partnerdocs/local-build-and-preview.md</internal_link_url>
+            <internal_link_title />
+          </LinkItem>
+        </segment>
+        <header_type>Star</header_type>
+        <header_level>2</header_level>
+      </MarkdownBlockBase>
+      <MarkdownBlockBase
+        xsi:type="MarkdownHeaderBlock"
+        item_id="f62da7a1-d54e-4956-89a7-4be8fcc50ed1"
+        item_type="Header"
+        item_footer="footer_not_set">
+        <segment>
+          <SegmentId>47f93b69-4d8a-42e4-8b16-b77d1bc9ecfc</SegmentId>
+          <LinkItem
+            internal_item_id="f005ae7b-fd04-4747-a781-36cad7468ee6"
+            internal_item_type="Link">
+            <internal_items />
+            <internal_link_type>Inline</internal_link_type>
+            <internal_link_text>Content publishing</internal_link_text>
+            <internal_link_url>partnerdocs/publish.md</internal_link_url>
+            <internal_link_title />
+          </LinkItem>
+        </segment>
+        <header_type>Star</header_type>
+        <header_level>2</header_level>
+      </MarkdownBlockBase>
+      <MarkdownBlockBase
+        xsi:type="MarkdownHeaderBlock"
+        item_id="97452660-15eb-4bea-91ed-649fd33994a8"
+        item_type="Header"
+        item_footer="footer_not_set">
+        <segment>
+          <SegmentId>8480a081-359a-4090-b08a-d6ddb2a14349</SegmentId>
+          <LinkItem
+            internal_item_id="a18820ee-32d1-4e65-ab14-0ece061a630f"
+            internal_item_type="Link">
+            <internal_items />
+            <internal_link_type>Inline</internal_link_type>
+            <internal_link_text>Localization</internal_link_text>
+            <internal_link_url>partnerdocs/localization.md</internal_link_url>
+            <internal_link_title />
+          </LinkItem>
+        </segment>
+        <header_type>Star</header_type>
+        <header_level>2</header_level>
+      </MarkdownBlockBase>
+      <MarkdownBlockBase
+        xsi:type="MarkdownHeaderBlock"
+        item_id="0a767e8e-3a28-4c64-96a6-eb3bc700f03d"
+        item_type="Header"
+        item_footer="footer_not_set">
+        <segment>
+          <SegmentId>8b868a06-bb32-4e2d-93c4-c2ebdffbcca3</SegmentId>
+          <InternalNormalItem
+            internal_item_id="e4483e81-3a6a-48be-b145-53d7e2ba0633"
+            internal_item_type="Normal">
+            <internal_items />
+          </InternalNormalItem>
+        </segment>
+        <header_type>Star</header_type>
+        <header_level>1</header_level>
+      </MarkdownBlockBase>
+      <MarkdownBlockBase
+        xsi:type="MarkdownHeaderBlock"
+        item_id="f0f6d629-ca4c-4467-b5c8-44a24e30bc6a"
+        item_type="Header"
+        item_footer="footer_not_set">
+        <segment>
+          <SegmentId>249f8bfd-dbcd-4146-bc10-1c8ccfd0b3f3</SegmentId>
+          <LinkItem
+            internal_item_id="03f3690f-898d-4f42-9e0e-72efafa82d98"
+            internal_item_type="Link">
+            <internal_items />
+            <internal_link_type>Inline</internal_link_type>
+            <internal_link_text>GitHub-flavored Markdown, Extensions, and HTML code</internal_link_text>
+            <internal_link_url>partnerdocs/GFM.md</internal_link_url>
+            <internal_link_title />
+          </LinkItem>
+        </segment>
+        <header_type>Star</header_type>
+        <header_level>2</header_level>
+      </MarkdownBlockBase>
+      <MarkdownBlockBase
+        xsi:type="MarkdownHeaderBlock"
+        item_id="6c60d24d-fbe6-45cf-823b-bc456b291a75"
+        item_type="Header"
+        item_footer="footer_not_set">
+        <segment>
+          <SegmentId>4a5a7a94-688e-4898-9e1a-4e25c393851d</SegmentId>
+          <LinkItem
+            internal_item_id="230bd80e-c593-4de9-bfea-b25291da4408"
+            internal_item_type="Link">
+            <internal_items />
+            <internal_link_type>Inline</internal_link_type>
+            <internal_link_text>GitHub basic terminology</internal_link_text>
+            <internal_link_url>partnerdocs/GitHub-terminology.md</internal_link_url>
+            <internal_link_title />
+          </LinkItem>
+        </segment>
+        <header_type>Star</header_type>
+        <header_level>2</header_level>
+      </MarkdownBlockBase>
+      <MarkdownBlockBase
+        xsi:type="MarkdownHeaderBlock"
+        item_id="9df24f0a-c2f3-4d88-9dc6-a7ff09c2311a"
+        item_type="Header"
+        item_footer="footer_not_set">
+        <segment>
+          <SegmentId>8d733b9c-9da2-4b04-9c3b-f011e054d338</SegmentId>
+          <LinkItem
+            internal_item_id="912f06fc-ed1b-46d0-ab63-ec08982e32f8"
+            internal_item_type="Link">
+            <internal_items />
+            <internal_link_type>Inline</internal_link_type>
+            <internal_link_text>Doc as code info</internal_link_text>
+            <internal_link_url>http://aspnet.github.io/docfx/</internal_link_url>
+            <internal_link_title />
+          </LinkItem>
+        </segment>
+        <header_type>Star</header_type>
+        <header_level>1</header_level>
+      </MarkdownBlockBase>
+      <MarkdownBlockBase
+        xsi:type="MarkdownHeaderBlock"
+        item_id="9e620612-512d-44f5-abb5-fe82a484ed9a"
+        item_type="Header"
+        item_footer="footer_not_set">
+        <segment>
+          <SegmentId>610e544c-9185-4ad0-8a98-208bfae9cbae</SegmentId>
+          <InternalNormalItem
+            internal_item_id="8a25ac89-0c6b-49ec-9b29-c3fa9de3815c"
+            internal_item_type="Normal">
+            <internal_items />
+          </InternalNormalItem>
+        </segment>
+        <header_type>Star</header_type>
+        <header_level>1</header_level>
+      </MarkdownBlockBase>
+      <MarkdownBlockBase
+        xsi:type="MarkdownHeaderBlock"
+        item_id="dcbede9b-362b-4964-b79f-be37636a4e8e"
+        item_type="Header"
+        item_footer="footer_not_set">
+        <segment>
+          <SegmentId>eb7d0b15-3db6-49ab-a255-be3a92f82531</SegmentId>
+          <LinkItem
+            internal_item_id="0ac65539-8b42-4785-b92f-7ef9d6e0c216"
+            internal_item_type="Link">
+            <internal_items />
+            <internal_link_type>Inline</internal_link_type>
+            <internal_link_text>Open Publishing Build Design Memo</internal_link_text>
+            <internal_link_url>engdocs/open_publish_design.md</internal_link_url>
+            <internal_link_title />
+          </LinkItem>
+        </segment>
+        <header_type>Star</header_type>
+        <header_level>2</header_level>
+      </MarkdownBlockBase>
+      <MarkdownBlockBase
+        xsi:type="MarkdownHeaderBlock"
+        item_id="50da1967-0145-4281-9312-009610183d61"
+        item_type="Header"
+        item_footer="footer_not_set">
+        <segment>
+          <SegmentId>c787c0c0-5c58-4fc3-b936-ce81d9feb0e4</SegmentId>
+          <LinkItem
+            internal_item_id="15b6c1dd-6c1f-431a-93cf-3892cc37653e"
+            internal_item_type="Link">
+            <internal_items />
+            <internal_link_type>Inline</internal_link_type>
+            <internal_link_text>Open Publishing: User Experience and Design</internal_link_text>
+            <internal_link_url>engdocs/open_publish_uxad.md</internal_link_url>
+            <internal_link_title />
+          </LinkItem>
+        </segment>
+        <header_type>Star</header_type>
+        <header_level>2</header_level>
+      </MarkdownBlockBase>
+      <MarkdownBlockBase
+        xsi:type="MarkdownHeaderBlock"
+        item_id="acc7226e-1248-45ad-8713-97d979ccc288"
+        item_type="Header"
+        item_footer="footer_not_set">
+        <segment>
+          <SegmentId>82ddb962-9f87-4739-bcff-d3e2c3204653</SegmentId>
+          <LinkItem
+            internal_item_id="67bea6b2-0d72-47a1-b7c6-c420632ffbd3"
+            internal_item_type="Link">
+            <internal_items />
+            <internal_link_type>Inline</internal_link_type>
+            <internal_link_text>Provisioning the GIT repos</internal_link_text>
+            <internal_link_url>engdocs/repo-provision.md</internal_link_url>
+            <internal_link_title />
+          </LinkItem>
+        </segment>
+        <header_type>Star</header_type>
+        <header_level>2</header_level>
+      </MarkdownBlockBase>
+    </ArrayOfMarkdownBlockBase>
+  </block_element>
+  <references>
+    <ArrayOfMarkdownLinkedReference xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" />
+  </references>
+</markdown_skeleton_root>

@@ -1,0 +1,89 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<xliff version="1.2" xmlns="urn:oasis:names:tc:xliff:document:1.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:oasis:names:tc:xliff:document:1.2 xliff-core-1.2-transitional.xsd">
+  <file datatype="xml" source-language="en-us" target-language="de-de" original="foo.file" tool-id="f9a6102f-4ac1-4f8a-ae5f-3a34461431e9" product-name="foo" product-version="1.0" build-num="1">
+    <header>
+      <tool tool-id="f9a6102f-4ac1-4f8a-ae5f-3a34461431e9" tool-name="MarkdownToXliff" tool-version="1.0" tool-company="Microsoft" />
+      <olfilehash xmlns="">386710374e2dcd6262fbec1a4516a2bcc11f8fcb</olfilehash>
+    </header>
+    <body>
+      <group id="03b7812d-4e40-43fd-8f53-e0d15767c09b">
+        <trans-unit id="89d6fdf3-3691-460c-802a-f026e193c314" xml:space="preserve">
+          <source>Local build and preview</source>
+          <target state="new">Local build and preview</target>
+        </trans-unit>
+        <trans-unit id="f6545270-0bd7-450b-b0d9-9a316bc52534" xml:space="preserve">
+          <source>Open Publishing allows you to build your content locally to detect any potential error (like broken links), as well as preview your content locally for validation.</source>
+          <target state="new">Open Publishing allows you to build your content locally to detect any potential error (like broken links), as well as preview your content locally for validation.</target>
+        </trans-unit>
+        <trans-unit id="3a92687c-004a-4216-8d87-18f2a68b4ba8" xml:space="preserve">
+          <source>Both operations run on <bpt id="6c14020f-2242-4e3b-a8c3-394841ca602bCapsExtId1">&lt;linkText&gt;</bpt>msbuild<ept id="6c14020f-2242-4e3b-a8c3-394841ca602bCapsExtId1">&lt;/linkText&gt;</ept><bpt id="6c14020f-2242-4e3b-a8c3-394841ca602bCapsExtId2">&lt;title&gt;</bpt><ept id="6c14020f-2242-4e3b-a8c3-394841ca602bCapsExtId2">&lt;/title&gt;</ept> commands.</source>
+          <target state="new">Both operations run on <bpt id="6c14020f-2242-4e3b-a8c3-394841ca602bCapsExtId1">&lt;linkText&gt;</bpt>msbuild<ept id="6c14020f-2242-4e3b-a8c3-394841ca602bCapsExtId1">&lt;/linkText&gt;</ept><bpt id="6c14020f-2242-4e3b-a8c3-394841ca602bCapsExtId2">&lt;title&gt;</bpt><ept id="6c14020f-2242-4e3b-a8c3-394841ca602bCapsExtId2">&lt;/title&gt;</ept> commands.</target>
+        </trans-unit>
+        <trans-unit id="aa1424e2-22a1-469c-b6ea-c34c37c85ddd" xml:space="preserve">
+          <source>Local build</source>
+          <target state="new">Local build</target>
+        </trans-unit>
+        <trans-unit id="7d9d8ba0-e70c-4971-84dc-04dd5225338e" xml:space="preserve">
+          <source>Clone your repo to your local machine.</source>
+          <target state="new">Clone your repo to your local machine.</target>
+        </trans-unit>
+        <trans-unit id="685742a1-2d39-4419-a815-b07f0891fd8e" xml:space="preserve">
+          <source>You can use Visual Studio, <bpt id="4d8d682a-f0d8-43ba-81e6-a0e4bc7e11dcCapsExtId1">&lt;linkText&gt;</bpt>GitHub Desktop<ept id="4d8d682a-f0d8-43ba-81e6-a0e4bc7e11dcCapsExtId1">&lt;/linkText&gt;</ept><bpt id="4d8d682a-f0d8-43ba-81e6-a0e4bc7e11dcCapsExtId2">&lt;title&gt;</bpt><ept id="4d8d682a-f0d8-43ba-81e6-a0e4bc7e11dcCapsExtId2">&lt;/title&gt;</ept>.</source>
+          <target state="new">You can use Visual Studio, <bpt id="4d8d682a-f0d8-43ba-81e6-a0e4bc7e11dcCapsExtId1">&lt;linkText&gt;</bpt>GitHub Desktop<ept id="4d8d682a-f0d8-43ba-81e6-a0e4bc7e11dcCapsExtId1">&lt;/linkText&gt;</ept><bpt id="4d8d682a-f0d8-43ba-81e6-a0e4bc7e11dcCapsExtId2">&lt;title&gt;</bpt><ept id="4d8d682a-f0d8-43ba-81e6-a0e4bc7e11dcCapsExtId2">&lt;/title&gt;</ept>.</target>
+        </trans-unit>
+        <trans-unit id="b9cdefe9-1fa7-4130-8d51-936c40370844" xml:space="preserve">
+          <source>From Visual Studio, right-click on the cloned repo and click on <bpt id="e178396b-05bb-44f3-8832-aa00e91656fb">&lt;strong&gt;</bpt>Open command prompt<ept id="e178396b-05bb-44f3-8832-aa00e91656fb">&lt;/strong&gt;</ept>.</source>
+          <target state="new">From Visual Studio, right-click on the cloned repo and click on <bpt id="e178396b-05bb-44f3-8832-aa00e91656fb">&lt;strong&gt;</bpt>Open command prompt<ept id="e178396b-05bb-44f3-8832-aa00e91656fb">&lt;/strong&gt;</ept>.</target>
+        </trans-unit>
+        <trans-unit id="a2a9da12-23a1-4342-8522-3fa762f7aed9" xml:space="preserve">
+          <source>From GitHub Desktop, right-click on the repo and click on <bpt id="68853ee1-208d-436a-a19d-69da6dd20f11">&lt;strong&gt;</bpt>Open in Git Shell<ept id="68853ee1-208d-436a-a19d-69da6dd20f11">&lt;/strong&gt;</ept>.</source>
+          <target state="new">From GitHub Desktop, right-click on the repo and click on <bpt id="68853ee1-208d-436a-a19d-69da6dd20f11">&lt;strong&gt;</bpt>Open in Git Shell<ept id="68853ee1-208d-436a-a19d-69da6dd20f11">&lt;/strong&gt;</ept>.</target>
+        </trans-unit>
+        <trans-unit id="db13b5c3-ee0b-4ce2-897f-60b99438f7d6" xml:space="preserve">
+          <source>Run the <bpt id="df254cf4-bab4-4aa3-9ad8-2efeea4f629e">&lt;code&gt;</bpt>msbuild<ept id="df254cf4-bab4-4aa3-9ad8-2efeea4f629e">&lt;/code&gt;</ept> under the root of the repo.</source>
+          <target state="new">Run the <bpt id="df254cf4-bab4-4aa3-9ad8-2efeea4f629e">&lt;code&gt;</bpt>msbuild<ept id="df254cf4-bab4-4aa3-9ad8-2efeea4f629e">&lt;/code&gt;</ept> under the root of the repo.</target>
+        </trans-unit>
+        <trans-unit id="32a82128-865f-45d9-be8d-5336d1a705fd" xml:space="preserve">
+          <source>Look at the report and fix any errors that you might have.</source>
+          <target state="new">Look at the report and fix any errors that you might have.</target>
+        </trans-unit>
+        <trans-unit id="404cc522-136e-460c-a168-6ea6c0a81fdc" xml:space="preserve">
+          <source>Run <bpt id="cc3a4416-7b13-414f-a6ac-35b9c0126434">&lt;code&gt;</bpt>msbuild<ept id="cc3a4416-7b13-414f-a6ac-35b9c0126434">&lt;/code&gt;</ept> again to validate you are error free.</source>
+          <target state="new">Run <bpt id="cc3a4416-7b13-414f-a6ac-35b9c0126434">&lt;code&gt;</bpt>msbuild<ept id="cc3a4416-7b13-414f-a6ac-35b9c0126434">&lt;/code&gt;</ept> again to validate you are error free.</target>
+        </trans-unit>
+        <trans-unit id="a93d87de-7e0a-44bd-b485-18299924bccb" xml:space="preserve">
+          <source>Local preview</source>
+          <target state="new">Local preview</target>
+        </trans-unit>
+        <trans-unit id="80e5e404-c6b5-4a2f-b3df-7eeb63070089" xml:space="preserve">
+          <source>Once you do not have any errors on the content, you can run a local preview to validate the content and TOC look as you expect.</source>
+          <target state="new">Once you do not have any errors on the content, you can run a local preview to validate the content and TOC look as you expect.</target>
+        </trans-unit>
+        <trans-unit id="851049a2-da39-4c1f-85a0-88b905a16954" xml:space="preserve">
+          <source>This steps assumes you have cloned your repo already to your local machine.</source>
+          <target state="new">This steps assumes you have cloned your repo already to your local machine.</target>
+        </trans-unit>
+        <trans-unit id="29e7406a-09e6-473c-ab33-31da749c3179" xml:space="preserve">
+          <source>Run <bpt id="6f3c901e-d4f4-4b73-933b-576447e152bb">&lt;code&gt;</bpt>msbuild /t:serve<ept id="6f3c901e-d4f4-4b73-933b-576447e152bb">&lt;/code&gt;</ept> under the root of the repo.</source>
+          <target state="new">Run <bpt id="6f3c901e-d4f4-4b73-933b-576447e152bb">&lt;code&gt;</bpt>msbuild /t:serve<ept id="6f3c901e-d4f4-4b73-933b-576447e152bb">&lt;/code&gt;</ept> under the root of the repo.</target>
+        </trans-unit>
+        <trans-unit id="d33f15fb-c819-4a6f-9de9-768fd53318a1" xml:space="preserve">
+          <source>Open <bpt id="7961bfae-05fe-4e39-a523-2266f81f1c66">&lt;code&gt;</bpt>http://localhost:8000<ept id="7961bfae-05fe-4e39-a523-2266f81f1c66">&lt;/code&gt;</ept> in your browser.</source>
+          <target state="new">Open <bpt id="7961bfae-05fe-4e39-a523-2266f81f1c66">&lt;code&gt;</bpt>http://localhost:8000<ept id="7961bfae-05fe-4e39-a523-2266f81f1c66">&lt;/code&gt;</ept> in your browser.</target>
+        </trans-unit>
+        <trans-unit id="c7b7ca55-9ba4-4932-a6c5-95a6dacd1304" xml:space="preserve">
+          <source>Another command prompt window will appear, indicating that the local web site is being generated.</source>
+          <target state="new">Another command prompt window will appear, indicating that the local web site is being generated.</target>
+        </trans-unit>
+        <trans-unit id="4edc16cf-f351-41c9-b007-c5d5b49ed6c5" xml:space="preserve">
+          <source>Note that any changes that you make after this point, are not going to be reflected in the local web site.</source>
+          <target state="new">Note that any changes that you make after this point, are not going to be reflected in the local web site.</target>
+        </trans-unit>
+        <trans-unit id="d2ca661d-cee0-44ca-a1e6-3198f20da1a4" xml:space="preserve">
+          <source>You will need to close the command prompt window that popped up and run <bpt id="aa0afe93-d896-4a7f-8c99-cd594dca20aa">&lt;code&gt;</bpt>msbuild /t:serve<ept id="aa0afe93-d896-4a7f-8c99-cd594dca20aa">&lt;/code&gt;</ept> again.</source>
+          <target state="new">You will need to close the command prompt window that popped up and run <bpt id="aa0afe93-d896-4a7f-8c99-cd594dca20aa">&lt;code&gt;</bpt>msbuild /t:serve<ept id="aa0afe93-d896-4a7f-8c99-cd594dca20aa">&lt;/code&gt;</ept> again.</target>
+        </trans-unit>
+      </group>
+    </body>
+  </file>
+</xliff>

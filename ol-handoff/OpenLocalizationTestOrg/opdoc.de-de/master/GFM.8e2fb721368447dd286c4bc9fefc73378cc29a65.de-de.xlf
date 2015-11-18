@@ -1,0 +1,233 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<xliff version="1.2" xmlns="urn:oasis:names:tc:xliff:document:1.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:oasis:names:tc:xliff:document:1.2 xliff-core-1.2-transitional.xsd">
+  <file datatype="xml" source-language="en-us" target-language="de-de" original="foo.file" tool-id="c43f19f5-810b-4b44-a3f7-921264472c7a" product-name="foo" product-version="1.0" build-num="1">
+    <header>
+      <tool tool-id="c43f19f5-810b-4b44-a3f7-921264472c7a" tool-name="MarkdownToXliff" tool-version="1.0" tool-company="Microsoft" />
+      <olfilehash xmlns="">d77bba60b35a4c9e3a093655b868379b7604acb2</olfilehash>
+    </header>
+    <body>
+      <group id="ea30a030-164f-4525-aadb-9abf9069e719">
+        <trans-unit id="216c0ee5-a34a-413f-8aeb-20bd5b233be9" xml:space="preserve">
+          <source>GitHub-flavored Markdown, Extensions, and HTML code</source>
+          <target state="new">GitHub-flavored Markdown, Extensions, and HTML code</target>
+        </trans-unit>
+        <trans-unit id="b654c927-6bf6-4a6c-9c16-e08c5decdad6" xml:space="preserve">
+          <source>GitHub-flavored Markdown (GFM)</source>
+          <target state="new">GitHub-flavored Markdown (GFM)</target>
+        </trans-unit>
+        <trans-unit id="b137e58a-bba4-4560-be67-42d9f5b5c7f4" xml:space="preserve">
+          <source>Open Publishing supports authoring topics in GitHub-flavored Markdown (GFM)</source>
+          <target state="new">Open Publishing supports authoring topics in GitHub-flavored Markdown (GFM)</target>
+        </trans-unit>
+        <trans-unit id="f8712eec-41cc-47fc-a512-42bc6e600015" xml:space="preserve">
+          <source>Here are two great tutorials for Markdown and GitHub Flavored Markdown:</source>
+          <target state="new">Here are two great tutorials for Markdown and GitHub Flavored Markdown:</target>
+        </trans-unit>
+        <trans-unit id="5466dbb3-d18c-4e25-9abb-67752c6c5275" xml:space="preserve">
+          <source><bpt id="eae933d3-e461-451b-88a4-7c0210574c8eCapsExtId1">&lt;linkText&gt;</bpt>Introduction to Markdown by John Gruber<ept id="eae933d3-e461-451b-88a4-7c0210574c8eCapsExtId1">&lt;/linkText&gt;</ept><bpt id="eae933d3-e461-451b-88a4-7c0210574c8eCapsExtId2">&lt;title&gt;</bpt><ept id="eae933d3-e461-451b-88a4-7c0210574c8eCapsExtId2">&lt;/title&gt;</ept></source>
+          <target state="new"><bpt id="eae933d3-e461-451b-88a4-7c0210574c8eCapsExtId1">&lt;linkText&gt;</bpt>Introduction to Markdown by John Gruber<ept id="eae933d3-e461-451b-88a4-7c0210574c8eCapsExtId1">&lt;/linkText&gt;</ept><bpt id="eae933d3-e461-451b-88a4-7c0210574c8eCapsExtId2">&lt;title&gt;</bpt><ept id="eae933d3-e461-451b-88a4-7c0210574c8eCapsExtId2">&lt;/title&gt;</ept></target>
+        </trans-unit>
+        <trans-unit id="c85ee2f6-3dad-445d-9b0b-ebc0be7769a8" xml:space="preserve">
+          <source><bpt id="baf7dbe6-5bfb-4904-a02f-948fb57a434aCapsExtId1">&lt;linkText&gt;</bpt>GitHub Flavored Markdown<ept id="baf7dbe6-5bfb-4904-a02f-948fb57a434aCapsExtId1">&lt;/linkText&gt;</ept><bpt id="baf7dbe6-5bfb-4904-a02f-948fb57a434aCapsExtId2">&lt;title&gt;</bpt><ept id="baf7dbe6-5bfb-4904-a02f-948fb57a434aCapsExtId2">&lt;/title&gt;</ept></source>
+          <target state="new"><bpt id="baf7dbe6-5bfb-4904-a02f-948fb57a434aCapsExtId1">&lt;linkText&gt;</bpt>GitHub Flavored Markdown<ept id="baf7dbe6-5bfb-4904-a02f-948fb57a434aCapsExtId1">&lt;/linkText&gt;</ept><bpt id="baf7dbe6-5bfb-4904-a02f-948fb57a434aCapsExtId2">&lt;title&gt;</bpt><ept id="baf7dbe6-5bfb-4904-a02f-948fb57a434aCapsExtId2">&lt;/title&gt;</ept></target>
+        </trans-unit>
+        <trans-unit id="86465811-2f31-4b34-b6e8-507dfe740e6a" xml:space="preserve">
+          <source>You can use any Markdown editor you would like to edit Markdown.</source>
+          <target state="new">You can use any Markdown editor you would like to edit Markdown.</target>
+        </trans-unit>
+        <trans-unit id="d78755c6-4340-437c-b4bf-7ec7b5f1846f" xml:space="preserve">
+          <source>Some suggestions: <bpt id="6d5bcf31-6916-4706-b6ce-d633f07694e2CapsExtId1">&lt;linkText&gt;</bpt>MarkdownPad<ept id="6d5bcf31-6916-4706-b6ce-d633f07694e2CapsExtId1">&lt;/linkText&gt;</ept><bpt id="6d5bcf31-6916-4706-b6ce-d633f07694e2CapsExtId2">&lt;title&gt;</bpt><ept id="6d5bcf31-6916-4706-b6ce-d633f07694e2CapsExtId2">&lt;/title&gt;</ept>, <bpt id="19b4a20f-42b8-49f7-99f3-50c387a88527CapsExtId1">&lt;linkText&gt;</bpt>Visual Studio Code<ept id="19b4a20f-42b8-49f7-99f3-50c387a88527CapsExtId1">&lt;/linkText&gt;</ept><bpt id="19b4a20f-42b8-49f7-99f3-50c387a88527CapsExtId2">&lt;title&gt;</bpt><ept id="19b4a20f-42b8-49f7-99f3-50c387a88527CapsExtId2">&lt;/title&gt;</ept>, <bpt id="f6519b5b-277b-4d78-b115-1ccc1d8ad4cbCapsExtId1">&lt;linkText&gt;</bpt>Markdown Mode<ept id="f6519b5b-277b-4d78-b115-1ccc1d8ad4cbCapsExtId1">&lt;/linkText&gt;</ept><bpt id="f6519b5b-277b-4d78-b115-1ccc1d8ad4cbCapsExtId2">&lt;title&gt;</bpt><ept id="f6519b5b-277b-4d78-b115-1ccc1d8ad4cbCapsExtId2">&lt;/title&gt;</ept>.</source>
+          <target state="new">Some suggestions: <bpt id="6d5bcf31-6916-4706-b6ce-d633f07694e2CapsExtId1">&lt;linkText&gt;</bpt>MarkdownPad<ept id="6d5bcf31-6916-4706-b6ce-d633f07694e2CapsExtId1">&lt;/linkText&gt;</ept><bpt id="6d5bcf31-6916-4706-b6ce-d633f07694e2CapsExtId2">&lt;title&gt;</bpt><ept id="6d5bcf31-6916-4706-b6ce-d633f07694e2CapsExtId2">&lt;/title&gt;</ept>, <bpt id="19b4a20f-42b8-49f7-99f3-50c387a88527CapsExtId1">&lt;linkText&gt;</bpt>Visual Studio Code<ept id="19b4a20f-42b8-49f7-99f3-50c387a88527CapsExtId1">&lt;/linkText&gt;</ept><bpt id="19b4a20f-42b8-49f7-99f3-50c387a88527CapsExtId2">&lt;title&gt;</bpt><ept id="19b4a20f-42b8-49f7-99f3-50c387a88527CapsExtId2">&lt;/title&gt;</ept>, <bpt id="f6519b5b-277b-4d78-b115-1ccc1d8ad4cbCapsExtId1">&lt;linkText&gt;</bpt>Markdown Mode<ept id="f6519b5b-277b-4d78-b115-1ccc1d8ad4cbCapsExtId1">&lt;/linkText&gt;</ept><bpt id="f6519b5b-277b-4d78-b115-1ccc1d8ad4cbCapsExtId2">&lt;title&gt;</bpt><ept id="f6519b5b-277b-4d78-b115-1ccc1d8ad4cbCapsExtId2">&lt;/title&gt;</ept>.</target>
+        </trans-unit>
+        <trans-unit id="7db03dd1-ea07-430d-80c7-0bc3ea3429ee" xml:space="preserve">
+          <source>files.</source>
+          <target state="new">files.</target>
+        </trans-unit>
+        <trans-unit id="f0b1ada1-8677-4e16-af0c-d9fb01c3ba68" xml:space="preserve">
+          <source>Most of them provide live preview functionality so that you can get a simple preview when writing the topic.</source>
+          <target state="new">Most of them provide live preview functionality so that you can get a simple preview when writing the topic.</target>
+        </trans-unit>
+        <trans-unit id="e29a569c-52e9-4c6b-8261-9471f4aaea10" xml:space="preserve">
+          <source>Open Publishing Extensions</source>
+          <target state="new">Open Publishing Extensions</target>
+        </trans-unit>
+        <trans-unit id="8b06d1e7-0912-4f13-8ffd-3c8a934b262b" xml:space="preserve">
+          <source>File Include</source>
+          <target state="new">File Include</target>
+        </trans-unit>
+        <trans-unit id="f73bff66-ae67-492e-98cb-5810ccff535b" xml:space="preserve">
+          <source>A Markdown file can reference other files inside its content, such as images, code snippets, and another markdown file that is shared across multiple topics within the docset.</source>
+          <target state="new">A Markdown file can reference other files inside its content, such as images, code snippets, and another markdown file that is shared across multiple topics within the docset.</target>
+        </trans-unit>
+        <trans-unit id="32a9abbd-74c9-4d7b-a778-e9dd601d30e8" xml:space="preserve">
+          <source>The following items are needed for a file include:</source>
+          <target state="new">The following items are needed for a file include:</target>
+        </trans-unit>
+        <trans-unit id="63ed1f1c-850e-4ffc-ac82-046987d10a2b" xml:space="preserve">
+          <source>Required: Folder path within the repo</source>
+          <target state="new">Required: Folder path within the repo</target>
+        </trans-unit>
+        <trans-unit id="85b0d15d-8f30-42e2-9f87-6c82f6269eb4" xml:space="preserve">
+          <source>Optional: Repository Id, which includes: account name, collection name, project name, repository name.</source>
+          <target state="new">Optional: Repository Id, which includes: account name, collection name, project name, repository name.</target>
+        </trans-unit>
+        <trans-unit id="50785a4a-377c-4552-b2a0-bc71d97cc0ac" xml:space="preserve">
+          <source>The repository of the file is used if it is not specified.</source>
+          <target state="new">The repository of the file is used if it is not specified.</target>
+        </trans-unit>
+        <trans-unit id="ede93559-ea57-4279-8358-9ed1e490c310" xml:space="preserve">
+          <source>The format of a file include is <bpt id="27411aa1-c71c-4303-b7d8-db6819206d21">&lt;code&gt;</bpt>![Display text]({folderPath})<ept id="27411aa1-c71c-4303-b7d8-db6819206d21">&lt;/code&gt;</ept></source>
+          <target state="new">The format of a file include is <bpt id="27411aa1-c71c-4303-b7d8-db6819206d21">&lt;code&gt;</bpt>![Display text]({folderPath})<ept id="27411aa1-c71c-4303-b7d8-db6819206d21">&lt;/code&gt;</ept></target>
+        </trans-unit>
+        <trans-unit id="62676894-72d0-4f0d-8e4a-1b0802ac59c8" xml:space="preserve">
+          <source>An example for an image is <bpt id="0c8fb04a-2867-450f-aa73-ece7099efd18">&lt;code&gt;</bpt>![Introduction](..\images\Introduction.png)<ept id="0c8fb04a-2867-450f-aa73-ece7099efd18">&lt;/code&gt;</ept></source>
+          <target state="new">An example for an image is <bpt id="0c8fb04a-2867-450f-aa73-ece7099efd18">&lt;code&gt;</bpt>![Introduction](..\images\Introduction.png)<ept id="0c8fb04a-2867-450f-aa73-ece7099efd18">&lt;/code&gt;</ept></target>
+        </trans-unit>
+        <trans-unit id="0b9ede3b-d6ca-40f2-a19a-49ee231adaf1" xml:space="preserve">
+          <source>HTML whitelist</source>
+          <target state="new">HTML whitelist</target>
+        </trans-unit>
+        <trans-unit id="cc499e9e-4cfc-4b09-a862-82c7e134e3b6" xml:space="preserve">
+          <source>You can embed HTML code into your content, so long as it is within the GitHub WhiteLlist.</source>
+          <target state="new">You can embed HTML code into your content, so long as it is within the GitHub WhiteLlist.</target>
+        </trans-unit>
+        <trans-unit id="ba7574e4-8f79-47c6-b774-b3098ace20f2" xml:space="preserve">
+          <source>HTML rendered by the various markup language processors gets passed through an <bpt id="3c8314ac-be36-4e4c-8558-500b19d7e571CapsExtId1">&lt;linkText&gt;</bpt>HTML sanitization filter<ept id="3c8314ac-be36-4e4c-8558-500b19d7e571CapsExtId1">&lt;/linkText&gt;</ept><bpt id="3c8314ac-be36-4e4c-8558-500b19d7e571CapsExtId2">&lt;title&gt;</bpt><ept id="3c8314ac-be36-4e4c-8558-500b19d7e571CapsExtId2">&lt;/title&gt;</ept> for security reasons.</source>
+          <target state="new">HTML rendered by the various markup language processors gets passed through an <bpt id="3c8314ac-be36-4e4c-8558-500b19d7e571CapsExtId1">&lt;linkText&gt;</bpt>HTML sanitization filter<ept id="3c8314ac-be36-4e4c-8558-500b19d7e571CapsExtId1">&lt;/linkText&gt;</ept><bpt id="3c8314ac-be36-4e4c-8558-500b19d7e571CapsExtId2">&lt;title&gt;</bpt><ept id="3c8314ac-be36-4e4c-8558-500b19d7e571CapsExtId2">&lt;/title&gt;</ept> for security reasons.</target>
+        </trans-unit>
+        <trans-unit id="8aaba231-bd69-48a8-847b-64b69b8d1522" xml:space="preserve">
+          <source>HTML elements not in the whitelist are removed.</source>
+          <target state="new">HTML elements not in the whitelist are removed.</target>
+        </trans-unit>
+        <trans-unit id="fc345ccc-621e-48ba-9140-f77a9bb0d0cf" xml:space="preserve">
+          <source>HTML attributes not in the whitelist are removed from the preserved elements.</source>
+          <target state="new">HTML attributes not in the whitelist are removed from the preserved elements.</target>
+        </trans-unit>
+        <trans-unit id="97dee4bf-d394-4fda-bdd0-1748b7a6f48c" xml:space="preserve">
+          <source>The following HTML elements, organized by category, are whitelisted:</source>
+          <target state="new">The following HTML elements, organized by category, are whitelisted:</target>
+        </trans-unit>
+        <trans-unit id="0752cd07-56fb-4993-b3b6-999a520239ba" xml:space="preserve">
+          <source>Type</source>
+          <target state="new">Type</target>
+        </trans-unit>
+        <trans-unit id="9e11803e-2035-42ac-ba1c-ce5ba31241f6" xml:space="preserve">
+          <source>Elements</source>
+          <target state="new">Elements</target>
+        </trans-unit>
+        <trans-unit id="0e97f8c4-59e4-4356-aca2-98ce1b98f141" xml:space="preserve">
+          <source>Headings</source>
+          <target state="new">Headings</target>
+        </trans-unit>
+        <trans-unit id="6cdea640-f161-499c-93ef-5fb0306f5368" xml:space="preserve">
+          <source>h1, h2, h3, h4, h5, h6, h7, h8</source>
+          <target state="new">h1, h2, h3, h4, h5, h6, h7, h8</target>
+        </trans-unit>
+        <trans-unit id="847a3e69-eaab-40eb-ac1f-2763ea34f20f" xml:space="preserve">
+          <source>Prose</source>
+          <target state="new">Prose</target>
+        </trans-unit>
+        <trans-unit id="885545e0-7ae2-464d-9956-d2a049c1a086" xml:space="preserve">
+          <source>p, div, blockquote</source>
+          <target state="new">p, div, blockquote</target>
+        </trans-unit>
+        <trans-unit id="71a13c6c-c50b-40ef-b7d0-099adf7a5ce0" xml:space="preserve">
+          <source>Formatted</source>
+          <target state="new">Formatted</target>
+        </trans-unit>
+        <trans-unit id="0f11abfb-420b-48db-a16d-684378bbfce3" xml:space="preserve">
+          <source>pre</source>
+          <target state="new">pre</target>
+        </trans-unit>
+        <trans-unit id="8890b0e9-8fa3-4855-bd02-a1f1990d4808" xml:space="preserve">
+          <source>Inline</source>
+          <target state="new">Inline</target>
+        </trans-unit>
+        <trans-unit id="c64e1419-566b-4429-98df-9357d4f0c250" xml:space="preserve">
+          <source>b, i, strong, em, tt, code, ins, del, sup, sub, kbd, samp, q, var</source>
+          <target state="new">b, i, strong, em, tt, code, ins, del, sup, sub, kbd, samp, q, var</target>
+        </trans-unit>
+        <trans-unit id="ee152cb7-ba74-4dcb-8a7d-af0a624281ca" xml:space="preserve">
+          <source>Lists</source>
+          <target state="new">Lists</target>
+        </trans-unit>
+        <trans-unit id="d7f3a7ff-426b-4421-ba79-3be36033b9ab" xml:space="preserve">
+          <source>ol, ul, li, dl, dt, dd</source>
+          <target state="new">ol, ul, li, dl, dt, dd</target>
+        </trans-unit>
+        <trans-unit id="f274f200-864a-4e51-a1ef-36b3003d5c81" xml:space="preserve">
+          <source>Tables</source>
+          <target state="new">Tables</target>
+        </trans-unit>
+        <trans-unit id="a522542f-43d8-4382-a0e7-8a5830c0bf50" xml:space="preserve">
+          <source>table, thead, tbody, tfoot, tr, td, th</source>
+          <target state="new">table, thead, tbody, tfoot, tr, td, th</target>
+        </trans-unit>
+        <trans-unit id="990f2e75-8c4b-4ab2-82c7-eda8c9c42526" xml:space="preserve">
+          <source>Breaks</source>
+          <target state="new">Breaks</target>
+        </trans-unit>
+        <trans-unit id="9b40edcf-27b9-43cf-8587-2cd776fa1594" xml:space="preserve">
+          <source>br, hr</source>
+          <target state="new">br, hr</target>
+        </trans-unit>
+        <trans-unit id="82309ed1-8860-45c8-ab42-d72986901d1e" xml:space="preserve">
+          <source>Ruby (East Asian)</source>
+          <target state="new">Ruby (East Asian)</target>
+        </trans-unit>
+        <trans-unit id="f40b9109-4718-4413-a4af-955d04a0ce33" xml:space="preserve">
+          <source>ruby, rt, rp</source>
+          <target state="new">ruby, rt, rp</target>
+        </trans-unit>
+        <trans-unit id="ba939bb7-60c0-4b27-b291-c72ebe2acd6b" xml:space="preserve">
+          <source>The following attributes, organized by element, are whitelisted:</source>
+          <target state="new">The following attributes, organized by element, are whitelisted:</target>
+        </trans-unit>
+        <trans-unit id="1d31c669-00b5-4d8f-84e7-47b017c452c1" xml:space="preserve">
+          <source>Element</source>
+          <target state="new">Element</target>
+        </trans-unit>
+        <trans-unit id="5b959432-1ce6-48ec-853f-fb79a8191430" xml:space="preserve">
+          <source>Attributes</source>
+          <target state="new">Attributes</target>
+        </trans-unit>
+        <trans-unit id="c7f388d6-1738-4c90-8b7b-7f9ca373bb0b" xml:space="preserve">
+          <source>a</source>
+          <target state="new">a</target>
+        </trans-unit>
+        <trans-unit id="24773dca-e9cc-4981-9ca0-1402df5333c3" xml:space="preserve">
+          <source>href (http://, https://, mailto://, github-windows://, and github-mac:// URI schemes and relative paths only)</source>
+          <target state="new">href (http://, https://, mailto://, github-windows://, and github-mac:// URI schemes and relative paths only)</target>
+        </trans-unit>
+        <trans-unit id="8b299d00-10eb-4ee5-a67a-2f46f8227ccd" xml:space="preserve">
+          <source>img</source>
+          <target state="new">img</target>
+        </trans-unit>
+        <trans-unit id="d1dd6d9c-539a-450f-99ab-947d91b15e3d" xml:space="preserve">
+          <source>src (http:// and https:// URI schemes and relative paths only)</source>
+          <target state="new">src (http:// and https:// URI schemes and relative paths only)</target>
+        </trans-unit>
+        <trans-unit id="783dab45-c4a2-4500-9d4f-b646e19c20e0" xml:space="preserve">
+          <source>div</source>
+          <target state="new">div</target>
+        </trans-unit>
+        <trans-unit id="b1fac922-9051-4db7-82e4-b47232837024" xml:space="preserve">
+          <source>itemscope, itemtype</source>
+          <target state="new">itemscope, itemtype</target>
+        </trans-unit>
+        <trans-unit id="f82aa811-3e96-4a7f-b6d8-2bf96f363cc3" xml:space="preserve">
+          <source>All</source>
+          <target state="new">All</target>
+        </trans-unit>
+        <trans-unit id="12898fa1-a32e-4515-9862-527546b57754" xml:space="preserve">
+          <source>abbr, accept, accept-charset, accesskey, action, align, alt, axis, border, cellpadding, cellspacing, char, charoff, charset, checked, cite, clear, cols, colspan, color, compact, coords, datetime, dir, disabled, enctype, for, frame, headers, height, hreflang, hspace, ismap, label, lang, longdesc, maxlength, media, method, multiple, name, nohref, noshade, nowrap, prompt, readonly, rel, rev, rows, rowspan, rules, scope, selected, shape, size, span, start, summary, tabindex, target, title, type, usemap, valign, value, vspace, width, itemprop</source>
+          <target state="new">abbr, accept, accept-charset, accesskey, action, align, alt, axis, border, cellpadding, cellspacing, char, charoff, charset, checked, cite, clear, cols, colspan, color, compact, coords, datetime, dir, disabled, enctype, for, frame, headers, height, hreflang, hspace, ismap, label, lang, longdesc, maxlength, media, method, multiple, name, nohref, noshade, nowrap, prompt, readonly, rel, rev, rows, rowspan, rules, scope, selected, shape, size, span, start, summary, tabindex, target, title, type, usemap, valign, value, vspace, width, itemprop</target>
+        </trans-unit>
+        <trans-unit id="53578b59-923c-4eb4-afed-39eca994db4e" xml:space="preserve">
+          <source>Note that the id attribute is not whitelisted.</source>
+          <target state="new">Note that the id attribute is not whitelisted.</target>
+        </trans-unit>
+      </group>
+    </body>
+  </file>
+</xliff>

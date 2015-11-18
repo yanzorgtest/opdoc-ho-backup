@@ -1,0 +1,901 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<xliff version="1.2" xmlns="urn:oasis:names:tc:xliff:document:1.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:oasis:names:tc:xliff:document:1.2 xliff-core-1.2-transitional.xsd">
+  <file datatype="xml" source-language="en-us" target-language="de-de" original="foo.file" tool-id="5cde115e-2b0d-49a4-873a-8026cab2f965" product-name="foo" product-version="1.0" build-num="1">
+    <header>
+      <tool tool-id="5cde115e-2b0d-49a4-873a-8026cab2f965" tool-name="MarkdownToXliff" tool-version="1.0" tool-company="Microsoft" />
+      <olfilehash xmlns="">fde5cf7c2b5bfc464f15720d6c684842e84d32c9</olfilehash>
+    </header>
+    <body>
+      <group id="01049a3f-43ea-4806-817a-09fadb8a320f">
+        <trans-unit id="6045c27f-5bed-4949-812b-2b2410de806a" xml:space="preserve">
+          <source>Open Publishing Build Design Memo</source>
+          <target state="new">Open Publishing Build Design Memo</target>
+        </trans-unit>
+        <trans-unit id="83dff7e4-b131-4b47-a77a-dd6f0ae892a3" xml:space="preserve">
+          <source>1. Scope</source>
+          <target state="new">1. Scope</target>
+        </trans-unit>
+        <trans-unit id="a0735bd7-80fd-4752-8bb0-5b0133fab679" xml:space="preserve">
+          <source>A complete open publishing scenario consists of the following parts:</source>
+          <target state="new">A complete open publishing scenario consists of the following parts:</target>
+        </trans-unit>
+        <trans-unit id="0aa52fd3-4176-4f3a-87a5-4c6e3d753428" xml:space="preserve">
+          <source>Writer creates a GIT repository and does necessary setup to make it an open publishing repo.</source>
+          <target state="new">Writer creates a GIT repository and does necessary setup to make it an open publishing repo.</target>
+        </trans-unit>
+        <trans-unit id="26855821-03a3-43df-be10-ccb8992db571" xml:space="preserve">
+          <source>Writer authors a document (in markdown format) and adds it to his local GIT repo.</source>
+          <target state="new">Writer authors a document (in markdown format) and adds it to his local GIT repo.</target>
+        </trans-unit>
+        <trans-unit id="9e45e01b-c251-44fa-9e95-376e36ffc44a" xml:space="preserve">
+          <source>Writer pushes his local GIT repo to remote.</source>
+          <target state="new">Writer pushes his local GIT repo to remote.</target>
+        </trans-unit>
+        <trans-unit id="f5126b27-2f28-4aba-b1cd-cad3350cf215" xml:space="preserve">
+          <source>Open publishing picks up the GIT change and transforms the markdown file into output (in HTML format).</source>
+          <target state="new">Open publishing picks up the GIT change and transforms the markdown file into output (in HTML format).</target>
+        </trans-unit>
+        <trans-unit id="791d3796-75fb-4ebe-9b4b-c1e6c49c30a3" xml:space="preserve">
+          <source>Open publishing delivers the output HTML file to the MSDN web site.</source>
+          <target state="new">Open publishing delivers the output HTML file to the MSDN web site.</target>
+        </trans-unit>
+        <trans-unit id="e8ebacb4-a832-4736-8fa2-dabfbd481c84" xml:space="preserve">
+          <source>Open publishing sends notification to writer to let him know his document has been published.</source>
+          <target state="new">Open publishing sends notification to writer to let him know his document has been published.</target>
+        </trans-unit>
+        <trans-unit id="5be9b20c-0f17-4c38-abe8-b22ee439041e" xml:space="preserve">
+          <source>Writer is able to view his document on MSDN web site.</source>
+          <target state="new">Writer is able to view his document on MSDN web site.</target>
+        </trans-unit>
+        <trans-unit id="c34b4edb-5d79-4cc4-a2ab-c627acb84333" xml:space="preserve">
+          <source>Open publishing build is mainly involved in #1 (<bpt id="658161d0-5525-4fd0-9041-cbaef0a648d3">&lt;strong&gt;</bpt>Provisioning<ept id="658161d0-5525-4fd0-9041-cbaef0a648d3">&lt;/strong&gt;</ept>), #4 (<bpt id="bfef6a40-0346-4392-bb9a-4f283dd66c73">&lt;strong&gt;</bpt>Build<ept id="bfef6a40-0346-4392-bb9a-4f283dd66c73">&lt;/strong&gt;</ept>), and #6 (<bpt id="e45aab34-4842-4387-bbf8-030f6e9e8ad5">&lt;strong&gt;</bpt>Notification<ept id="e45aab34-4842-4387-bbf8-030f6e9e8ad5">&lt;/strong&gt;</ept>).</source>
+          <target state="new">Open publishing build is mainly involved in #1 (<bpt id="658161d0-5525-4fd0-9041-cbaef0a648d3">&lt;strong&gt;</bpt>Provisioning<ept id="658161d0-5525-4fd0-9041-cbaef0a648d3">&lt;/strong&gt;</ept>), #4 (<bpt id="bfef6a40-0346-4392-bb9a-4f283dd66c73">&lt;strong&gt;</bpt>Build<ept id="bfef6a40-0346-4392-bb9a-4f283dd66c73">&lt;/strong&gt;</ept>), and #6 (<bpt id="e45aab34-4842-4387-bbf8-030f6e9e8ad5">&lt;strong&gt;</bpt>Notification<ept id="e45aab34-4842-4387-bbf8-030f6e9e8ad5">&lt;/strong&gt;</ept>).</target>
+        </trans-unit>
+        <trans-unit id="c62197a7-d465-4ec1-af7e-12ba2e93526d" xml:space="preserve">
+          <source>2. Architecture Design</source>
+          <target state="new">2. Architecture Design</target>
+        </trans-unit>
+        <trans-unit id="6fea6222-eeaa-424b-8ff5-921e3b9f662c" xml:space="preserve">
+          <source>Here is a diagram of the overall architecture of build service.</source>
+          <target state="new">Here is a diagram of the overall architecture of build service.</target>
+        </trans-unit>
+        <trans-unit id="2b8018bb-0e8e-4e30-baf7-12b2de876128" xml:space="preserve">
+          <source><bpt id="d9510621-1363-4b0b-b848-d23230cd9afb">&lt;linkText&gt;</bpt>overview<ept id="d9510621-1363-4b0b-b848-d23230cd9afb">&lt;/linkText&gt;</ept></source>
+          <target state="new"><bpt id="d9510621-1363-4b0b-b848-d23230cd9afb">&lt;linkText&gt;</bpt>overview<ept id="d9510621-1363-4b0b-b848-d23230cd9afb">&lt;/linkText&gt;</ept></target>
+        </trans-unit>
+        <trans-unit id="b3222cfc-e3b3-4a75-b0ed-d92c68f645fb" xml:space="preserve">
+          <source>There are three main services in open publishing:</source>
+          <target state="new">There are three main services in open publishing:</target>
+        </trans-unit>
+        <trans-unit id="a3c3a4b6-19bb-430a-887e-619122a43437" xml:space="preserve">
+          <source>Build, responsible for provisioning, transform user's content into output, push to delivery service and notify user.</source>
+          <target state="new">Build, responsible for provisioning, transform user's content into output, push to delivery service and notify user.</target>
+        </trans-unit>
+        <trans-unit id="a3d0d1b2-003d-428f-984c-f5448047d6ae" xml:space="preserve">
+          <source>Delivery, responsible for storage of content.</source>
+          <target state="new">Delivery, responsible for storage of content.</target>
+        </trans-unit>
+        <trans-unit id="dd58f3c8-fa92-4620-9e5f-c6fef5a55658" xml:space="preserve">
+          <source>Rendering, responsible for render output into final HTML page.</source>
+          <target state="new">Rendering, responsible for render output into final HTML page.</target>
+        </trans-unit>
+        <trans-unit id="e6789d2d-bb60-44a2-9abf-05ed66c1ef2d" xml:space="preserve">
+          <source>And below is the flow for provisioning and publishing scenario:</source>
+          <target state="new">And below is the flow for provisioning and publishing scenario:</target>
+        </trans-unit>
+        <trans-unit id="c1788222-6c97-4b87-b6ac-885de58ec32a" xml:space="preserve">
+          <source>Provisioning:</source>
+          <target state="new">Provisioning:</target>
+        </trans-unit>
+        <trans-unit id="1d448dfe-9aee-4111-a4d7-83fcbf64ecae" xml:space="preserve">
+          <source>Writer create a GIT repo.</source>
+          <target state="new">Writer create a GIT repo.</target>
+        </trans-unit>
+        <trans-unit id="8ee76f30-71a3-45a1-a407-7216e52b5934" xml:space="preserve">
+          <source>Writer calls build web service API to create an open publishing repository.</source>
+          <target state="new">Writer calls build web service API to create an open publishing repository.</target>
+        </trans-unit>
+        <trans-unit id="6b2767c6-0399-45f6-b866-7b3632d4d04b" xml:space="preserve">
+          <source>Build service writes repo information in configuration DB.</source>
+          <target state="new">Build service writes repo information in configuration DB.</target>
+        </trans-unit>
+        <trans-unit id="42774db4-4550-4012-ae8c-d2bcca259625" xml:space="preserve">
+          <source>Build service calls delivery service to do necessary setup at delivery service side (like create delivery repo).</source>
+          <target state="new">Build service calls delivery service to do necessary setup at delivery service side (like create delivery repo).</target>
+        </trans-unit>
+        <trans-unit id="0e28d491-97af-44ab-8c8a-5ab806f8904f" xml:space="preserve">
+          <source>Build return success to user.</source>
+          <target state="new">Build return success to user.</target>
+        </trans-unit>
+        <trans-unit id="ef68f2ee-b129-4cf6-80e8-ed53b351c624" xml:space="preserve">
+          <source>Publishing:</source>
+          <target state="new">Publishing:</target>
+        </trans-unit>
+        <trans-unit id="e9f9c31a-2f56-45a7-998b-123a76169f82" xml:space="preserve">
+          <source>Writer commits a change to local GIT repo and push to remote.</source>
+          <target state="new">Writer commits a change to local GIT repo and push to remote.</target>
+        </trans-unit>
+        <trans-unit id="25419adc-b0ee-4bfc-b67d-1bd5ce1d405d" xml:space="preserve">
+          <source>GIT server send webhook to build web service.</source>
+          <target state="new">GIT server send webhook to build web service.</target>
+        </trans-unit>
+        <trans-unit id="09b97890-cf84-446d-9f74-038b363815c9" xml:space="preserve">
+          <source>Build web service calls dispatcher to dispatch build request.</source>
+          <target state="new">Build web service calls dispatcher to dispatch build request.</target>
+        </trans-unit>
+        <trans-unit id="e9d17534-a34a-4777-be0c-1bf366bac69a" xml:space="preserve">
+          <source>Dispatcher reads configuration DB and dispatch build request to build worker.</source>
+          <target state="new">Dispatcher reads configuration DB and dispatch build request to build worker.</target>
+        </trans-unit>
+        <trans-unit id="f404f40d-d424-4d4b-9fb7-bae321514eed" xml:space="preserve">
+          <source>Build worker pulls changes from GIT repo and read previous build output from storage to do an incremental build.</source>
+          <target state="new">Build worker pulls changes from GIT repo and read previous build output from storage to do an incremental build.</target>
+        </trans-unit>
+        <trans-unit id="ed95a8b4-5b79-4182-94b4-43f270fb6dc3" xml:space="preserve">
+          <source>Build worker saves build output and build report to storage.</source>
+          <target state="new">Build worker saves build output and build report to storage.</target>
+        </trans-unit>
+        <trans-unit id="ba8d7abe-b577-4359-bda3-f7ee05402e5d" xml:space="preserve">
+          <source>Build worker pushes build output to delivery service through delivery web service.</source>
+          <target state="new">Build worker pushes build output to delivery service through delivery web service.</target>
+        </trans-unit>
+        <trans-unit id="143af672-3a69-4d10-b7ae-67745a0f5b69" xml:space="preserve">
+          <source>Build worker sends notification to writer about completion of publish.</source>
+          <target state="new">Build worker sends notification to writer about completion of publish.</target>
+        </trans-unit>
+        <trans-unit id="9e654e28-4d9c-4930-a0de-5b31d709d97c" xml:space="preserve">
+          <source>(Alternative) Writer can also call build web service to query publish status.</source>
+          <target state="new">(Alternative) Writer can also call build web service to query publish status.</target>
+        </trans-unit>
+        <trans-unit id="df478262-4e15-4a7d-9e60-e3aadf6dc2ff" xml:space="preserve">
+          <source>Writer sees his content on MSDN web site (through rendering service).</source>
+          <target state="new">Writer sees his content on MSDN web site (through rendering service).</target>
+        </trans-unit>
+        <trans-unit id="9df640f4-d85a-4afd-b451-af16b34c154b" xml:space="preserve">
+          <source>3. Provisioning</source>
+          <target state="new">3. Provisioning</target>
+        </trans-unit>
+        <trans-unit id="0ea89e05-1ccd-455b-85cc-4f3f1580cb33" xml:space="preserve">
+          <source>The first step of open publishing is to create a GIT repository and connect it to open publishing so that any changes in this repo can be automatically published.</source>
+          <target state="new">The first step of open publishing is to create a GIT repository and connect it to open publishing so that any changes in this repo can be automatically published.</target>
+        </trans-unit>
+        <trans-unit id="35bc28da-c9d0-45c0-bf6e-f02aa6cb8831" xml:space="preserve">
+          <source>This step is called provisioning, which mainly contains two parts:</source>
+          <target state="new">This step is called provisioning, which mainly contains two parts:</target>
+        </trans-unit>
+        <trans-unit id="6f69bf74-7f4d-41c3-beab-759d20ef8ef9" xml:space="preserve">
+          <source>Git repository must be created following the schema defined by open publishing.</source>
+          <target state="new">Git repository must be created following the schema defined by open publishing.</target>
+        </trans-unit>
+        <trans-unit id="dd14022e-fc0f-479d-a918-ce83d37e8b85" xml:space="preserve">
+          <source>User must specify the GIT repository and necessary configuration through management portal or API.</source>
+          <target state="new">User must specify the GIT repository and necessary configuration through management portal or API.</target>
+        </trans-unit>
+        <trans-unit id="7dbe4b08-3419-4c0a-a9fc-6ff6d65a0717" xml:space="preserve">
+          <source>The design principle here is to make GIT repository self-contained, which means all information including content, metadata and configuration can be stored in a central place.</source>
+          <target state="new">The design principle here is to make GIT repository self-contained, which means all information including content, metadata and configuration can be stored in a central place.</target>
+        </trans-unit>
+        <trans-unit id="b9ed4c44-e81d-46f6-95e8-a6d389b37132" xml:space="preserve">
+          <source>So all publish operation can be done by manipulating GIT repo.</source>
+          <target state="new">So all publish operation can be done by manipulating GIT repo.</target>
+        </trans-unit>
+        <trans-unit id="0d85b943-246b-40e7-94b7-7f4ac8a1fbaa" xml:space="preserve">
+          <source>But there will always be some configuration that is considered as "expensive" and cannot be done by manipulating GIT repo.</source>
+          <target state="new">But there will always be some configuration that is considered as "expensive" and cannot be done by manipulating GIT repo.</target>
+        </trans-unit>
+        <trans-unit id="11c61332-3ac7-42ce-8966-4354fa9a6357" xml:space="preserve">
+          <source>These configuration need to be specified in #2.</source>
+          <target state="new">These configuration need to be specified in #2.</target>
+        </trans-unit>
+        <trans-unit id="b1f909df-bb88-4b53-844d-fa2158056294" xml:space="preserve">
+          <source>3.1 GIT Repository Layout</source>
+          <target state="new">3.1 GIT Repository Layout</target>
+        </trans-unit>
+        <trans-unit id="ee7248db-ca36-4443-aa2c-f5c717d0c3b8" xml:space="preserve">
+          <source>Under a GIT repository, there will be multiple docsets.</source>
+          <target state="new">Under a GIT repository, there will be multiple docsets.</target>
+        </trans-unit>
+        <trans-unit id="bcc4860a-f495-4a3d-a725-779826ea8d72" xml:space="preserve">
+          <source>A docset is a group of documents that share the same configuration like template, base url, etc.</source>
+          <target state="new">A docset is a group of documents that share the same configuration like template, base url, etc.</target>
+        </trans-unit>
+        <trans-unit id="fde5e618-6886-46ad-ba00-301367bbf0a1" xml:space="preserve">
+          <source>Each docset is a folder, under which there is a <bpt id="89e7aafc-96c8-45e1-9844-b8f6728eccd4">&lt;code&gt;</bpt>docset.json<ept id="89e7aafc-96c8-45e1-9844-b8f6728eccd4">&lt;/code&gt;</ept> that defines the basic properties of a docset.</source>
+          <target state="new">Each docset is a folder, under which there is a <bpt id="89e7aafc-96c8-45e1-9844-b8f6728eccd4">&lt;code&gt;</bpt>docset.json<ept id="89e7aafc-96c8-45e1-9844-b8f6728eccd4">&lt;/code&gt;</ept> that defines the basic properties of a docset.</target>
+        </trans-unit>
+        <trans-unit id="d0f6bcb9-91ba-4c73-840c-e7820b040f25" xml:space="preserve">
+          <source>Under the root folder of a repository, there is a <bpt id="dc3ec06c-cea1-4eda-b1fa-a146353b3bf7">&lt;code&gt;</bpt>siteCatalog.json<ept id="dc3ec06c-cea1-4eda-b1fa-a146353b3bf7">&lt;/code&gt;</ept> that defines all docsets in this repo.</source>
+          <target state="new">Under the root folder of a repository, there is a <bpt id="dc3ec06c-cea1-4eda-b1fa-a146353b3bf7">&lt;code&gt;</bpt>siteCatalog.json<ept id="dc3ec06c-cea1-4eda-b1fa-a146353b3bf7">&lt;/code&gt;</ept> that defines all docsets in this repo.</target>
+        </trans-unit>
+        <trans-unit id="ddf86d58-df03-4447-9490-f3df9bc0e805" xml:space="preserve">
+          <source>A docset must be added to <bpt id="7384c5c8-9da4-427a-9f1b-bf0a7c9058c3">&lt;code&gt;</bpt>siteCatalog.json<ept id="7384c5c8-9da4-427a-9f1b-bf0a7c9058c3">&lt;/code&gt;</ept> to be detected by open publishing.</source>
+          <target state="new">A docset must be added to <bpt id="7384c5c8-9da4-427a-9f1b-bf0a7c9058c3">&lt;code&gt;</bpt>siteCatalog.json<ept id="7384c5c8-9da4-427a-9f1b-bf0a7c9058c3">&lt;/code&gt;</ept> to be detected by open publishing.</target>
+        </trans-unit>
+        <trans-unit id="71400494-5148-4b9d-80ba-8fb690269bfc" xml:space="preserve">
+          <source>Here is a diagram that illustrates the structure of an open publishing GIT repo.</source>
+          <target state="new">Here is a diagram that illustrates the structure of an open publishing GIT repo.</target>
+        </trans-unit>
+        <trans-unit id="34c974e9-d3f5-43c7-a277-a170b375f102" xml:space="preserve">
+          <source>3.2 Connect GIT Repository with Open Publish</source>
+          <target state="new">3.2 Connect GIT Repository with Open Publish</target>
+        </trans-unit>
+        <trans-unit id="43add667-0c4a-4a45-93d9-69d06a3d50d8" xml:space="preserve">
+          <source>After a GIT repository is created, user must manually configure it to be monitored by open publishing.</source>
+          <target state="new">After a GIT repository is created, user must manually configure it to be monitored by open publishing.</target>
+        </trans-unit>
+        <trans-unit id="f8732691-7ecd-421c-83a8-2e381259a78a" xml:space="preserve">
+          <source>This can be done through open publishing management portal or API.</source>
+          <target state="new">This can be done through open publishing management portal or API.</target>
+        </trans-unit>
+        <trans-unit id="2934f31c-5183-40e0-8069-884e3e405539" xml:space="preserve">
+          <source>Docset must be added to the monitor list manually, open publishing won't monitor docset creation/deletion and automatically provision them.</source>
+          <target state="new">Docset must be added to the monitor list manually, open publishing won't monitor docset creation/deletion and automatically provision them.</target>
+        </trans-unit>
+        <trans-unit id="3489abcb-763a-4022-8a25-5cf822ba5757" xml:space="preserve">
+          <source>Docset creation is supposed to be a "heavy" operation so it need to be configured manually.</source>
+          <target state="new">Docset creation is supposed to be a "heavy" operation so it need to be configured manually.</target>
+        </trans-unit>
+        <trans-unit id="4b60a9c0-9556-4193-a971-49d4372bf078" xml:space="preserve">
+          <source>After this step, for all changes in a monitored docset, open publishing will automatically build it and publish the content to MSDN web site.</source>
+          <target state="new">After this step, for all changes in a monitored docset, open publishing will automatically build it and publish the content to MSDN web site.</target>
+        </trans-unit>
+        <trans-unit id="91e758d3-f004-43e5-b24b-dbf54f56ff7e" xml:space="preserve">
+          <source>4. Build</source>
+          <target state="new">4. Build</target>
+        </trans-unit>
+        <trans-unit id="2bed4834-371a-4f13-9d47-db7bcde2583d" xml:space="preserve">
+          <source>4.1 Docset Schema and File Format</source>
+          <target state="new">4.1 Docset Schema and File Format</target>
+        </trans-unit>
+        <trans-unit id="26a57373-47a7-459e-acb8-a246b1e985e3" xml:space="preserve">
+          <source>A docset contains the following files:</source>
+          <target state="new">A docset contains the following files:</target>
+        </trans-unit>
+        <trans-unit id="4c457743-84d1-4094-bebf-11af4dd2e9ff" xml:space="preserve">
+          <source><bpt id="4cc9c0fc-f442-445f-870e-f8311c308d61">&lt;code&gt;</bpt>docset.json<ept id="4cc9c0fc-f442-445f-870e-f8311c308d61">&lt;/code&gt;</ept>, which defines the basic properties of a docset.</source>
+          <target state="new"><bpt id="4cc9c0fc-f442-445f-870e-f8311c308d61">&lt;code&gt;</bpt>docset.json<ept id="4cc9c0fc-f442-445f-870e-f8311c308d61">&lt;/code&gt;</ept>, which defines the basic properties of a docset.</target>
+        </trans-unit>
+        <trans-unit id="fcdd7f92-a558-48e0-a47a-1eeb2c5e0c59" xml:space="preserve">
+          <source>Document source files, currently we only support markdown file, but we're open to support more formats (e.g., HTML, ReST) in future.</source>
+          <target state="new">Document source files, currently we only support markdown file, but we're open to support more formats (e.g., HTML, ReST) in future.</target>
+        </trans-unit>
+        <trans-unit id="ee8b3c00-441c-4fec-8d4e-88e7be2291e1" xml:space="preserve">
+          <source><bpt id="ee76c0a7-7131-4180-9b92-549355a7cc33">&lt;code&gt;</bpt>toc.md<ept id="ee76c0a7-7131-4180-9b92-549355a7cc33">&lt;/code&gt;</ept> that describes the TOC of the docset.</source>
+          <target state="new"><bpt id="ee76c0a7-7131-4180-9b92-549355a7cc33">&lt;code&gt;</bpt>toc.md<ept id="ee76c0a7-7131-4180-9b92-549355a7cc33">&lt;/code&gt;</ept> that describes the TOC of the docset.</target>
+        </trans-unit>
+        <trans-unit id="cc9e1824-a658-4fa8-9d2e-5622ac18417e" xml:space="preserve">
+          <source>Support files, which are used by document source files, e.g., image, video, etc.</source>
+          <target state="new">Support files, which are used by document source files, e.g., image, video, etc.</target>
+        </trans-unit>
+        <trans-unit id="8a53d84a-822e-412c-b24d-26e0f96e38ee" xml:space="preserve">
+          <source>Here is a diagram that illustrates the structure of a docset:</source>
+          <target state="new">Here is a diagram that illustrates the structure of a docset:</target>
+        </trans-unit>
+        <trans-unit id="cd4587a3-e0c7-43d3-90de-eef59752ea10" xml:space="preserve">
+          <source>4.1.1 Markdown File</source>
+          <target state="new">4.1.1 Markdown File</target>
+        </trans-unit>
+        <trans-unit id="da2cfab4-a374-444d-93f6-c359868d051d" xml:space="preserve">
+          <source>Open publishing supports <bpt id="30584915-b5e8-4e96-98b0-79db679b6308CapsExtId1">&lt;linkText&gt;</bpt>Github Flavored Markdown<ept id="30584915-b5e8-4e96-98b0-79db679b6308CapsExtId1">&lt;/linkText&gt;</ept><bpt id="30584915-b5e8-4e96-98b0-79db679b6308CapsExtId2">&lt;title&gt;</bpt><ept id="30584915-b5e8-4e96-98b0-79db679b6308CapsExtId2">&lt;/title&gt;</ept>, which is a superset of standard <bpt id="0c2debef-c664-4454-8d99-cbeadab086a2CapsExtId1">&lt;linkText&gt;</bpt>Markdown<ept id="0c2debef-c664-4454-8d99-cbeadab086a2CapsExtId1">&lt;/linkText&gt;</ept><bpt id="0c2debef-c664-4454-8d99-cbeadab086a2CapsExtId2">&lt;title&gt;</bpt><ept id="0c2debef-c664-4454-8d99-cbeadab086a2CapsExtId2">&lt;/title&gt;</ept>.</source>
+          <target state="new">Open publishing supports <bpt id="30584915-b5e8-4e96-98b0-79db679b6308CapsExtId1">&lt;linkText&gt;</bpt>Github Flavored Markdown<ept id="30584915-b5e8-4e96-98b0-79db679b6308CapsExtId1">&lt;/linkText&gt;</ept><bpt id="30584915-b5e8-4e96-98b0-79db679b6308CapsExtId2">&lt;title&gt;</bpt><ept id="30584915-b5e8-4e96-98b0-79db679b6308CapsExtId2">&lt;/title&gt;</ept>, which is a superset of standard <bpt id="0c2debef-c664-4454-8d99-cbeadab086a2CapsExtId1">&lt;linkText&gt;</bpt>Markdown<ept id="0c2debef-c664-4454-8d99-cbeadab086a2CapsExtId1">&lt;/linkText&gt;</ept><bpt id="0c2debef-c664-4454-8d99-cbeadab086a2CapsExtId2">&lt;title&gt;</bpt><ept id="0c2debef-c664-4454-8d99-cbeadab086a2CapsExtId2">&lt;/title&gt;</ept>.</target>
+        </trans-unit>
+        <trans-unit id="a10a3ef0-5d96-4e71-bc2e-24e08bddb859" xml:space="preserve">
+          <source>Open publishing will also support additional extensions, like content include (more extensions to be added later).</source>
+          <target state="new">Open publishing will also support additional extensions, like content include (more extensions to be added later).</target>
+        </trans-unit>
+        <trans-unit id="38ba9ce5-4d4f-410e-9984-d5142322a276" xml:space="preserve">
+          <source>Markdown file can also contain metadata.</source>
+          <target state="new">Markdown file can also contain metadata.</target>
+        </trans-unit>
+        <trans-unit id="aec4e309-1703-4202-8a03-09a52fdd29f5" xml:space="preserve">
+          <source>We employ <bpt id="c255c2a2-fe3e-4227-be90-d43729e67a4bCapsExtId1">&lt;linkText&gt;</bpt>YAML frontmatter<ept id="c255c2a2-fe3e-4227-be90-d43729e67a4bCapsExtId1">&lt;/linkText&gt;</ept><bpt id="c255c2a2-fe3e-4227-be90-d43729e67a4bCapsExtId2">&lt;title&gt;</bpt><ept id="c255c2a2-fe3e-4227-be90-d43729e67a4bCapsExtId2">&lt;/title&gt;</ept> to store metadata.</source>
+          <target state="new">We employ <bpt id="c255c2a2-fe3e-4227-be90-d43729e67a4bCapsExtId1">&lt;linkText&gt;</bpt>YAML frontmatter<ept id="c255c2a2-fe3e-4227-be90-d43729e67a4bCapsExtId1">&lt;/linkText&gt;</ept><bpt id="c255c2a2-fe3e-4227-be90-d43729e67a4bCapsExtId2">&lt;title&gt;</bpt><ept id="c255c2a2-fe3e-4227-be90-d43729e67a4bCapsExtId2">&lt;/title&gt;</ept> to store metadata.</target>
+        </trans-unit>
+        <trans-unit id="c76216b2-e4bd-443d-9cbd-933169b7fb10" xml:space="preserve">
+          <source>This format is already widely used in github and will be rendered into a table in github markdown preview.</source>
+          <target state="new">This format is already widely used in github and will be rendered into a table in github markdown preview.</target>
+        </trans-unit>
+        <trans-unit id="7f3b9d6b-161c-4aae-a5c7-fbb2409f4f0a" xml:space="preserve">
+          <source>Here is one example:</source>
+          <target state="new">Here is one example:</target>
+        </trans-unit>
+        <trans-unit id="5e256ad9-4cb6-4c33-b60c-c748c091a990" xml:space="preserve">
+          <source>4.1.2 toc.md</source>
+          <target state="new">4.1.2 toc.md</target>
+        </trans-unit>
+        <trans-unit id="746c892b-7c7b-4586-bbb0-53c0c07b991b" xml:space="preserve">
+          <source><bpt id="23d83f8e-b2a4-4146-afc3-b157da8889d3">&lt;code&gt;</bpt>toc.md<ept id="23d83f8e-b2a4-4146-afc3-b157da8889d3">&lt;/code&gt;</ept> is used to define the TOC (table of contents) structure of a docset.</source>
+          <target state="new"><bpt id="23d83f8e-b2a4-4146-afc3-b157da8889d3">&lt;code&gt;</bpt>toc.md<ept id="23d83f8e-b2a4-4146-afc3-b157da8889d3">&lt;/code&gt;</ept> is used to define the TOC (table of contents) structure of a docset.</target>
+        </trans-unit>
+        <trans-unit id="72c9f526-2309-4074-80de-80885dc448ee" xml:space="preserve">
+          <source>We uses <bpt id="ab0c909c-a7a2-45ed-a933-af031d9b4d8bCapsExtId1">&lt;linkText&gt;</bpt>headers<ept id="ab0c909c-a7a2-45ed-a933-af031d9b4d8bCapsExtId1">&lt;/linkText&gt;</ept><bpt id="ab0c909c-a7a2-45ed-a933-af031d9b4d8bCapsExtId2">&lt;title&gt;</bpt><ept id="ab0c909c-a7a2-45ed-a933-af031d9b4d8bCapsExtId2">&lt;/title&gt;</ept> to specify the level of toc.</source>
+          <target state="new">We uses <bpt id="ab0c909c-a7a2-45ed-a933-af031d9b4d8bCapsExtId1">&lt;linkText&gt;</bpt>headers<ept id="ab0c909c-a7a2-45ed-a933-af031d9b4d8bCapsExtId1">&lt;/linkText&gt;</ept><bpt id="ab0c909c-a7a2-45ed-a933-af031d9b4d8bCapsExtId2">&lt;title&gt;</bpt><ept id="ab0c909c-a7a2-45ed-a933-af031d9b4d8bCapsExtId2">&lt;/title&gt;</ept> to specify the level of toc.</target>
+        </trans-unit>
+        <trans-unit id="7406e3b6-60f2-403c-958b-56eac2efbfb5" xml:space="preserve">
+          <source>For example:</source>
+          <target state="new">For example:</target>
+        </trans-unit>
+        <trans-unit id="99346319-24eb-40ba-8efb-0632c0673431" xml:space="preserve">
+          <source>The above example illustrates a parent topic "Tutorial" with three children Step 1-3.</source>
+          <target state="new">The above example illustrates a parent topic "Tutorial" with three children Step 1-3.</target>
+        </trans-unit>
+        <trans-unit id="3b9ca520-8321-4805-99e2-0d2fa8c2f58d" xml:space="preserve">
+          <source>We use standard Markdown <bpt id="e95a96cb-ed89-45f4-8df3-3759f3e78168CapsExtId1">&lt;linkText&gt;</bpt>link<ept id="e95a96cb-ed89-45f4-8df3-3759f3e78168CapsExtId1">&lt;/linkText&gt;</ept><bpt id="e95a96cb-ed89-45f4-8df3-3759f3e78168CapsExtId2">&lt;title&gt;</bpt><ept id="e95a96cb-ed89-45f4-8df3-3759f3e78168CapsExtId2">&lt;/title&gt;</ept> syntax to specify the target topic of the toc node.</source>
+          <target state="new">We use standard Markdown <bpt id="e95a96cb-ed89-45f4-8df3-3759f3e78168CapsExtId1">&lt;linkText&gt;</bpt>link<ept id="e95a96cb-ed89-45f4-8df3-3759f3e78168CapsExtId1">&lt;/linkText&gt;</ept><bpt id="e95a96cb-ed89-45f4-8df3-3759f3e78168CapsExtId2">&lt;title&gt;</bpt><ept id="e95a96cb-ed89-45f4-8df3-3759f3e78168CapsExtId2">&lt;/title&gt;</ept> syntax to specify the target topic of the toc node.</target>
+        </trans-unit>
+        <trans-unit id="5dc0a1a5-3bb4-4fa1-8946-b821803bc0c7" xml:space="preserve">
+          <source>For example:</source>
+          <target state="new">For example:</target>
+        </trans-unit>
+        <trans-unit id="cc72c521-0632-4bb5-9679-e7fe7952cf2e" xml:space="preserve">
+          <source>If a toc node is not a link, it will become a container node (can contain children but cannot be clicked).</source>
+          <target state="new">If a toc node is not a link, it will become a container node (can contain children but cannot be clicked).</target>
+        </trans-unit>
+        <trans-unit id="199117ad-7add-4867-8575-5ec625284c65" xml:space="preserve">
+          <source>TOC node can also be an external link (for example, <bpt id="189de127-7a7e-4e38-a2fe-76d1d7d0ffe2">&lt;code&gt;</bpt>www.bing.com<ept id="189de127-7a7e-4e38-a2fe-76d1d7d0ffe2">&lt;/code&gt;</ept>).</source>
+          <target state="new">TOC node can also be an external link (for example, <bpt id="189de127-7a7e-4e38-a2fe-76d1d7d0ffe2">&lt;code&gt;</bpt>www.bing.com<ept id="189de127-7a7e-4e38-a2fe-76d1d7d0ffe2">&lt;/code&gt;</ept>).</target>
+        </trans-unit>
+        <trans-unit id="0ddf6035-e21f-4cc8-b5bd-a9b56db710ee" xml:space="preserve">
+          <source>Since markdown only support 6 levels of header, we'll only support 6 levels of TOC for now.</source>
+          <target state="new">Since markdown only support 6 levels of header, we'll only support 6 levels of TOC for now.</target>
+        </trans-unit>
+        <trans-unit id="bd943ed6-52a8-477c-8b7d-b7edc89247e9" xml:space="preserve">
+          <source>This can be exteneded in future.</source>
+          <target state="new">This can be exteneded in future.</target>
+        </trans-unit>
+        <trans-unit id="d9c33c1d-c2f4-4192-a399-92de8c0cdeb5" xml:space="preserve">
+          <source><bpt id="b9fdd476-404a-4e71-b959-523f30dc23f3">&lt;code&gt;</bpt>toc.md<ept id="b9fdd476-404a-4e71-b959-523f30dc23f3">&lt;/code&gt;</ept> cannot contain arbitrary markdown content.</source>
+          <target state="new"><bpt id="b9fdd476-404a-4e71-b959-523f30dc23f3">&lt;code&gt;</bpt>toc.md<ept id="b9fdd476-404a-4e71-b959-523f30dc23f3">&lt;/code&gt;</ept> cannot contain arbitrary markdown content.</target>
+        </trans-unit>
+        <trans-unit id="a0c0526c-5dce-45c9-a015-906dffea5f5a" xml:space="preserve">
+          <source>For example, you cannot have images in it.</source>
+          <target state="new">For example, you cannot have images in it.</target>
+        </trans-unit>
+        <trans-unit id="a8ee0172-5080-4482-b040-3b300e16c01a" xml:space="preserve">
+          <source>All content that are not headers will lead to build error.</source>
+          <target state="new">All content that are not headers will lead to build error.</target>
+        </trans-unit>
+        <trans-unit id="37ecca29-c68a-4c78-a7a5-af1ff16a32a2" xml:space="preserve">
+          <source>4.2 Work with GIT Branch</source>
+          <target state="new">4.2 Work with GIT Branch</target>
+        </trans-unit>
+        <trans-unit id="3a247e28-5760-48e7-b1c9-876a58656f75" xml:space="preserve">
+          <source>In open publishing, we use GIT branches to maintain different copies of the same content.</source>
+          <target state="new">In open publishing, we use GIT branches to maintain different copies of the same content.</target>
+        </trans-unit>
+        <trans-unit id="e147d77b-0946-4567-98c1-bd95ebe54060" xml:space="preserve">
+          <source>Same topic in different branch will be published to different urls of rendering site.</source>
+          <target state="new">Same topic in different branch will be published to different urls of rendering site.</target>
+        </trans-unit>
+        <trans-unit id="8e5507e2-ff6b-4844-87ef-d9cb9a737eb4" xml:space="preserve">
+          <source>This could be used in several scenarios:</source>
+          <target state="new">This could be used in several scenarios:</target>
+        </trans-unit>
+        <trans-unit id="0be08579-b63b-4039-b2fb-726c27eeaa83" xml:space="preserve">
+          <source>Stage/promote.</source>
+          <target state="new">Stage/promote.</target>
+        </trans-unit>
+        <trans-unit id="bf85e4fd-820d-44ae-ae41-e7a72258f062" xml:space="preserve">
+          <source>User can use one branch as staging branch and merge it to a live branch as a promote operation.</source>
+          <target state="new">User can use one branch as staging branch and merge it to a live branch as a promote operation.</target>
+        </trans-unit>
+        <trans-unit id="b002ccb6-fe1c-47de-aaa9-a01e4c37a554" xml:space="preserve">
+          <source>Private working branch.</source>
+          <target state="new">Private working branch.</target>
+        </trans-unit>
+        <trans-unit id="27d611f0-eca6-410b-98f0-59213237d9ee" xml:space="preserve">
+          <source>User can create his own branch to save files that is still under writing, and merge it to common branch when it's ready.</source>
+          <target state="new">User can create his own branch to save files that is still under writing, and merge it to common branch when it's ready.</target>
+        </trans-unit>
+        <trans-unit id="f6a5c636-295e-4f86-90e0-489dd700a448" xml:space="preserve">
+          <source>Files in private branch can still be validated/previewed by open publishing.</source>
+          <target state="new">Files in private branch can still be validated/previewed by open publishing.</target>
+        </trans-unit>
+        <trans-unit id="4ee4a9b1-a874-42af-b4ac-9dc0b31ba63f" xml:space="preserve">
+          <source>4.2.1 Live Branch</source>
+          <target state="new">4.2.1 Live Branch</target>
+        </trans-unit>
+        <trans-unit id="2bbfb06b-4039-4fc9-8d42-f7ea1753a812" xml:space="preserve">
+          <source>Among all branches, there should be only one branch that is exposed to external users, as other staging/working branches are only used by writers for internal testing.</source>
+          <target state="new">Among all branches, there should be only one branch that is exposed to external users, as other staging/working branches are only used by writers for internal testing.</target>
+        </trans-unit>
+        <trans-unit id="32533486-e898-402c-8c72-c05be40a4f03" xml:space="preserve">
+          <source>This branch is called "Live" branch.</source>
+          <target state="new">This branch is called "Live" branch.</target>
+        </trans-unit>
+        <trans-unit id="1118949e-aed3-4990-830b-10ca503b3005" xml:space="preserve">
+          <source>Live branch can be identified by a special branch name.</source>
+          <target state="new">Live branch can be identified by a special branch name.</target>
+        </trans-unit>
+        <trans-unit id="f13e6157-b975-407f-85d2-d63b1ad390b7" xml:space="preserve">
+          <source>Content in live branch will be published to the MSDN live site.</source>
+          <target state="new">Content in live branch will be published to the MSDN live site.</target>
+        </trans-unit>
+        <trans-unit id="34e1823b-6aa7-4248-b5d3-f3ad7caef52f" xml:space="preserve">
+          <source>Content in other branches will still be published, but only in internal MSDN site.</source>
+          <target state="new">Content in other branches will still be published, but only in internal MSDN site.</target>
+        </trans-unit>
+        <trans-unit id="42c366de-0a22-4628-8970-2f7eb9cb56fe" xml:space="preserve">
+          <source>Live branch can also be used to store branch related configuration.</source>
+          <target state="new">Live branch can also be used to store branch related configuration.</target>
+        </trans-unit>
+        <trans-unit id="b74cfba0-a359-4f05-bb64-4e5fd403d501" xml:space="preserve">
+          <source>For example, if we want to have a configuration about which branches will be published (other branches will only be validated, as publish may be an "expensive" operation), this configuration can be stored in live branch.</source>
+          <target state="new">For example, if we want to have a configuration about which branches will be published (other branches will only be validated, as publish may be an "expensive" operation), this configuration can be stored in live branch.</target>
+        </trans-unit>
+        <trans-unit id="e247b1ee-2fbc-4216-b9f2-7aa89cc32620" xml:space="preserve">
+          <source>4.2.2 New Feature Dogfooding using Branches</source>
+          <target state="new">4.2.2 New Feature Dogfooding using Branches</target>
+        </trans-unit>
+        <trans-unit id="9fc0f93e-a9c0-4183-a70f-c623e347bf87" xml:space="preserve">
+          <source>It'll use a common case that user wants to try new features (like a new markdown extension) in his working branch while keep live branch using stable features.</source>
+          <target state="new">It'll use a common case that user wants to try new features (like a new markdown extension) in his working branch while keep live branch using stable features.</target>
+        </trans-unit>
+        <trans-unit id="1f71bb2d-7887-462d-97b6-148d6a96c554" xml:space="preserve">
+          <source>We're going to support this by allow user to specify the build toolset they want to use (in GIT repo).</source>
+          <target state="new">We're going to support this by allow user to specify the build toolset they want to use (in GIT repo).</target>
+        </trans-unit>
+        <trans-unit id="40abe8bf-224c-4537-abb3-ad65ca3cec64" xml:space="preserve">
+          <source>We'll release multiple versions of our build tool and let user to choose which one they want to use.</source>
+          <target state="new">We'll release multiple versions of our build tool and let user to choose which one they want to use.</target>
+        </trans-unit>
+        <trans-unit id="70b9ea4a-0907-4a2f-a1a4-4ca0c971c9f6" xml:space="preserve">
+          <source>After they test the feature in working branch, they can merge the content to live branch then live branch will also upgrade to use the new build tool.</source>
+          <target state="new">After they test the feature in working branch, they can merge the content to live branch then live branch will also upgrade to use the new build tool.</target>
+        </trans-unit>
+        <trans-unit id="bfe0783d-99f6-4769-9d30-49ecbbc04ed5" xml:space="preserve">
+          <source>4.3 Monitor GIT Repository Changes</source>
+          <target state="new">4.3 Monitor GIT Repository Changes</target>
+        </trans-unit>
+        <trans-unit id="040523e1-7480-4831-b2c3-d3b8f5a9aba4" xml:space="preserve">
+          <source>Open publishing will monitor changes in GIT repository and automatically build and publish changes.</source>
+          <target state="new">Open publishing will monitor changes in GIT repository and automatically build and publish changes.</target>
+        </trans-unit>
+        <trans-unit id="3826da6d-57e1-49fb-a026-5d69c60fd385" xml:space="preserve">
+          <source>We'll leverage webhook provided by GIT server to get notified when there is an event happened on GIT repo.</source>
+          <target state="new">We'll leverage webhook provided by GIT server to get notified when there is an event happened on GIT repo.</target>
+        </trans-unit>
+        <trans-unit id="8813f765-5324-42b3-9780-fdf7e85e8694" xml:space="preserve">
+          <source>Our goal is to support any GIT repository, but GIT server implementation varies from one to another.</source>
+          <target state="new">Our goal is to support any GIT repository, but GIT server implementation varies from one to another.</target>
+        </trans-unit>
+        <trans-unit id="fa5a33b5-ea8f-4fc8-8bed-998101397625" xml:space="preserve">
+          <source>Our principle to use standard GIT operation and minimize server-side GIT dependencies as much as possible, but there will always be specific GIT server implementation like webhook.</source>
+          <target state="new">Our principle to use standard GIT operation and minimize server-side GIT dependencies as much as possible, but there will always be specific GIT server implementation like webhook.</target>
+        </trans-unit>
+        <trans-unit id="ffac03d8-b9d8-4313-b7f6-9955681a7023" xml:space="preserve">
+          <source>Our first priority is to support <bpt id="32649be3-2923-4287-9a72-6b4b1e386a87CapsExtId1">&lt;linkText&gt;</bpt>github<ept id="32649be3-2923-4287-9a72-6b4b1e386a87CapsExtId1">&lt;/linkText&gt;</ept><bpt id="32649be3-2923-4287-9a72-6b4b1e386a87CapsExtId2">&lt;title&gt;</bpt><ept id="32649be3-2923-4287-9a72-6b4b1e386a87CapsExtId2">&lt;/title&gt;</ept> and <bpt id="d75f4280-6bf2-45aa-ab10-349e1ae70dbaCapsExtId1">&lt;linkText&gt;</bpt>Visual Studio Online<ept id="d75f4280-6bf2-45aa-ab10-349e1ae70dbaCapsExtId1">&lt;/linkText&gt;</ept><bpt id="d75f4280-6bf2-45aa-ab10-349e1ae70dbaCapsExtId2">&lt;title&gt;</bpt><ept id="d75f4280-6bf2-45aa-ab10-349e1ae70dbaCapsExtId2">&lt;/title&gt;</ept>.</source>
+          <target state="new">Our first priority is to support <bpt id="32649be3-2923-4287-9a72-6b4b1e386a87CapsExtId1">&lt;linkText&gt;</bpt>github<ept id="32649be3-2923-4287-9a72-6b4b1e386a87CapsExtId1">&lt;/linkText&gt;</ept><bpt id="32649be3-2923-4287-9a72-6b4b1e386a87CapsExtId2">&lt;title&gt;</bpt><ept id="32649be3-2923-4287-9a72-6b4b1e386a87CapsExtId2">&lt;/title&gt;</ept> and <bpt id="d75f4280-6bf2-45aa-ab10-349e1ae70dbaCapsExtId1">&lt;linkText&gt;</bpt>Visual Studio Online<ept id="d75f4280-6bf2-45aa-ab10-349e1ae70dbaCapsExtId1">&lt;/linkText&gt;</ept><bpt id="d75f4280-6bf2-45aa-ab10-349e1ae70dbaCapsExtId2">&lt;title&gt;</bpt><ept id="d75f4280-6bf2-45aa-ab10-349e1ae70dbaCapsExtId2">&lt;/title&gt;</ept>.</target>
+        </trans-unit>
+        <trans-unit id="d7ea44c5-27de-483f-8476-950252b3043b" xml:space="preserve">
+          <source>Both github and Visual Studio Online provides webhook (<bpt id="d8cd4f75-6a63-4d97-bef1-5e56f80a61eaCapsExtId1">&lt;linkText&gt;</bpt>github<ept id="d8cd4f75-6a63-4d97-bef1-5e56f80a61eaCapsExtId1">&lt;/linkText&gt;</ept><bpt id="d8cd4f75-6a63-4d97-bef1-5e56f80a61eaCapsExtId2">&lt;title&gt;</bpt><ept id="d8cd4f75-6a63-4d97-bef1-5e56f80a61eaCapsExtId2">&lt;/title&gt;</ept>, <bpt id="10c9ec80-9e4f-459c-8258-267024660970CapsExtId1">&lt;linkText&gt;</bpt>VSO<ept id="10c9ec80-9e4f-459c-8258-267024660970CapsExtId1">&lt;/linkText&gt;</ept><bpt id="10c9ec80-9e4f-459c-8258-267024660970CapsExtId2">&lt;title&gt;</bpt><ept id="10c9ec80-9e4f-459c-8258-267024660970CapsExtId2">&lt;/title&gt;</ept>) to get notification on repo changes.</source>
+          <target state="new">Both github and Visual Studio Online provides webhook (<bpt id="d8cd4f75-6a63-4d97-bef1-5e56f80a61eaCapsExtId1">&lt;linkText&gt;</bpt>github<ept id="d8cd4f75-6a63-4d97-bef1-5e56f80a61eaCapsExtId1">&lt;/linkText&gt;</ept><bpt id="d8cd4f75-6a63-4d97-bef1-5e56f80a61eaCapsExtId2">&lt;title&gt;</bpt><ept id="d8cd4f75-6a63-4d97-bef1-5e56f80a61eaCapsExtId2">&lt;/title&gt;</ept>, <bpt id="10c9ec80-9e4f-459c-8258-267024660970CapsExtId1">&lt;linkText&gt;</bpt>VSO<ept id="10c9ec80-9e4f-459c-8258-267024660970CapsExtId1">&lt;/linkText&gt;</ept><bpt id="10c9ec80-9e4f-459c-8258-267024660970CapsExtId2">&lt;title&gt;</bpt><ept id="10c9ec80-9e4f-459c-8258-267024660970CapsExtId2">&lt;/title&gt;</ept>) to get notification on repo changes.</target>
+        </trans-unit>
+        <trans-unit id="1f25d70a-54b0-4203-922d-0d6bb35d0dba" xml:space="preserve">
+          <source>In case webhook is not reliable (VSO webhook has known reliablity issue), polling is always an alternative solution.</source>
+          <target state="new">In case webhook is not reliable (VSO webhook has known reliablity issue), polling is always an alternative solution.</target>
+        </trans-unit>
+        <trans-unit id="7b2a88ea-0c5c-4526-991d-7addfb6155e0" xml:space="preserve">
+          <source>For one repo, all changes will be built sequentially.</source>
+          <target state="new">For one repo, all changes will be built sequentially.</target>
+        </trans-unit>
+        <trans-unit id="fd1f4620-0f11-46fb-b245-5dd36ab7bbb6" xml:space="preserve">
+          <source>There're two ways to build GIT changes:</source>
+          <target state="new">There're two ways to build GIT changes:</target>
+        </trans-unit>
+        <trans-unit id="c4ec8c8b-0db0-4a0d-9cdf-51e7432c7bc6" xml:space="preserve">
+          <source>For each changes in GIT repo, start a build.</source>
+          <target state="new">For each changes in GIT repo, start a build.</target>
+        </trans-unit>
+        <trans-unit id="04ca8e77-8453-477c-998a-e5ea003ccc75" xml:space="preserve">
+          <source>Rolling build, aggregate all changes since last build and build them.</source>
+          <target state="new">Rolling build, aggregate all changes since last build and build them.</target>
+        </trans-unit>
+        <trans-unit id="c2036b65-ec15-4684-99bd-2721ab367948" xml:space="preserve">
+          <source>\#2 may be more efficient but #1 will be more accurate.</source>
+          <target state="new">\#2 may be more efficient but #1 will be more accurate.</target>
+        </trans-unit>
+        <trans-unit id="0ce1a5a8-9812-4499-accd-1e8686d51bea" xml:space="preserve">
+          <source>For now we will use #1 to build changes.</source>
+          <target state="new">For now we will use #1 to build changes.</target>
+        </trans-unit>
+        <trans-unit id="29b46a3f-ed1d-4903-aff0-1170af2d5485" xml:space="preserve">
+          <source>4.4 Transform Markdown Files</source>
+          <target state="new">4.4 Transform Markdown Files</target>
+        </trans-unit>
+        <trans-unit id="c81e72e5-c96e-4e84-903d-93576226d8c7" xml:space="preserve">
+          <source>We'll use open source markdown library (<bpt id="f2deabfc-4e7a-482d-84d0-588dd1378566CapsExtId1">&lt;linkText&gt;</bpt>marked.js<ept id="f2deabfc-4e7a-482d-84d0-588dd1378566CapsExtId1">&lt;/linkText&gt;</ept><bpt id="f2deabfc-4e7a-482d-84d0-588dd1378566CapsExtId2">&lt;title&gt;</bpt><ept id="f2deabfc-4e7a-482d-84d0-588dd1378566CapsExtId2">&lt;/title&gt;</ept> is a good candidate) to transform markdown files to HTML files.</source>
+          <target state="new">We'll use open source markdown library (<bpt id="f2deabfc-4e7a-482d-84d0-588dd1378566CapsExtId1">&lt;linkText&gt;</bpt>marked.js<ept id="f2deabfc-4e7a-482d-84d0-588dd1378566CapsExtId1">&lt;/linkText&gt;</ept><bpt id="f2deabfc-4e7a-482d-84d0-588dd1378566CapsExtId2">&lt;title&gt;</bpt><ept id="f2deabfc-4e7a-482d-84d0-588dd1378566CapsExtId2">&lt;/title&gt;</ept> is a good candidate) to transform markdown files to HTML files.</target>
+        </trans-unit>
+        <trans-unit id="0c91f6f6-efbb-41d1-8da2-3084a6f7714f" xml:space="preserve">
+          <source>There will be additional to develop transformation for markdown extensions.</source>
+          <target state="new">There will be additional to develop transformation for markdown extensions.</target>
+        </trans-unit>
+        <trans-unit id="b884d94f-f7c6-4de5-9b0b-538c9154aeaa" xml:space="preserve">
+          <source>Transform also includes other tasks, including:</source>
+          <target state="new">Transform also includes other tasks, including:</target>
+        </trans-unit>
+        <trans-unit id="63688b8d-8f72-4c24-9699-e148ca96e0a8" xml:space="preserve">
+          <source>Validation, validate source files and generate validation report</source>
+          <target state="new">Validation, validate source files and generate validation report</target>
+        </trans-unit>
+        <trans-unit id="28d5be1b-ada1-4027-bf2c-8bc89fc993c9" xml:space="preserve">
+          <source>Generate TOC</source>
+          <target state="new">Generate TOC</target>
+        </trans-unit>
+        <trans-unit id="85e01666-90fd-4c5c-8a1d-076e1b15b1bc" xml:space="preserve">
+          <source>Process metadata</source>
+          <target state="new">Process metadata</target>
+        </trans-unit>
+        <trans-unit id="a419ed4c-aea7-4332-8a6a-61a73f0babb6" xml:space="preserve">
+          <source>Generate dependency information for incremental build</source>
+          <target state="new">Generate dependency information for incremental build</target>
+        </trans-unit>
+        <trans-unit id="00ce5474-c6b7-433c-9cde-a1e245dd6212" xml:space="preserve">
+          <source>The output of transform will be in a folder structure.</source>
+          <target state="new">The output of transform will be in a folder structure.</target>
+        </trans-unit>
+        <trans-unit id="65be279e-0033-4eb6-98e8-bf47a786bb04" xml:space="preserve">
+          <source>There're a few benefits for using files as output:</source>
+          <target state="new">There're a few benefits for using files as output:</target>
+        </trans-unit>
+        <trans-unit id="1e7bd8a2-dc5d-4dec-8efb-cfe8055173ba" xml:space="preserve">
+          <source>It can be run both locally or on build server, without taking additional dependencies like database.</source>
+          <target state="new">It can be run both locally or on build server, without taking additional dependencies like database.</target>
+        </trans-unit>
+        <trans-unit id="239aa525-0b38-49e7-a218-e1b7f0b36147" xml:space="preserve">
+          <source>Build result can be easily xcopied for troubleshoting.</source>
+          <target state="new">Build result can be easily xcopied for troubleshoting.</target>
+        </trans-unit>
+        <trans-unit id="897f37f6-3650-4d08-9a2e-762e26a4d1b0" xml:space="preserve">
+          <source>It's easy to build version control on files for transaction control.</source>
+          <target state="new">It's easy to build version control on files for transaction control.</target>
+        </trans-unit>
+        <trans-unit id="0f98a546-6cba-43e8-a490-d197b776b8a7" xml:space="preserve">
+          <source>4.5 Template</source>
+          <target state="new">4.5 Template</target>
+        </trans-unit>
+        <trans-unit id="612945ed-e40a-4470-a3ca-802404d84214" xml:space="preserve">
+          <source><bpt id="c94e2bcc-33e4-41b0-ad0d-2393a13a99f2">&lt;em&gt;</bpt>// Not clear for now<ept id="c94e2bcc-33e4-41b0-ad0d-2393a13a99f2">&lt;/em&gt;</ept></source>
+          <target state="new"><bpt id="c94e2bcc-33e4-41b0-ad0d-2393a13a99f2">&lt;em&gt;</bpt>// Not clear for now<ept id="c94e2bcc-33e4-41b0-ad0d-2393a13a99f2">&lt;/em&gt;</ept></target>
+        </trans-unit>
+        <trans-unit id="36b59f5a-9216-49e7-a1a5-7710d118b9fc" xml:space="preserve">
+          <source>4.6 Incremental Build</source>
+          <target state="new">4.6 Incremental Build</target>
+        </trans-unit>
+        <trans-unit id="38f4d9c4-0798-4771-8e2d-eb2b99c4de75" xml:space="preserve">
+          <source>To increase publish system throughput and reduce publish response time, it's important to have an incremental build system.</source>
+          <target state="new">To increase publish system throughput and reduce publish response time, it's important to have an incremental build system.</target>
+        </trans-unit>
+        <trans-unit id="ed6e7485-927e-488f-b1d1-8d7d7abc9223" xml:space="preserve">
+          <source>There're several common scenarios that can benefit from incremental build:</source>
+          <target state="new">There're several common scenarios that can benefit from incremental build:</target>
+        </trans-unit>
+        <trans-unit id="9e7cdda1-b615-4fca-9d83-2970b1f90bd4" xml:space="preserve">
+          <source>User only modifies several files in a GIT repo, obviously there is no need to build the whole repo.</source>
+          <target state="new">User only modifies several files in a GIT repo, obviously there is no need to build the whole repo.</target>
+        </trans-unit>
+        <trans-unit id="64ac5c8f-fc54-4c96-a215-a67e684c0677" xml:space="preserve">
+          <source>User merges from branch A to branch B, there is no need to build branch B as branch A should be already built, so it just need to copy the build output from branch A to B</source>
+          <target state="new">User merges from branch A to branch B, there is no need to build branch B as branch A should be already built, so it just need to copy the build output from branch A to B</target>
+        </trans-unit>
+        <trans-unit id="db84026c-0494-450b-9ebd-d5f89912b19d" xml:space="preserve">
+          <source>User create a new branch B from branch A, similar to #2, only need to copy build result from branch A.</source>
+          <target state="new">User create a new branch B from branch A, similar to #2, only need to copy build result from branch A.</target>
+        </trans-unit>
+        <trans-unit id="806163d6-449f-4c2f-95c8-50685f7747cb" xml:space="preserve">
+          <source>4.6.1 Top-down Approach</source>
+          <target state="new">4.6.1 Top-down Approach</target>
+        </trans-unit>
+        <trans-unit id="4430b5ee-44fc-428e-b4cc-2f5a729ad97a" xml:space="preserve">
+          <source>Top-down approach is like traditional source code build, build scans all files in the repo to figure out which files needs rebuild.</source>
+          <target state="new">Top-down approach is like traditional source code build, build scans all files in the repo to figure out which files needs rebuild.</target>
+        </trans-unit>
+        <trans-unit id="76a628ee-bc52-4c4f-8b82-d088f4e8d4b3" xml:space="preserve">
+          <source>For each file, build system will maintain a commit hash of the last build result, which can be used to determine whether a file is changed since last build.</source>
+          <target state="new">For each file, build system will maintain a commit hash of the last build result, which can be used to determine whether a file is changed since last build.</target>
+        </trans-unit>
+        <trans-unit id="dccac23e-a061-49ce-9eba-0d87363e3c79" xml:space="preserve">
+          <source>For a source file, we'll check the following to determine whether the file needs rebuild:</source>
+          <target state="new">For a source file, we'll check the following to determine whether the file needs rebuild:</target>
+        </trans-unit>
+        <trans-unit id="522ba414-e931-4cd9-bfef-513ac8a7c409" xml:space="preserve">
+          <source>The commit hash of the file itself.</source>
+          <target state="new">The commit hash of the file itself.</target>
+        </trans-unit>
+        <trans-unit id="06995fa0-2af4-4dcc-9c18-eb5131a92892" xml:space="preserve">
+          <source>If #1 differs, rebuild.</source>
+          <target state="new">If #1 differs, rebuild.</target>
+        </trans-unit>
+        <trans-unit id="d32f2173-3f58-4105-a1bc-583c045da5ac" xml:space="preserve">
+          <source>Otherwise, a dependency information is maintained in last build output.</source>
+          <target state="new">Otherwise, a dependency information is maintained in last build output.</target>
+        </trans-unit>
+        <trans-unit id="41fa6e75-4c6e-40f8-b5a1-94b598d8fd6f" xml:space="preserve">
+          <source>Get the dependency information and check the commit hash for all dependencies.</source>
+          <target state="new">Get the dependency information and check the commit hash for all dependencies.</target>
+        </trans-unit>
+        <trans-unit id="80446c3e-a68f-4ac3-9f3a-3546c7d9db67" xml:space="preserve">
+          <source>Build output can be organized in a folder structure so that we can quickly get the history build output by composing a path.</source>
+          <target state="new">Build output can be organized in a folder structure so that we can quickly get the history build output by composing a path.</target>
+        </trans-unit>
+        <trans-unit id="3e13a2d1-a03a-42f7-b9af-2ea498efd9be" xml:space="preserve">
+          <source>For example:</source>
+          <target state="new">For example:</target>
+        </trans-unit>
+        <trans-unit id="83e3e344-57a8-4be6-b457-3d09dd15ff5c" xml:space="preserve">
+          <source><bpt id="2021f4c8-a21e-4993-8d1c-89c855978db9">&lt;code&gt;</bpt>//output/&lt;commit_hash&gt;/a.html<ept id="2021f4c8-a21e-4993-8d1c-89c855978db9">&lt;/code&gt;</ept></source>
+          <target state="new"><bpt id="2021f4c8-a21e-4993-8d1c-89c855978db9">&lt;code&gt;</bpt>//output/&lt;commit_hash&gt;/a.html<ept id="2021f4c8-a21e-4993-8d1c-89c855978db9">&lt;/code&gt;</ept></target>
+        </trans-unit>
+        <trans-unit id="7fef2563-d50f-4820-bc93-eef415ab41c2" xml:space="preserve">
+          <source>4.6.2 Bottom-up Approach</source>
+          <target state="new">4.6.2 Bottom-up Approach</target>
+        </trans-unit>
+        <trans-unit id="8e56415f-8537-4dc9-9690-76add567bd21" xml:space="preserve">
+          <source>Bottom-up approach is to first detect which files are changed, then find out all files affected by changed files and rebuild them.</source>
+          <target state="new">Bottom-up approach is to first detect which files are changed, then find out all files affected by changed files and rebuild them.</target>
+        </trans-unit>
+        <trans-unit id="1ad32210-6452-4bf7-acc9-eee3bfe2fd7b" xml:space="preserve">
+          <source>This will be more efficient for small changes in large repos as scaning a repo may still take a long time.</source>
+          <target state="new">This will be more efficient for small changes in large repos as scaning a repo may still take a long time.</target>
+        </trans-unit>
+        <trans-unit id="f15e9d6d-4c8f-4e95-bf14-2384fb77d5eb" xml:space="preserve">
+          <source>To achieve this, we first need to get the changed files since last build.</source>
+          <target state="new">To achieve this, we first need to get the changed files since last build.</target>
+        </trans-unit>
+        <trans-unit id="b1507dfe-0945-465f-8c0f-e9b8a90b419f" xml:space="preserve">
+          <source>This can be easily get by diff two commits in GIT repo.</source>
+          <target state="new">This can be easily get by diff two commits in GIT repo.</target>
+        </trans-unit>
+        <trans-unit id="978656a5-937a-4cfb-a369-ba02e4c08287" xml:space="preserve">
+          <source>Then we need to figure out the files affected by changed files.</source>
+          <target state="new">Then we need to figure out the files affected by changed files.</target>
+        </trans-unit>
+        <trans-unit id="30db6b81-629f-4c12-8cc8-d8b6c30302dd" xml:space="preserve">
+          <source>To get this information, a reverse dependency information is needed.</source>
+          <target state="new">To get this information, a reverse dependency information is needed.</target>
+        </trans-unit>
+        <trans-unit id="9905e9e4-4452-4ac0-a50c-574453641459" xml:space="preserve">
+          <source>We can store this information when build the source files.</source>
+          <target state="new">We can store this information when build the source files.</target>
+        </trans-unit>
+        <trans-unit id="5458259b-c63c-454f-bb91-befdc1a97536" xml:space="preserve">
+          <source>The real implementation could be a combination of both approach, as bottom-up approach is more efficient but implementation may be error-prone.</source>
+          <target state="new">The real implementation could be a combination of both approach, as bottom-up approach is more efficient but implementation may be error-prone.</target>
+        </trans-unit>
+        <trans-unit id="d9d185ff-a63d-4e08-b4b0-716ccc0a5ecd" xml:space="preserve">
+          <source>Top-down approach is less efficient but more accurate.</source>
+          <target state="new">Top-down approach is less efficient but more accurate.</target>
+        </trans-unit>
+        <trans-unit id="4843b9a4-7ab1-44ea-bae7-33ea38a7cc0a" xml:space="preserve">
+          <source>The following GIT operations should be interpreted correctly to have an efficient incremental build (if not, the build output is still correct but performance may be affected):</source>
+          <target state="new">The following GIT operations should be interpreted correctly to have an efficient incremental build (if not, the build output is still correct but performance may be affected):</target>
+        </trans-unit>
+        <trans-unit id="927c74fd-7204-4b06-a6a0-c344fd93de0e" xml:space="preserve">
+          <source>File rename</source>
+          <target state="new">File rename</target>
+        </trans-unit>
+        <trans-unit id="a8b359d5-98f3-4888-b5e0-8bab46a8e565" xml:space="preserve">
+          <source>GIT new branch</source>
+          <target state="new">GIT new branch</target>
+        </trans-unit>
+        <trans-unit id="8b3e1746-d893-47af-b7e1-3106ed111cbe" xml:space="preserve">
+          <source>GIT merge branch</source>
+          <target state="new">GIT merge branch</target>
+        </trans-unit>
+        <trans-unit id="77b20cdb-c110-4860-ae2e-7451db9fbade" xml:space="preserve">
+          <source>Since we don't another ID other than file path, we cannot get 100% accurate file rename information (GIT is not accurate on file rename).</source>
+          <target state="new">Since we don't another ID other than file path, we cannot get 100% accurate file rename information (GIT is not accurate on file rename).</target>
+        </trans-unit>
+        <trans-unit id="7537dfa5-8162-4496-8a03-937b329884a5" xml:space="preserve">
+          <source>But as rename on live is a corner scenario, we'll just not support it.</source>
+          <target state="new">But as rename on live is a corner scenario, we'll just not support it.</target>
+        </trans-unit>
+        <trans-unit id="fd3ccedd-e2a2-4db9-a12e-190f9c2edff7" xml:space="preserve">
+          <source>Rename will be simply a delete + add on delivery service (for build, detecting file rename will just have performance benifit).</source>
+          <target state="new">Rename will be simply a delete + add on delivery service (for build, detecting file rename will just have performance benifit).</target>
+        </trans-unit>
+        <trans-unit id="14f3acf9-baa2-4518-8c7d-18cd28465e43" xml:space="preserve">
+          <source>4.6.3 Diff TOC Change</source>
+          <target state="new">4.6.3 Diff TOC Change</target>
+        </trans-unit>
+        <trans-unit id="5d439ab3-dd30-4a59-b729-98954681445a" xml:space="preserve">
+          <source><bpt id="99cbfa0f-7995-4d14-96e2-e187e7b0c19b">&lt;em&gt;</bpt>// Still pending on how TOC will be implemented at delivery service<ept id="99cbfa0f-7995-4d14-96e2-e187e7b0c19b">&lt;/em&gt;</ept></source>
+          <target state="new"><bpt id="99cbfa0f-7995-4d14-96e2-e187e7b0c19b">&lt;em&gt;</bpt>// Still pending on how TOC will be implemented at delivery service<ept id="99cbfa0f-7995-4d14-96e2-e187e7b0c19b">&lt;/em&gt;</ept></target>
+        </trans-unit>
+        <trans-unit id="99b9093f-f472-476f-b678-9ccf1f397975" xml:space="preserve">
+          <source>4.7 Integrate with Delivery Service</source>
+          <target state="new">4.7 Integrate with Delivery Service</target>
+        </trans-unit>
+        <trans-unit id="46930a87-596e-4aaf-ae40-7a042c9196ae" xml:space="preserve">
+          <source>Delivery service will provide REST API to push build output.</source>
+          <target state="new">Delivery service will provide REST API to push build output.</target>
+        </trans-unit>
+        <trans-unit id="d938b479-155c-4f57-940e-229e82e504ce" xml:space="preserve">
+          <source>When talking with delivery service, we will use path to uniquely identifies a file.</source>
+          <target state="new">When talking with delivery service, we will use path to uniquely identifies a file.</target>
+        </trans-unit>
+        <trans-unit id="c9ba27b9-79a0-406e-8e93-3b4b5f8cf6fc" xml:space="preserve">
+          <source>As described in preview section, if path of a file changes, delivery service will treat it as a new file.</source>
+          <target state="new">As described in preview section, if path of a file changes, delivery service will treat it as a new file.</target>
+        </trans-unit>
+        <trans-unit id="1f6e8e71-ac15-496d-8a85-e717da37e1da" xml:space="preserve">
+          <source>Delivery serivce has a concept of repository, which maps to docset at build side.</source>
+          <target state="new">Delivery serivce has a concept of repository, which maps to docset at build side.</target>
+        </trans-unit>
+        <trans-unit id="c118bf0e-cc06-492a-80bc-52b37a619ad9" xml:space="preserve">
+          <source>Delivery service also has the concept of branch for a repo, which maps to the GIT branch at build side.</source>
+          <target state="new">Delivery service also has the concept of branch for a repo, which maps to the GIT branch at build side.</target>
+        </trans-unit>
+        <trans-unit id="5a4e5dd2-5a0d-40cc-a3bf-b1efd0f7acb1" xml:space="preserve">
+          <source>As a result of incremental build, build will only push the changed documents to delivery service.</source>
+          <target state="new">As a result of incremental build, build will only push the changed documents to delivery service.</target>
+        </trans-unit>
+        <trans-unit id="2ddad735-0552-457b-8acd-bb8488e26be9" xml:space="preserve">
+          <source>If delivery service supports the following operation, build serivce can leverage them to improve publish performance.</source>
+          <target state="new">If delivery service supports the following operation, build serivce can leverage them to improve publish performance.</target>
+        </trans-unit>
+        <trans-unit id="be35176c-31e8-4fa2-b938-13cdb478e893" xml:space="preserve">
+          <source>If not, build will translate these operations to CRUD operations:</source>
+          <target state="new">If not, build will translate these operations to CRUD operations:</target>
+        </trans-unit>
+        <trans-unit id="a762081e-05a8-4a92-9d8b-e3de7e3d275d" xml:space="preserve">
+          <source>File rename</source>
+          <target state="new">File rename</target>
+        </trans-unit>
+        <trans-unit id="b3d0708b-7621-4f87-8afc-5d0c5d554ace" xml:space="preserve">
+          <source>Branch merge</source>
+          <target state="new">Branch merge</target>
+        </trans-unit>
+        <trans-unit id="8e1e6e5d-3fe4-489d-b756-29a11a3177f1" xml:space="preserve">
+          <source>4.8 Scalability</source>
+          <target state="new">4.8 Scalability</target>
+        </trans-unit>
+        <trans-unit id="4ac219ea-8666-4559-aba4-4ba5a8f06780" xml:space="preserve">
+          <source><bpt id="7594ae41-f6c2-4e61-b44b-f365f431d7c2">&lt;em&gt;</bpt>// To be written<ept id="7594ae41-f6c2-4e61-b44b-f365f431d7c2">&lt;/em&gt;</ept></source>
+          <target state="new"><bpt id="7594ae41-f6c2-4e61-b44b-f365f431d7c2">&lt;em&gt;</bpt>// To be written<ept id="7594ae41-f6c2-4e61-b44b-f365f431d7c2">&lt;/em&gt;</ept></target>
+        </trans-unit>
+        <trans-unit id="348d709c-88e9-40ae-9a38-e91a33388364" xml:space="preserve">
+          <source>5. Notification</source>
+          <target state="new">5. Notification</target>
+        </trans-unit>
+        <trans-unit id="ff1a9e50-65ab-43b2-a7bd-17799c79654c" xml:space="preserve">
+          <source>Publish is an asynchronized operation.</source>
+          <target state="new">Publish is an asynchronized operation.</target>
+        </trans-unit>
+        <trans-unit id="0bcbb68b-448f-4110-a9ab-e82847f7f401" xml:space="preserve">
+          <source>It's triggered by GIT push, but it won't block push operation as publish may take a long time.</source>
+          <target state="new">It's triggered by GIT push, but it won't block push operation as publish may take a long time.</target>
+        </trans-unit>
+        <trans-unit id="37f8a2a0-f920-49ab-bea2-b92322bb7b2d" xml:space="preserve">
+          <source>So there has to be a way to notify user when publish is completed (or failed).</source>
+          <target state="new">So there has to be a way to notify user when publish is completed (or failed).</target>
+        </trans-unit>
+        <trans-unit id="2bb28245-33db-40bb-877e-da7f07b7fbbf" xml:space="preserve">
+          <source>The most basic notification functionality we will provide is publish status API.</source>
+          <target state="new">The most basic notification functionality we will provide is publish status API.</target>
+        </trans-unit>
+        <trans-unit id="b10c3207-72e6-4367-82d0-68a3a3b21782" xml:space="preserve">
+          <source>User can use the last commit hash to call publish status API to get the pulbish status (succeeded, failed, processing) and publish report.</source>
+          <target state="new">User can use the last commit hash to call publish status API to get the pulbish status (succeeded, failed, processing) and publish report.</target>
+        </trans-unit>
+        <trans-unit id="1768ab2a-3f44-469e-bd7d-e393eb94e2cb" xml:space="preserve">
+          <source>We can also consider to support query publish status using the following criteria:</source>
+          <target state="new">We can also consider to support query publish status using the following criteria:</target>
+        </trans-unit>
+        <trans-unit id="a0dcab6e-7e80-4f8b-9349-47cb808d2c25" xml:space="preserve">
+          <source>Branch</source>
+          <target state="new">Branch</target>
+        </trans-unit>
+        <trans-unit id="91a15fab-1e29-4eba-a13b-e6ed11e5d4bd" xml:space="preserve">
+          <source>Tag</source>
+          <target state="new">Tag</target>
+        </trans-unit>
+        <trans-unit id="5988180f-8fb9-4e16-a1bf-6630313fc63e" xml:space="preserve">
+          <source>GIT Revision range (01234567..89abcdef)</source>
+          <target state="new">GIT Revision range (01234567..89abcdef)</target>
+        </trans-unit>
+        <trans-unit id="a5253436-5f47-4e85-82f9-8f4e938293b0" xml:space="preserve">
+          <source>File path to query the status of a single file</source>
+          <target state="new">File path to query the status of a single file</target>
+        </trans-unit>
+        <trans-unit id="0ddb0e9e-fb88-424b-ba19-bb1ba5bfaef4" xml:space="preserve">
+          <source>The same query functionality will also be available on management portal.</source>
+          <target state="new">The same query functionality will also be available on management portal.</target>
+        </trans-unit>
+        <trans-unit id="abb3eaaa-c776-4036-a599-011d7e8811ce" xml:space="preserve">
+          <source>Besides query API, we will also provide push functionality to let users be notified instead of polling:</source>
+          <target state="new">Besides query API, we will also provide push functionality to let users be notified instead of polling:</target>
+        </trans-unit>
+        <trans-unit id="b94a5483-ec0a-494e-9dbd-5032fe615849" xml:space="preserve">
+          <source>Email</source>
+          <target state="new">Email</target>
+        </trans-unit>
+        <trans-unit id="f48c6cab-a36d-40f7-a705-07e243d6ee75" xml:space="preserve">
+          <source>Webhook</source>
+          <target state="new">Webhook</target>
+        </trans-unit>
+        <trans-unit id="4f7fbb2a-2335-4f53-a99f-74f15c134597" xml:space="preserve">
+          <source>6. API and Management Portal</source>
+          <target state="new">6. API and Management Portal</target>
+        </trans-unit>
+        <trans-unit id="b7d73f45-4037-4d8d-82eb-1663b9ccf886" xml:space="preserve">
+          <source>As described in previous section, user will mainly interact with open publishing through GIT repo.</source>
+          <target state="new">As described in previous section, user will mainly interact with open publishing through GIT repo.</target>
+        </trans-unit>
+        <trans-unit id="8129ebf8-1a9a-40a5-9228-c4358ba3da9c" xml:space="preserve">
+          <source>For example, to publish, user just need to do a GIT push.</source>
+          <target state="new">For example, to publish, user just need to do a GIT push.</target>
+        </trans-unit>
+        <trans-unit id="8fe2ddd7-246b-491b-82e3-ddfa5047f13d" xml:space="preserve">
+          <source>To configure a docset, user just update the configuration file in GIT repo.</source>
+          <target state="new">To configure a docset, user just update the configuration file in GIT repo.</target>
+        </trans-unit>
+        <trans-unit id="e8b0a94d-c18e-4ff7-89ae-fc872b8fc3c6" xml:space="preserve">
+          <source>But there're still some operations that need to be done outside GIT repo, like provision a repo, and as described in previous section, query a build.</source>
+          <target state="new">But there're still some operations that need to be done outside GIT repo, like provision a repo, and as described in previous section, query a build.</target>
+        </trans-unit>
+        <trans-unit id="a8f7ff86-a28e-49c1-9418-465a31c44839" xml:space="preserve">
+          <source>All these operations can be done through open publishing API.</source>
+          <target state="new">All these operations can be done through open publishing API.</target>
+        </trans-unit>
+        <trans-unit id="c70d6f4b-26dc-4faa-8730-b76baeb8d599" xml:space="preserve">
+          <source>Open publishing API will be mainly supports the following operations:</source>
+          <target state="new">Open publishing API will be mainly supports the following operations:</target>
+        </trans-unit>
+        <trans-unit id="57844e2c-6642-4b26-9b77-810277305a53" xml:space="preserve">
+          <source>Create a repo.</source>
+          <target state="new">Create a repo.</target>
+        </trans-unit>
+        <trans-unit id="c8b058f8-b9c2-4e98-8ef3-981816cced31" xml:space="preserve">
+          <source>Given a GIT repo url, creates a corresponding "repo" in open publishing.</source>
+          <target state="new">Given a GIT repo url, creates a corresponding "repo" in open publishing.</target>
+        </trans-unit>
+        <trans-unit id="dd93a4da-b6ed-4192-b9de-f217df0d4567" xml:space="preserve">
+          <source>Configure docset watchlist.</source>
+          <target state="new">Configure docset watchlist.</target>
+        </trans-unit>
+        <trans-unit id="42b725a1-e55d-46f4-8320-01200d978643" xml:space="preserve">
+          <source>Given an open publishing repo, add/remove docsets to be watched by open publishing.</source>
+          <target state="new">Given an open publishing repo, add/remove docsets to be watched by open publishing.</target>
+        </trans-unit>
+        <trans-unit id="39bf802d-954e-4aed-ab38-681f60c7774b" xml:space="preserve">
+          <source>Triggers a publish.</source>
+          <target state="new">Triggers a publish.</target>
+        </trans-unit>
+        <trans-unit id="ccad642f-2aac-44cf-b399-631043c74cdd" xml:space="preserve">
+          <source>Though a publish can be triggered by GIT push, there will be some cases that user wants to publish manually.</source>
+          <target state="new">Though a publish can be triggered by GIT push, there will be some cases that user wants to publish manually.</target>
+        </trans-unit>
+        <trans-unit id="90596fa1-331c-4897-aef6-653f0a26a8a9" xml:space="preserve">
+          <source>This API provides this functionality.</source>
+          <target state="new">This API provides this functionality.</target>
+        </trans-unit>
+        <trans-unit id="94f32d03-2e4d-4260-a94e-2bf9f088a549" xml:space="preserve">
+          <source>The input parameters could be:</source>
+          <target state="new">The input parameters could be:</target>
+        </trans-unit>
+        <trans-unit id="dfc38942-e286-4937-b4c6-fe6082e908a4" xml:space="preserve">
+          <source>Branch</source>
+          <target state="new">Branch</target>
+        </trans-unit>
+        <trans-unit id="e05797fe-810e-4955-857e-fe73a9a2523b" xml:space="preserve">
+          <source>Tag</source>
+          <target state="new">Tag</target>
+        </trans-unit>
+        <trans-unit id="00ed586b-d3f2-4d8d-9b76-a9184e257cca" xml:space="preserve">
+          <source>Commit hash</source>
+          <target state="new">Commit hash</target>
+        </trans-unit>
+        <trans-unit id="64012862-7b97-4ab6-95c8-d19b5f3fc10c" xml:space="preserve">
+          <source>Query publish status and get publish report, already described in previous section.</source>
+          <target state="new">Query publish status and get publish report, already described in previous section.</target>
+        </trans-unit>
+        <trans-unit id="27d3d144-825f-4593-8eb0-a421dcf47da9" xml:space="preserve">
+          <source>Management portal is just a graphics interface that provides the same functionality as API.</source>
+          <target state="new">Management portal is just a graphics interface that provides the same functionality as API.</target>
+        </trans-unit>
+      </group>
+    </body>
+  </file>
+</xliff>

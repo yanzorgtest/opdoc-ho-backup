@@ -1,0 +1,61 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<xliff version="1.2" xmlns="urn:oasis:names:tc:xliff:document:1.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:oasis:names:tc:xliff:document:1.2 xliff-core-1.2-transitional.xsd">
+  <file datatype="xml" source-language="en-us" target-language="de-de" original="foo.file" tool-id="b72f88b8-d989-430b-ad51-c0a9e0efeba7" product-name="foo" product-version="1.0" build-num="1">
+    <header>
+      <tool tool-id="b72f88b8-d989-430b-ad51-c0a9e0efeba7" tool-name="MarkdownToXliff" tool-version="1.0" tool-company="Microsoft" />
+      <olfilehash xmlns="">80e4646150e3d9c475719fa64fbf66bb3421ba2b</olfilehash>
+    </header>
+    <body>
+      <group id="8cd2a2e8-636d-431f-86f9-23754626da21">
+        <trans-unit id="112b70e9-3661-46ef-9c7f-3b8a876ce7fe" xml:space="preserve">
+          <source>Content publishing</source>
+          <target state="new">Content publishing</target>
+        </trans-unit>
+        <trans-unit id="df08e08c-8456-4d23-9f18-40083cd8abb9" xml:space="preserve">
+          <source>Alike other systems, publishing to stage and live is done via branch management.</source>
+          <target state="new">Alike other systems, publishing to stage and live is done via branch management.</target>
+        </trans-unit>
+        <trans-unit id="df3ace7f-5142-46ea-ac00-99ac57b23723" xml:space="preserve">
+          <source>Thus, you can assign one branch to be your sandbox, staging branch, and another to be your live branch.</source>
+          <target state="new">Thus, you can assign one branch to be your sandbox, staging branch, and another to be your live branch.</target>
+        </trans-unit>
+        <trans-unit id="603dd427-2d11-4848-93b7-f386f2f2eb52" xml:space="preserve">
+          <source>This is configured during <bpt id="f8f98ce9-df6c-481a-a583-da2550e42fa1CapsExtId1">&lt;linkText&gt;</bpt>repo provisioning<ept id="f8f98ce9-df6c-481a-a583-da2550e42fa1CapsExtId1">&lt;/linkText&gt;</ept><bpt id="f8f98ce9-df6c-481a-a583-da2550e42fa1CapsExtId2">&lt;title&gt;</bpt><ept id="f8f98ce9-df6c-481a-a583-da2550e42fa1CapsExtId2">&lt;/title&gt;</ept>.</source>
+          <target state="new">This is configured during <bpt id="f8f98ce9-df6c-481a-a583-da2550e42fa1CapsExtId1">&lt;linkText&gt;</bpt>repo provisioning<ept id="f8f98ce9-df6c-481a-a583-da2550e42fa1CapsExtId1">&lt;/linkText&gt;</ept><bpt id="f8f98ce9-df6c-481a-a583-da2550e42fa1CapsExtId2">&lt;title&gt;</bpt><ept id="f8f98ce9-df6c-481a-a583-da2550e42fa1CapsExtId2">&lt;/title&gt;</ept>.</target>
+        </trans-unit>
+        <trans-unit id="0f7d5c02-0734-435a-a7cc-36c2dac812af" xml:space="preserve">
+          <source>In general:</source>
+          <target state="new">In general:</target>
+        </trans-unit>
+        <trans-unit id="b6f4a7c0-c828-4e9c-9695-7515df75fb4e" xml:space="preserve">
+          <source><bpt id="fdf7c0b0-6cf5-4dbf-b364-c2e6b1b1dcfe">&lt;strong&gt;</bpt>master<ept id="fdf7c0b0-6cf5-4dbf-b364-c2e6b1b1dcfe">&lt;/strong&gt;</ept> branch is the branch associated with staging.</source>
+          <target state="new"><bpt id="fdf7c0b0-6cf5-4dbf-b364-c2e6b1b1dcfe">&lt;strong&gt;</bpt>master<ept id="fdf7c0b0-6cf5-4dbf-b364-c2e6b1b1dcfe">&lt;/strong&gt;</ept> branch is the branch associated with staging.</target>
+        </trans-unit>
+        <trans-unit id="fe43a814-02ab-449b-a5aa-b8cc4c9d5976" xml:space="preserve">
+          <source><bpt id="a0ce1dc6-e14f-4ef9-8e63-a2ea37f28b23">&lt;strong&gt;</bpt>live<ept id="a0ce1dc6-e14f-4ef9-8e63-a2ea37f28b23">&lt;/strong&gt;</ept> branch is the production branch associated with live.</source>
+          <target state="new"><bpt id="a0ce1dc6-e14f-4ef9-8e63-a2ea37f28b23">&lt;strong&gt;</bpt>live<ept id="a0ce1dc6-e14f-4ef9-8e63-a2ea37f28b23">&lt;/strong&gt;</ept> branch is the production branch associated with live.</target>
+        </trans-unit>
+        <trans-unit id="a1c43ac9-e322-428f-a34b-f81bc491732f" xml:space="preserve">
+          <source>Note that this means that once the content is committed to one of the corresponding branch, the content will automatically get published to their assigned environment.</source>
+          <target state="new">Note that this means that once the content is committed to one of the corresponding branch, the content will automatically get published to their assigned environment.</target>
+        </trans-unit>
+        <trans-unit id="cd790887-3bcd-4ff3-9338-e1f2f0a8aba7" xml:space="preserve">
+          <source>Both English and localized content follow the same logic for a given repo.</source>
+          <target state="new">Both English and localized content follow the same logic for a given repo.</target>
+        </trans-unit>
+        <trans-unit id="b53c1622-b93a-4256-a054-c0de3ce6691d" xml:space="preserve">
+          <source>Build status and reports</source>
+          <target state="new">Build status and reports</target>
+        </trans-unit>
+        <trans-unit id="0ea7a4c6-2639-4a3d-8182-540f5cbce030" xml:space="preserve">
+          <source>The submitter of the changes as well as those in the (notification list)[repo-config.md], will get a mail indicating whether the build is successful or not, a link to the documentation, as well as a link to the build report.</source>
+          <target state="new">The submitter of the changes as well as those in the (notification list)[repo-config.md], will get a mail indicating whether the build is successful or not, a link to the documentation, as well as a link to the build report.</target>
+        </trans-unit>
+        <trans-unit id="050e3234-26ef-4294-af02-a524a682a6a1" xml:space="preserve">
+          <source>Alternatively, teams can look at the <bpt id="34aafc71-aaf6-404a-85aa-21fcc0a2b6b6CapsExtId1">&lt;linkText&gt;</bpt>Open Publishing Portal<ept id="34aafc71-aaf6-404a-85aa-21fcc0a2b6b6CapsExtId1">&lt;/linkText&gt;</ept><bpt id="34aafc71-aaf6-404a-85aa-21fcc0a2b6b6CapsExtId2">&lt;title&gt;</bpt><ept id="34aafc71-aaf6-404a-85aa-21fcc0a2b6b6CapsExtId2">&lt;/title&gt;</ept> for build status and logs of current and past builds.</source>
+          <target state="new">Alternatively, teams can look at the <bpt id="34aafc71-aaf6-404a-85aa-21fcc0a2b6b6CapsExtId1">&lt;linkText&gt;</bpt>Open Publishing Portal<ept id="34aafc71-aaf6-404a-85aa-21fcc0a2b6b6CapsExtId1">&lt;/linkText&gt;</ept><bpt id="34aafc71-aaf6-404a-85aa-21fcc0a2b6b6CapsExtId2">&lt;title&gt;</bpt><ept id="34aafc71-aaf6-404a-85aa-21fcc0a2b6b6CapsExtId2">&lt;/title&gt;</ept> for build status and logs of current and past builds.</target>
+        </trans-unit>
+      </group>
+    </body>
+  </file>
+</xliff>

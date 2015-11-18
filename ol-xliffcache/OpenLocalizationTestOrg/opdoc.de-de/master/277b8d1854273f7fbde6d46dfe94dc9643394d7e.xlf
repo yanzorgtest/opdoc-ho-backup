@@ -1,0 +1,81 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<xliff version="1.2" xmlns="urn:oasis:names:tc:xliff:document:1.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:oasis:names:tc:xliff:document:1.2 xliff-core-1.2-transitional.xsd">
+  <file datatype="xml" source-language="en-us" target-language="de-de" original="foo.file" tool-id="9b06b9b9-3bf1-41d9-8597-5ee20d9eae51" product-name="foo" product-version="1.0" build-num="1">
+    <header>
+      <tool tool-id="9b06b9b9-3bf1-41d9-8597-5ee20d9eae51" tool-name="MarkdownToXliff" tool-version="1.0" tool-company="Microsoft" />
+      <olfilehash xmlns="">277b8d1854273f7fbde6d46dfe94dc9643394d7e</olfilehash>
+    </header>
+    <body>
+      <group id="4e32f95e-e542-42c2-86ab-2de481d5f3f3">
+        <trans-unit id="de0d4044-0ee4-4210-b07b-0bcce230312d" xml:space="preserve">
+          <source>Retiring your MTPS content (migration from MTPS to Open Publishing)</source>
+          <target state="new">Retiring your MTPS content (migration from MTPS to Open Publishing)</target>
+        </trans-unit>
+        <trans-unit id="9de8be4d-cb4a-4d91-b582-3aecb6abe5ec" xml:space="preserve">
+          <source>If you are migrating your content from MTPS (published with PWS or the Build Sytem) to Open Publishing, you will need to retire your old content, so it does not appear in the search engines.</source>
+          <target state="new">If you are migrating your content from MTPS (published with PWS or the Build Sytem) to Open Publishing, you will need to retire your old content, so it does not appear in the search engines.</target>
+        </trans-unit>
+        <trans-unit id="8b212660-c130-4f52-badd-dcb26f3b5188" xml:space="preserve">
+          <source>As part of the retirement operation, make sure that you set your content to NoIndex and NoFollow and promote the content again.</source>
+          <target state="new">As part of the retirement operation, make sure that you set your content to NoIndex and NoFollow and promote the content again.</target>
+        </trans-unit>
+        <trans-unit id="8fd4cff6-d20f-48d9-a521-5532e5a1be60" xml:space="preserve">
+          <source>Once this is done, the old content will be removed from the site map in the next refresh (once every sprint) or VSC will do as an Out of Band.</source>
+          <target state="new">Once this is done, the old content will be removed from the site map in the next refresh (once every sprint) or VSC will do as an Out of Band.</target>
+        </trans-unit>
+        <trans-unit id="b8b5c135-f9d0-40ae-9ab8-518044569025" xml:space="preserve">
+          <source>Remember to do this for all your locales.</source>
+          <target state="new">Remember to do this for all your locales.</target>
+        </trans-unit>
+        <trans-unit id="b1886b1e-512a-4117-a77e-59ae2a473086" xml:space="preserve">
+          <source>If your content is not removed from the site maps and still appear in the search results, open a bug via the <bpt id="0ecfbffd-82a2-4816-8aba-1ece8328d0b5CapsExtId1">&lt;linkText&gt;</bpt>MSDNHelp portal<ept id="0ecfbffd-82a2-4816-8aba-1ece8328d0b5CapsExtId1">&lt;/linkText&gt;</ept><bpt id="0ecfbffd-82a2-4816-8aba-1ece8328d0b5CapsExtId2">&lt;title&gt;</bpt><ept id="0ecfbffd-82a2-4816-8aba-1ece8328d0b5CapsExtId2">&lt;/title&gt;</ept> with the content ids, the locales, and when you retired your content.</source>
+          <target state="new">If your content is not removed from the site maps and still appear in the search results, open a bug via the <bpt id="0ecfbffd-82a2-4816-8aba-1ece8328d0b5CapsExtId1">&lt;linkText&gt;</bpt>MSDNHelp portal<ept id="0ecfbffd-82a2-4816-8aba-1ece8328d0b5CapsExtId1">&lt;/linkText&gt;</ept><bpt id="0ecfbffd-82a2-4816-8aba-1ece8328d0b5CapsExtId2">&lt;title&gt;</bpt><ept id="0ecfbffd-82a2-4816-8aba-1ece8328d0b5CapsExtId2">&lt;/title&gt;</ept> with the content ids, the locales, and when you retired your content.</target>
+        </trans-unit>
+        <trans-unit id="8bad3ff5-86fa-4ad8-9216-ad380cdfbf39" xml:space="preserve">
+          <source>Provide the CMS you are using as well as the publishing list if you know.</source>
+          <target state="new">Provide the CMS you are using as well as the publishing list if you know.</target>
+        </trans-unit>
+        <trans-unit id="b4e2bc50-a8ae-443d-8d75-f565854fee0b" xml:space="preserve">
+          <source>Redirection</source>
+          <target state="new">Redirection</target>
+        </trans-unit>
+        <trans-unit id="801b7201-084a-434e-a39c-5988be19ff0e" xml:space="preserve">
+          <source>Right now, MTPS does not provide automatic redirection.</source>
+          <target state="new">Right now, MTPS does not provide automatic redirection.</target>
+        </trans-unit>
+        <trans-unit id="74bf42ca-2d9c-4140-8b67-da5d8c06e2c9" xml:space="preserve">
+          <source>So we will work with you on getting your content redirected if we can.</source>
+          <target state="new">So we will work with you on getting your content redirected if we can.</target>
+        </trans-unit>
+        <trans-unit id="50092b37-fdee-4756-aef9-684899e6146b" xml:space="preserve">
+          <source>We will try to offer two ways:</source>
+          <target state="new">We will try to offer two ways:</target>
+        </trans-unit>
+        <trans-unit id="80b3f2c8-1242-4908-8140-29b5186495ef" xml:space="preserve">
+          <source>Topic to topic redirection.</source>
+          <target state="new">Topic to topic redirection.</target>
+        </trans-unit>
+        <trans-unit id="aa6b0ac1-2bfe-46ca-b0ca-4f822d80da6e" xml:space="preserve">
+          <source>Grouped redirection.</source>
+          <target state="new">Grouped redirection.</target>
+        </trans-unit>
+        <trans-unit id="90f88b15-8836-4feb-abe4-9f2c7fa5b355" xml:space="preserve">
+          <source>Retiring with a target URL</source>
+          <target state="new">Retiring with a target URL</target>
+        </trans-unit>
+        <trans-unit id="493b0cc5-4be1-4aea-88f9-a1bf15b29b6f" xml:space="preserve">
+          <source>You might decide to retire your content by adding a URL in your MTPS content that points to the Open Publishing content.</source>
+          <target state="new">You might decide to retire your content by adding a URL in your MTPS content that points to the Open Publishing content.</target>
+        </trans-unit>
+        <trans-unit id="044d00f4-24d6-4b96-93e7-d086218a0cfc" xml:space="preserve">
+          <source>If that is the case, this is something you will need to do for now manually according to your current content management system.</source>
+          <target state="new">If that is the case, this is something you will need to do for now manually according to your current content management system.</target>
+        </trans-unit>
+        <trans-unit id="afb364ee-9f1c-42c4-9ba6-e53afc08cb0a" xml:space="preserve">
+          <source>Moving forward, VSC will provide an easier way to do this task.</source>
+          <target state="new">Moving forward, VSC will provide an easier way to do this task.</target>
+        </trans-unit>
+      </group>
+    </body>
+  </file>
+</xliff>

@@ -1,0 +1,117 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<xliff version="1.2" xmlns="urn:oasis:names:tc:xliff:document:1.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:oasis:names:tc:xliff:document:1.2 xliff-core-1.2-transitional.xsd">
+  <file datatype="xml" source-language="en-us" target-language="de-de" original="foo.file" tool-id="30a51e03-4ab4-4d4d-8d17-0312b3bbc05f" product-name="foo" product-version="1.0" build-num="1">
+    <header>
+      <tool tool-id="30a51e03-4ab4-4d4d-8d17-0312b3bbc05f" tool-name="MarkdownToXliff" tool-version="1.0" tool-company="Microsoft" />
+      <olfilehash xmlns="">6894141ea9eef25fbfb8e6ca5a2cf2f1b760fed6</olfilehash>
+    </header>
+    <body>
+      <group id="523fa988-61d5-43d3-8629-20ace3b968cc">
+        <trans-unit id="291d5294-14e9-4a6e-a2cb-3c73b8333180" xml:space="preserve">
+          <source>GitHub Terminology</source>
+          <target state="new">GitHub Terminology</target>
+        </trans-unit>
+        <trans-unit id="e57da6f1-43a6-479a-883d-67c70325bf1f" xml:space="preserve">
+          <source>The GitHub documentation provides very good guidelines to ramp you up and get familiar.</source>
+          <target state="new">The GitHub documentation provides very good guidelines to ramp you up and get familiar.</target>
+        </trans-unit>
+        <trans-unit id="31c0865e-0952-4530-b932-97f7526e28d0" xml:space="preserve">
+          <source>In any case, we include here some basic terminology to get you started.</source>
+          <target state="new">In any case, we include here some basic terminology to get you started.</target>
+        </trans-unit>
+        <trans-unit id="1bf2e446-da3d-475c-b98c-ef9e017c8d99" xml:space="preserve">
+          <source><bpt id="5c6cd11b-7390-4487-a57f-425650a24058">&lt;strong&gt;</bpt>Git<ept id="5c6cd11b-7390-4487-a57f-425650a24058">&lt;/strong&gt;</ept> - An open-source version control system.</source>
+          <target state="new"><bpt id="5c6cd11b-7390-4487-a57f-425650a24058">&lt;strong&gt;</bpt>Git<ept id="5c6cd11b-7390-4487-a57f-425650a24058">&lt;/strong&gt;</ept> - An open-source version control system.</target>
+        </trans-unit>
+        <trans-unit id="02e339c8-2b11-45d6-9765-1da6347ddc6f" xml:space="preserve">
+          <source>Linus Torvalds created it.</source>
+          <target state="new">Linus Torvalds created it.</target>
+        </trans-unit>
+        <trans-unit id="9729ec66-7e82-469b-a13d-9c13471e84f0" xml:space="preserve">
+          <source><bpt id="9ed6dea3-96c0-4c5f-a41c-154ffcc3405b">&lt;strong&gt;</bpt>GitHub<ept id="9ed6dea3-96c0-4c5f-a41c-154ffcc3405b">&lt;/strong&gt;</ept> - A company that provides open source code repository hosting as a service.</source>
+          <target state="new"><bpt id="9ed6dea3-96c0-4c5f-a41c-154ffcc3405b">&lt;strong&gt;</bpt>GitHub<ept id="9ed6dea3-96c0-4c5f-a41c-154ffcc3405b">&lt;/strong&gt;</ept> - A company that provides open source code repository hosting as a service.</target>
+        </trans-unit>
+        <trans-unit id="b6a2f897-a867-4fe1-86b7-3deb56fba036" xml:space="preserve">
+          <source>We are using their service as a content management system.</source>
+          <target state="new">We are using their service as a content management system.</target>
+        </trans-unit>
+        <trans-unit id="9f3a5c43-ae6b-4c5d-8193-4b7baf4428f2" xml:space="preserve">
+          <source>GitHub is built on top of Git.</source>
+          <target state="new">GitHub is built on top of Git.</target>
+        </trans-unit>
+        <trans-unit id="44a26bdc-ae28-4188-a47e-42253000a2fe" xml:space="preserve">
+          <source>To interact with GitHub, you can use their web interface or install Git tools (like Git Bash, or Visual Studio 2015) on your local machine.</source>
+          <target state="new">To interact with GitHub, you can use their web interface or install Git tools (like Git Bash, or Visual Studio 2015) on your local machine.</target>
+        </trans-unit>
+        <trans-unit id="cde261fa-605d-404b-a41e-dfafd9fc488b" xml:space="preserve">
+          <source><bpt id="157ca1e1-2937-4b5b-a9e5-e375770cfe62">&lt;strong&gt;</bpt>repository (repo)<ept id="157ca1e1-2937-4b5b-a9e5-e375770cfe62">&lt;/strong&gt;</ept> - Our content databases in GitHub.</source>
+          <target state="new"><bpt id="157ca1e1-2937-4b5b-a9e5-e375770cfe62">&lt;strong&gt;</bpt>repository (repo)<ept id="157ca1e1-2937-4b5b-a9e5-e375770cfe62">&lt;/strong&gt;</ept> - Our content databases in GitHub.</target>
+        </trans-unit>
+        <trans-unit id="db26c344-39bc-4f93-8ba8-59ecc55c7b86" xml:space="preserve">
+          <source>At the command line, commands that include “upstream” are acting on the repository.</source>
+          <target state="new">At the command line, commands that include “upstream” are acting on the repository.</target>
+        </trans-unit>
+        <trans-unit id="ef3a3129-8a69-4e2c-99b5-7065ad8a13e8" xml:space="preserve">
+          <source><bpt id="d745c963-9bc5-4971-9834-0e195f9981e5">&lt;strong&gt;</bpt>the public repo<ept id="d745c963-9bc5-4971-9834-0e195f9981e5">&lt;/strong&gt;</ept> - External facing content repo; customers and infrequent contributors can submit changes to articles.</source>
+          <target state="new"><bpt id="d745c963-9bc5-4971-9834-0e195f9981e5">&lt;strong&gt;</bpt>the public repo<ept id="d745c963-9bc5-4971-9834-0e195f9981e5">&lt;/strong&gt;</ept> - External facing content repo; customers and infrequent contributors can submit changes to articles.</target>
+        </trans-unit>
+        <trans-unit id="b5c9b51f-86bc-45f3-a7d1-18c4750bf7f6" xml:space="preserve">
+          <source><bpt id="d8428d8d-ab0d-4c8d-9806-fc1732150572">&lt;strong&gt;</bpt>the private repo<ept id="d8428d8d-ab0d-4c8d-9806-fc1732150572">&lt;/strong&gt;</ept> - Internal facing content repo; anyone inside Microsoft can obtain perms and contribute new articles and changes to existing articles.</source>
+          <target state="new"><bpt id="d8428d8d-ab0d-4c8d-9806-fc1732150572">&lt;strong&gt;</bpt>the private repo<ept id="d8428d8d-ab0d-4c8d-9806-fc1732150572">&lt;/strong&gt;</ept> - Internal facing content repo; anyone inside Microsoft can obtain perms and contribute new articles and changes to existing articles.</target>
+        </trans-unit>
+        <trans-unit id="0e83a1e6-0214-4d5f-8704-cf25fbe908c2" xml:space="preserve">
+          <source>Frequent contributors should use the private repo, and all content with a disclosure date must be authored here.</source>
+          <target state="new">Frequent contributors should use the private repo, and all content with a disclosure date must be authored here.</target>
+        </trans-unit>
+        <trans-unit id="0d7d5d1d-6419-4245-bf58-bb9c7be5cc2f" xml:space="preserve">
+          <source><bpt id="8ce6e633-41b0-447b-abb2-dbd0e17876ee">&lt;strong&gt;</bpt>fork<ept id="8ce6e633-41b0-447b-abb2-dbd0e17876ee">&lt;/strong&gt;</ept> - Your online copy of the repository in GitHub.</source>
+          <target state="new"><bpt id="8ce6e633-41b0-447b-abb2-dbd0e17876ee">&lt;strong&gt;</bpt>fork<ept id="8ce6e633-41b0-447b-abb2-dbd0e17876ee">&lt;/strong&gt;</ept> - Your online copy of the repository in GitHub.</target>
+        </trans-unit>
+        <trans-unit id="2eb5ee07-a518-4e97-ad7f-7c7b33fe730a" xml:space="preserve">
+          <source>You push your changes into your fork first to help protect the core repository.</source>
+          <target state="new">You push your changes into your fork first to help protect the core repository.</target>
+        </trans-unit>
+        <trans-unit id="cdc66079-5139-48cc-97e8-93d3477beace" xml:space="preserve">
+          <source>At the command line, commands that include “origin” are acting on your fork of the repo.</source>
+          <target state="new">At the command line, commands that include “origin” are acting on your fork of the repo.</target>
+        </trans-unit>
+        <trans-unit id="af212e9e-4492-4303-a946-9f7ae8d5f27b" xml:space="preserve">
+          <source><bpt id="56a1b501-067e-4224-805d-20e28e4d3391">&lt;strong&gt;</bpt>clone<ept id="56a1b501-067e-4224-805d-20e28e4d3391">&lt;/strong&gt;</ept> - The local copy of your fork on your computer.</source>
+          <target state="new"><bpt id="56a1b501-067e-4224-805d-20e28e4d3391">&lt;strong&gt;</bpt>clone<ept id="56a1b501-067e-4224-805d-20e28e4d3391">&lt;/strong&gt;</ept> - The local copy of your fork on your computer.</target>
+        </trans-unit>
+        <trans-unit id="dc485325-6d1f-43f6-8a5b-225306d5fca0" xml:space="preserve">
+          <source><bpt id="91d145d5-6c49-416a-aa9d-c258e66cbb5f">&lt;strong&gt;</bpt>branch<ept id="91d145d5-6c49-416a-aa9d-c258e66cbb5f">&lt;/strong&gt;</ept> - A copy of the repository within each core, fork, or local version of the repo.</source>
+          <target state="new"><bpt id="91d145d5-6c49-416a-aa9d-c258e66cbb5f">&lt;strong&gt;</bpt>branch<ept id="91d145d5-6c49-416a-aa9d-c258e66cbb5f">&lt;/strong&gt;</ept> - A copy of the repository within each core, fork, or local version of the repo.</target>
+        </trans-unit>
+        <trans-unit id="dc94ef91-f561-4df9-9376-edf8df867edb" xml:space="preserve">
+          <source>The core repository has a master branch, a daily publishing branch, and some milestone release branches.</source>
+          <target state="new">The core repository has a master branch, a daily publishing branch, and some milestone release branches.</target>
+        </trans-unit>
+        <trans-unit id="f5fba330-08cd-4eba-b5bb-cece71cbb208" xml:space="preserve">
+          <source>You check content into the branch that corresponds to the release you are targeting.</source>
+          <target state="new">You check content into the branch that corresponds to the release you are targeting.</target>
+        </trans-unit>
+        <trans-unit id="d154c7bb-0742-42f9-b58c-b5e06751e06e" xml:space="preserve">
+          <source>On your local computer, you create and author within local working branches.</source>
+          <target state="new">On your local computer, you create and author within local working branches.</target>
+        </trans-unit>
+        <trans-unit id="2f1cf4d8-1ec3-4c1e-aa20-565dc2ff47c8" xml:space="preserve">
+          <source><bpt id="50eba1be-b78c-4f99-aa92-38a173984114">&lt;strong&gt;</bpt>pull request<ept id="50eba1be-b78c-4f99-aa92-38a173984114">&lt;/strong&gt;</ept> - You create a pull request to move changes from your fork to the main repository – the pull request shows all the diffs between your fork and the branch you want to changes to go to in the main repository.</source>
+          <target state="new"><bpt id="50eba1be-b78c-4f99-aa92-38a173984114">&lt;strong&gt;</bpt>pull request<ept id="50eba1be-b78c-4f99-aa92-38a173984114">&lt;/strong&gt;</ept> - You create a pull request to move changes from your fork to the main repository – the pull request shows all the diffs between your fork and the branch you want to changes to go to in the main repository.</target>
+        </trans-unit>
+        <trans-unit id="b2d9377a-5e92-434e-a0c2-fe7786e0a8ae" xml:space="preserve">
+          <source>All pull requests are reviewed before acceptance to ensure that metadata is present, basic markdown is correct, content regressions are avoided, and that validation issues are resolved.</source>
+          <target state="new">All pull requests are reviewed before acceptance to ensure that metadata is present, basic markdown is correct, content regressions are avoided, and that validation issues are resolved.</target>
+        </trans-unit>
+        <trans-unit id="fdff1429-509b-490e-ab0e-f9ae0178d470" xml:space="preserve">
+          <source><bpt id="72818ad3-261a-42bb-9dff-f3ab54d88f9d">&lt;strong&gt;</bpt>merge conflict<ept id="72818ad3-261a-42bb-9dff-f3ab54d88f9d">&lt;/strong&gt;</ept> - When Git cannot automatically merge two different sets of changes to the same file.</source>
+          <target state="new"><bpt id="72818ad3-261a-42bb-9dff-f3ab54d88f9d">&lt;strong&gt;</bpt>merge conflict<ept id="72818ad3-261a-42bb-9dff-f3ab54d88f9d">&lt;/strong&gt;</ept> - When Git cannot automatically merge two different sets of changes to the same file.</target>
+        </trans-unit>
+        <trans-unit id="462b0ffc-3dba-4186-8cc0-e59461719548" xml:space="preserve">
+          <source>Merge conflicts have to be resolved manually.</source>
+          <target state="new">Merge conflicts have to be resolved manually.</target>
+        </trans-unit>
+      </group>
+    </body>
+  </file>
+</xliff>

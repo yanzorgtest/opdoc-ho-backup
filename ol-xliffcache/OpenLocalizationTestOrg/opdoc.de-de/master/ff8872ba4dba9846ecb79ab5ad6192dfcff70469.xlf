@@ -1,0 +1,105 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<xliff version="1.2" xmlns="urn:oasis:names:tc:xliff:document:1.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:oasis:names:tc:xliff:document:1.2 xliff-core-1.2-transitional.xsd">
+  <file datatype="xml" source-language="en-us" target-language="de-de" original="foo.file" tool-id="76b6442b-ec95-4619-924c-dd9e49a4303e" product-name="foo" product-version="1.0" build-num="1">
+    <header>
+      <tool tool-id="76b6442b-ec95-4619-924c-dd9e49a4303e" tool-name="MarkdownToXliff" tool-version="1.0" tool-company="Microsoft" />
+      <olfilehash xmlns="">ff8872ba4dba9846ecb79ab5ad6192dfcff70469</olfilehash>
+    </header>
+    <body>
+      <group id="6075d318-3cfc-4ae2-bcea-a298da98b3cd">
+        <trans-unit id="53f306f2-cfe9-4c3f-bfc1-21e82203f2ca" xml:space="preserve">
+          <source><bpt id="498e8984-3819-41f7-8677-cc9dfef89971CapsExtId1">&lt;linkText&gt;</bpt>Open Publishing Introduction<ept id="498e8984-3819-41f7-8677-cc9dfef89971CapsExtId1">&lt;/linkText&gt;</ept><bpt id="498e8984-3819-41f7-8677-cc9dfef89971CapsExtId2">&lt;title&gt;</bpt><ept id="498e8984-3819-41f7-8677-cc9dfef89971CapsExtId2">&lt;/title&gt;</ept></source>
+          <target state="new"><bpt id="498e8984-3819-41f7-8677-cc9dfef89971CapsExtId1">&lt;linkText&gt;</bpt>Open Publishing Introduction<ept id="498e8984-3819-41f7-8677-cc9dfef89971CapsExtId1">&lt;/linkText&gt;</ept><bpt id="498e8984-3819-41f7-8677-cc9dfef89971CapsExtId2">&lt;title&gt;</bpt><ept id="498e8984-3819-41f7-8677-cc9dfef89971CapsExtId2">&lt;/title&gt;</ept></target>
+        </trans-unit>
+        <trans-unit id="9ad4abae-53c4-4fd8-99e8-0cc67220ae74" xml:space="preserve">
+          <source><bpt id="fd1ecf31-52d2-4f57-96aa-024a8064e4abCapsExtId1">&lt;linkText&gt;</bpt>Connect with us and TFS information<ept id="fd1ecf31-52d2-4f57-96aa-024a8064e4abCapsExtId1">&lt;/linkText&gt;</ept><bpt id="fd1ecf31-52d2-4f57-96aa-024a8064e4abCapsExtId2">&lt;title&gt;</bpt><ept id="fd1ecf31-52d2-4f57-96aa-024a8064e4abCapsExtId2">&lt;/title&gt;</ept></source>
+          <target state="new"><bpt id="fd1ecf31-52d2-4f57-96aa-024a8064e4abCapsExtId1">&lt;linkText&gt;</bpt>Connect with us and TFS information<ept id="fd1ecf31-52d2-4f57-96aa-024a8064e4abCapsExtId1">&lt;/linkText&gt;</ept><bpt id="fd1ecf31-52d2-4f57-96aa-024a8064e4abCapsExtId2">&lt;title&gt;</bpt><ept id="fd1ecf31-52d2-4f57-96aa-024a8064e4abCapsExtId2">&lt;/title&gt;</ept></target>
+        </trans-unit>
+        <trans-unit id="5e7d104e-8a0d-422b-a555-c466f86e7f9a" xml:space="preserve">
+          <source><bpt id="11ac19eb-ef40-4513-b825-27b3edda73b9CapsExtId1">&lt;linkText&gt;</bpt>Onboarding to Open Publishing<ept id="11ac19eb-ef40-4513-b825-27b3edda73b9CapsExtId1">&lt;/linkText&gt;</ept><bpt id="11ac19eb-ef40-4513-b825-27b3edda73b9CapsExtId2">&lt;title&gt;</bpt><ept id="11ac19eb-ef40-4513-b825-27b3edda73b9CapsExtId2">&lt;/title&gt;</ept></source>
+          <target state="new"><bpt id="11ac19eb-ef40-4513-b825-27b3edda73b9CapsExtId1">&lt;linkText&gt;</bpt>Onboarding to Open Publishing<ept id="11ac19eb-ef40-4513-b825-27b3edda73b9CapsExtId1">&lt;/linkText&gt;</ept><bpt id="11ac19eb-ef40-4513-b825-27b3edda73b9CapsExtId2">&lt;title&gt;</bpt><ept id="11ac19eb-ef40-4513-b825-27b3edda73b9CapsExtId2">&lt;/title&gt;</ept></target>
+        </trans-unit>
+        <trans-unit id="f1cc82b6-5c57-4f6c-aaad-6b8931a6869d" xml:space="preserve">
+          <source><bpt id="3ec3c6ac-c717-4787-96a1-9967af1d6ceeCapsExtId1">&lt;linkText&gt;</bpt>Partner sign off<ept id="3ec3c6ac-c717-4787-96a1-9967af1d6ceeCapsExtId1">&lt;/linkText&gt;</ept><bpt id="3ec3c6ac-c717-4787-96a1-9967af1d6ceeCapsExtId2">&lt;title&gt;</bpt><ept id="3ec3c6ac-c717-4787-96a1-9967af1d6ceeCapsExtId2">&lt;/title&gt;</ept></source>
+          <target state="new"><bpt id="3ec3c6ac-c717-4787-96a1-9967af1d6ceeCapsExtId1">&lt;linkText&gt;</bpt>Partner sign off<ept id="3ec3c6ac-c717-4787-96a1-9967af1d6ceeCapsExtId1">&lt;/linkText&gt;</ept><bpt id="3ec3c6ac-c717-4787-96a1-9967af1d6ceeCapsExtId2">&lt;title&gt;</bpt><ept id="3ec3c6ac-c717-4787-96a1-9967af1d6ceeCapsExtId2">&lt;/title&gt;</ept></target>
+        </trans-unit>
+        <trans-unit id="7fc67f2d-bc83-4f60-b0d2-9bcad0313b38" xml:space="preserve">
+          <source>Repo creation and management</source>
+          <target state="new">Repo creation and management</target>
+        </trans-unit>
+        <trans-unit id="7926e19d-7a73-4751-936f-6254cff3d75d" xml:space="preserve">
+          <source><bpt id="a3f5b376-df3d-4d21-9af6-8530a5fb323fCapsExtId1">&lt;linkText&gt;</bpt>Creating the GIT repos<ept id="a3f5b376-df3d-4d21-9af6-8530a5fb323fCapsExtId1">&lt;/linkText&gt;</ept><bpt id="a3f5b376-df3d-4d21-9af6-8530a5fb323fCapsExtId2">&lt;title&gt;</bpt><ept id="a3f5b376-df3d-4d21-9af6-8530a5fb323fCapsExtId2">&lt;/title&gt;</ept></source>
+          <target state="new"><bpt id="a3f5b376-df3d-4d21-9af6-8530a5fb323fCapsExtId1">&lt;linkText&gt;</bpt>Creating the GIT repos<ept id="a3f5b376-df3d-4d21-9af6-8530a5fb323fCapsExtId1">&lt;/linkText&gt;</ept><bpt id="a3f5b376-df3d-4d21-9af6-8530a5fb323fCapsExtId2">&lt;title&gt;</bpt><ept id="a3f5b376-df3d-4d21-9af6-8530a5fb323fCapsExtId2">&lt;/title&gt;</ept></target>
+        </trans-unit>
+        <trans-unit id="1566ae87-fa08-4851-8e80-2f3ea1640625" xml:space="preserve">
+          <source><bpt id="95a5681a-9413-4f3e-9974-d2ce7726ad54CapsExtId1">&lt;linkText&gt;</bpt>Configuring the repos<ept id="95a5681a-9413-4f3e-9974-d2ce7726ad54CapsExtId1">&lt;/linkText&gt;</ept><bpt id="95a5681a-9413-4f3e-9974-d2ce7726ad54CapsExtId2">&lt;title&gt;</bpt><ept id="95a5681a-9413-4f3e-9974-d2ce7726ad54CapsExtId2">&lt;/title&gt;</ept></source>
+          <target state="new"><bpt id="95a5681a-9413-4f3e-9974-d2ce7726ad54CapsExtId1">&lt;linkText&gt;</bpt>Configuring the repos<ept id="95a5681a-9413-4f3e-9974-d2ce7726ad54CapsExtId1">&lt;/linkText&gt;</ept><bpt id="95a5681a-9413-4f3e-9974-d2ce7726ad54CapsExtId2">&lt;title&gt;</bpt><ept id="95a5681a-9413-4f3e-9974-d2ce7726ad54CapsExtId2">&lt;/title&gt;</ept></target>
+        </trans-unit>
+        <trans-unit id="51afd84f-9bcc-4269-9c37-0fd777187594" xml:space="preserve">
+          <source><bpt id="dbec6bcc-8d12-4eeb-889c-7ccc75620825CapsExtId1">&lt;linkText&gt;</bpt>TOC creation and management<ept id="dbec6bcc-8d12-4eeb-889c-7ccc75620825CapsExtId1">&lt;/linkText&gt;</ept><bpt id="dbec6bcc-8d12-4eeb-889c-7ccc75620825CapsExtId2">&lt;title&gt;</bpt><ept id="dbec6bcc-8d12-4eeb-889c-7ccc75620825CapsExtId2">&lt;/title&gt;</ept></source>
+          <target state="new"><bpt id="dbec6bcc-8d12-4eeb-889c-7ccc75620825CapsExtId1">&lt;linkText&gt;</bpt>TOC creation and management<ept id="dbec6bcc-8d12-4eeb-889c-7ccc75620825CapsExtId1">&lt;/linkText&gt;</ept><bpt id="dbec6bcc-8d12-4eeb-889c-7ccc75620825CapsExtId2">&lt;title&gt;</bpt><ept id="dbec6bcc-8d12-4eeb-889c-7ccc75620825CapsExtId2">&lt;/title&gt;</ept></target>
+        </trans-unit>
+        <trans-unit id="2cd06280-a5be-46a3-a32a-3f54b559fca2" xml:space="preserve">
+          <source><bpt id="56a9a75b-cbfa-4d52-96a9-4856ddb6ec31CapsExtId1">&lt;linkText&gt;</bpt>URL management<ept id="56a9a75b-cbfa-4d52-96a9-4856ddb6ec31CapsExtId1">&lt;/linkText&gt;</ept><bpt id="56a9a75b-cbfa-4d52-96a9-4856ddb6ec31CapsExtId2">&lt;title&gt;</bpt><ept id="56a9a75b-cbfa-4d52-96a9-4856ddb6ec31CapsExtId2">&lt;/title&gt;</ept></source>
+          <target state="new"><bpt id="56a9a75b-cbfa-4d52-96a9-4856ddb6ec31CapsExtId1">&lt;linkText&gt;</bpt>URL management<ept id="56a9a75b-cbfa-4d52-96a9-4856ddb6ec31CapsExtId1">&lt;/linkText&gt;</ept><bpt id="56a9a75b-cbfa-4d52-96a9-4856ddb6ec31CapsExtId2">&lt;title&gt;</bpt><ept id="56a9a75b-cbfa-4d52-96a9-4856ddb6ec31CapsExtId2">&lt;/title&gt;</ept></target>
+        </trans-unit>
+        <trans-unit id="971115fc-e974-4314-8842-e071de12fa15" xml:space="preserve">
+          <source><bpt id="987a6323-168f-423b-a0dd-e42ce908cc47CapsExtId1">&lt;linkText&gt;</bpt>Paving over MTPS content<ept id="987a6323-168f-423b-a0dd-e42ce908cc47CapsExtId1">&lt;/linkText&gt;</ept><bpt id="987a6323-168f-423b-a0dd-e42ce908cc47CapsExtId2">&lt;title&gt;</bpt><ept id="987a6323-168f-423b-a0dd-e42ce908cc47CapsExtId2">&lt;/title&gt;</ept></source>
+          <target state="new"><bpt id="987a6323-168f-423b-a0dd-e42ce908cc47CapsExtId1">&lt;linkText&gt;</bpt>Paving over MTPS content<ept id="987a6323-168f-423b-a0dd-e42ce908cc47CapsExtId1">&lt;/linkText&gt;</ept><bpt id="987a6323-168f-423b-a0dd-e42ce908cc47CapsExtId2">&lt;title&gt;</bpt><ept id="987a6323-168f-423b-a0dd-e42ce908cc47CapsExtId2">&lt;/title&gt;</ept></target>
+        </trans-unit>
+        <trans-unit id="64eb3bb3-0947-40a6-866b-4a41d8a21d6d" xml:space="preserve">
+          <source>User documentation</source>
+          <target state="new">User documentation</target>
+        </trans-unit>
+        <trans-unit id="37006596-079e-4783-979c-f4d98ad45e32" xml:space="preserve">
+          <source><bpt id="1d37b858-48ba-4bd3-a0a3-53b0bd1dd4a5CapsExtId1">&lt;linkText&gt;</bpt>Metadata<ept id="1d37b858-48ba-4bd3-a0a3-53b0bd1dd4a5CapsExtId1">&lt;/linkText&gt;</ept><bpt id="1d37b858-48ba-4bd3-a0a3-53b0bd1dd4a5CapsExtId2">&lt;title&gt;</bpt><ept id="1d37b858-48ba-4bd3-a0a3-53b0bd1dd4a5CapsExtId2">&lt;/title&gt;</ept></source>
+          <target state="new"><bpt id="1d37b858-48ba-4bd3-a0a3-53b0bd1dd4a5CapsExtId1">&lt;linkText&gt;</bpt>Metadata<ept id="1d37b858-48ba-4bd3-a0a3-53b0bd1dd4a5CapsExtId1">&lt;/linkText&gt;</ept><bpt id="1d37b858-48ba-4bd3-a0a3-53b0bd1dd4a5CapsExtId2">&lt;title&gt;</bpt><ept id="1d37b858-48ba-4bd3-a0a3-53b0bd1dd4a5CapsExtId2">&lt;/title&gt;</ept></target>
+        </trans-unit>
+        <trans-unit id="7ec48f3c-2775-437b-b606-32e06114d54f" xml:space="preserve">
+          <source><bpt id="b74ae5ba-4d2c-4fe8-a62d-d701c6b32f4bCapsExtId1">&lt;linkText&gt;</bpt>Local build and publishing<ept id="b74ae5ba-4d2c-4fe8-a62d-d701c6b32f4bCapsExtId1">&lt;/linkText&gt;</ept><bpt id="b74ae5ba-4d2c-4fe8-a62d-d701c6b32f4bCapsExtId2">&lt;title&gt;</bpt><ept id="b74ae5ba-4d2c-4fe8-a62d-d701c6b32f4bCapsExtId2">&lt;/title&gt;</ept></source>
+          <target state="new"><bpt id="b74ae5ba-4d2c-4fe8-a62d-d701c6b32f4bCapsExtId1">&lt;linkText&gt;</bpt>Local build and publishing<ept id="b74ae5ba-4d2c-4fe8-a62d-d701c6b32f4bCapsExtId1">&lt;/linkText&gt;</ept><bpt id="b74ae5ba-4d2c-4fe8-a62d-d701c6b32f4bCapsExtId2">&lt;title&gt;</bpt><ept id="b74ae5ba-4d2c-4fe8-a62d-d701c6b32f4bCapsExtId2">&lt;/title&gt;</ept></target>
+        </trans-unit>
+        <trans-unit id="47f93b69-4d8a-42e4-8b16-b77d1bc9ecfc" xml:space="preserve">
+          <source><bpt id="f005ae7b-fd04-4747-a781-36cad7468ee6CapsExtId1">&lt;linkText&gt;</bpt>Content publishing<ept id="f005ae7b-fd04-4747-a781-36cad7468ee6CapsExtId1">&lt;/linkText&gt;</ept><bpt id="f005ae7b-fd04-4747-a781-36cad7468ee6CapsExtId2">&lt;title&gt;</bpt><ept id="f005ae7b-fd04-4747-a781-36cad7468ee6CapsExtId2">&lt;/title&gt;</ept></source>
+          <target state="new"><bpt id="f005ae7b-fd04-4747-a781-36cad7468ee6CapsExtId1">&lt;linkText&gt;</bpt>Content publishing<ept id="f005ae7b-fd04-4747-a781-36cad7468ee6CapsExtId1">&lt;/linkText&gt;</ept><bpt id="f005ae7b-fd04-4747-a781-36cad7468ee6CapsExtId2">&lt;title&gt;</bpt><ept id="f005ae7b-fd04-4747-a781-36cad7468ee6CapsExtId2">&lt;/title&gt;</ept></target>
+        </trans-unit>
+        <trans-unit id="8480a081-359a-4090-b08a-d6ddb2a14349" xml:space="preserve">
+          <source><bpt id="a18820ee-32d1-4e65-ab14-0ece061a630fCapsExtId1">&lt;linkText&gt;</bpt>Localization<ept id="a18820ee-32d1-4e65-ab14-0ece061a630fCapsExtId1">&lt;/linkText&gt;</ept><bpt id="a18820ee-32d1-4e65-ab14-0ece061a630fCapsExtId2">&lt;title&gt;</bpt><ept id="a18820ee-32d1-4e65-ab14-0ece061a630fCapsExtId2">&lt;/title&gt;</ept></source>
+          <target state="new"><bpt id="a18820ee-32d1-4e65-ab14-0ece061a630fCapsExtId1">&lt;linkText&gt;</bpt>Localization<ept id="a18820ee-32d1-4e65-ab14-0ece061a630fCapsExtId1">&lt;/linkText&gt;</ept><bpt id="a18820ee-32d1-4e65-ab14-0ece061a630fCapsExtId2">&lt;title&gt;</bpt><ept id="a18820ee-32d1-4e65-ab14-0ece061a630fCapsExtId2">&lt;/title&gt;</ept></target>
+        </trans-unit>
+        <trans-unit id="8b868a06-bb32-4e2d-93c4-c2ebdffbcca3" xml:space="preserve">
+          <source>GitHub and Markdown info</source>
+          <target state="new">GitHub and Markdown info</target>
+        </trans-unit>
+        <trans-unit id="249f8bfd-dbcd-4146-bc10-1c8ccfd0b3f3" xml:space="preserve">
+          <source><bpt id="03f3690f-898d-4f42-9e0e-72efafa82d98CapsExtId1">&lt;linkText&gt;</bpt>GitHub-flavored Markdown, Extensions, and HTML code<ept id="03f3690f-898d-4f42-9e0e-72efafa82d98CapsExtId1">&lt;/linkText&gt;</ept><bpt id="03f3690f-898d-4f42-9e0e-72efafa82d98CapsExtId2">&lt;title&gt;</bpt><ept id="03f3690f-898d-4f42-9e0e-72efafa82d98CapsExtId2">&lt;/title&gt;</ept></source>
+          <target state="new"><bpt id="03f3690f-898d-4f42-9e0e-72efafa82d98CapsExtId1">&lt;linkText&gt;</bpt>GitHub-flavored Markdown, Extensions, and HTML code<ept id="03f3690f-898d-4f42-9e0e-72efafa82d98CapsExtId1">&lt;/linkText&gt;</ept><bpt id="03f3690f-898d-4f42-9e0e-72efafa82d98CapsExtId2">&lt;title&gt;</bpt><ept id="03f3690f-898d-4f42-9e0e-72efafa82d98CapsExtId2">&lt;/title&gt;</ept></target>
+        </trans-unit>
+        <trans-unit id="4a5a7a94-688e-4898-9e1a-4e25c393851d" xml:space="preserve">
+          <source><bpt id="230bd80e-c593-4de9-bfea-b25291da4408CapsExtId1">&lt;linkText&gt;</bpt>GitHub basic terminology<ept id="230bd80e-c593-4de9-bfea-b25291da4408CapsExtId1">&lt;/linkText&gt;</ept><bpt id="230bd80e-c593-4de9-bfea-b25291da4408CapsExtId2">&lt;title&gt;</bpt><ept id="230bd80e-c593-4de9-bfea-b25291da4408CapsExtId2">&lt;/title&gt;</ept></source>
+          <target state="new"><bpt id="230bd80e-c593-4de9-bfea-b25291da4408CapsExtId1">&lt;linkText&gt;</bpt>GitHub basic terminology<ept id="230bd80e-c593-4de9-bfea-b25291da4408CapsExtId1">&lt;/linkText&gt;</ept><bpt id="230bd80e-c593-4de9-bfea-b25291da4408CapsExtId2">&lt;title&gt;</bpt><ept id="230bd80e-c593-4de9-bfea-b25291da4408CapsExtId2">&lt;/title&gt;</ept></target>
+        </trans-unit>
+        <trans-unit id="8d733b9c-9da2-4b04-9c3b-f011e054d338" xml:space="preserve">
+          <source><bpt id="912f06fc-ed1b-46d0-ab63-ec08982e32f8CapsExtId1">&lt;linkText&gt;</bpt>Doc as code info<ept id="912f06fc-ed1b-46d0-ab63-ec08982e32f8CapsExtId1">&lt;/linkText&gt;</ept><bpt id="912f06fc-ed1b-46d0-ab63-ec08982e32f8CapsExtId2">&lt;title&gt;</bpt><ept id="912f06fc-ed1b-46d0-ab63-ec08982e32f8CapsExtId2">&lt;/title&gt;</ept></source>
+          <target state="new"><bpt id="912f06fc-ed1b-46d0-ab63-ec08982e32f8CapsExtId1">&lt;linkText&gt;</bpt>Doc as code info<ept id="912f06fc-ed1b-46d0-ab63-ec08982e32f8CapsExtId1">&lt;/linkText&gt;</ept><bpt id="912f06fc-ed1b-46d0-ab63-ec08982e32f8CapsExtId2">&lt;title&gt;</bpt><ept id="912f06fc-ed1b-46d0-ab63-ec08982e32f8CapsExtId2">&lt;/title&gt;</ept></target>
+        </trans-unit>
+        <trans-unit id="610e544c-9185-4ad0-8a98-208bfae9cbae" xml:space="preserve">
+          <source>Engineering team documentation</source>
+          <target state="new">Engineering team documentation</target>
+        </trans-unit>
+        <trans-unit id="eb7d0b15-3db6-49ab-a255-be3a92f82531" xml:space="preserve">
+          <source><bpt id="0ac65539-8b42-4785-b92f-7ef9d6e0c216CapsExtId1">&lt;linkText&gt;</bpt>Open Publishing Build Design Memo<ept id="0ac65539-8b42-4785-b92f-7ef9d6e0c216CapsExtId1">&lt;/linkText&gt;</ept><bpt id="0ac65539-8b42-4785-b92f-7ef9d6e0c216CapsExtId2">&lt;title&gt;</bpt><ept id="0ac65539-8b42-4785-b92f-7ef9d6e0c216CapsExtId2">&lt;/title&gt;</ept></source>
+          <target state="new"><bpt id="0ac65539-8b42-4785-b92f-7ef9d6e0c216CapsExtId1">&lt;linkText&gt;</bpt>Open Publishing Build Design Memo<ept id="0ac65539-8b42-4785-b92f-7ef9d6e0c216CapsExtId1">&lt;/linkText&gt;</ept><bpt id="0ac65539-8b42-4785-b92f-7ef9d6e0c216CapsExtId2">&lt;title&gt;</bpt><ept id="0ac65539-8b42-4785-b92f-7ef9d6e0c216CapsExtId2">&lt;/title&gt;</ept></target>
+        </trans-unit>
+        <trans-unit id="c787c0c0-5c58-4fc3-b936-ce81d9feb0e4" xml:space="preserve">
+          <source><bpt id="15b6c1dd-6c1f-431a-93cf-3892cc37653eCapsExtId1">&lt;linkText&gt;</bpt>Open Publishing: User Experience and Design<ept id="15b6c1dd-6c1f-431a-93cf-3892cc37653eCapsExtId1">&lt;/linkText&gt;</ept><bpt id="15b6c1dd-6c1f-431a-93cf-3892cc37653eCapsExtId2">&lt;title&gt;</bpt><ept id="15b6c1dd-6c1f-431a-93cf-3892cc37653eCapsExtId2">&lt;/title&gt;</ept></source>
+          <target state="new"><bpt id="15b6c1dd-6c1f-431a-93cf-3892cc37653eCapsExtId1">&lt;linkText&gt;</bpt>Open Publishing: User Experience and Design<ept id="15b6c1dd-6c1f-431a-93cf-3892cc37653eCapsExtId1">&lt;/linkText&gt;</ept><bpt id="15b6c1dd-6c1f-431a-93cf-3892cc37653eCapsExtId2">&lt;title&gt;</bpt><ept id="15b6c1dd-6c1f-431a-93cf-3892cc37653eCapsExtId2">&lt;/title&gt;</ept></target>
+        </trans-unit>
+        <trans-unit id="82ddb962-9f87-4739-bcff-d3e2c3204653" xml:space="preserve">
+          <source><bpt id="67bea6b2-0d72-47a1-b7c6-c420632ffbd3CapsExtId1">&lt;linkText&gt;</bpt>Provisioning the GIT repos<ept id="67bea6b2-0d72-47a1-b7c6-c420632ffbd3CapsExtId1">&lt;/linkText&gt;</ept><bpt id="67bea6b2-0d72-47a1-b7c6-c420632ffbd3CapsExtId2">&lt;title&gt;</bpt><ept id="67bea6b2-0d72-47a1-b7c6-c420632ffbd3CapsExtId2">&lt;/title&gt;</ept></source>
+          <target state="new"><bpt id="67bea6b2-0d72-47a1-b7c6-c420632ffbd3CapsExtId1">&lt;linkText&gt;</bpt>Provisioning the GIT repos<ept id="67bea6b2-0d72-47a1-b7c6-c420632ffbd3CapsExtId1">&lt;/linkText&gt;</ept><bpt id="67bea6b2-0d72-47a1-b7c6-c420632ffbd3CapsExtId2">&lt;title&gt;</bpt><ept id="67bea6b2-0d72-47a1-b7c6-c420632ffbd3CapsExtId2">&lt;/title&gt;</ept></target>
+        </trans-unit>
+      </group>
+    </body>
+  </file>
+</xliff>

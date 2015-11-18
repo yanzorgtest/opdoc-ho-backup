@@ -1,0 +1,509 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<xliff version="1.2" xmlns="urn:oasis:names:tc:xliff:document:1.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:oasis:names:tc:xliff:document:1.2 xliff-core-1.2-transitional.xsd">
+  <file datatype="xml" source-language="en-us" target-language="de-de" original="foo.file" tool-id="f3f40979-39a2-4d74-aa79-68ab4e6a8d33" product-name="foo" product-version="1.0" build-num="1">
+    <header>
+      <tool tool-id="f3f40979-39a2-4d74-aa79-68ab4e6a8d33" tool-name="MarkdownToXliff" tool-version="1.0" tool-company="Microsoft" />
+      <olfilehash xmlns="">8899dc951efb9a32782158fe1234bbf43b2fdbef</olfilehash>
+    </header>
+    <body>
+      <group id="30edd615-b035-4d78-8254-e6ead33a48bc">
+        <trans-unit id="2e8ad5c5-6f91-4b25-a1fe-d84063b2bb8c" xml:space="preserve">
+          <source>Open Publishing: User Experience and Design</source>
+          <target state="new">Open Publishing: User Experience and Design</target>
+        </trans-unit>
+        <trans-unit id="8c6ed165-18fd-445d-9d60-782ec5f3b5da" xml:space="preserve">
+          <source>1. Scenarios</source>
+          <target state="new">1. Scenarios</target>
+        </trans-unit>
+        <trans-unit id="5b741aee-8fae-4149-80b2-e1daabffcb0a" xml:space="preserve">
+          <source>1.1 Setup Repo</source>
+          <target state="new">1.1 Setup Repo</target>
+        </trans-unit>
+        <trans-unit id="67bcfff7-7ebc-49f7-97ea-c8c7d83c82ca" xml:space="preserve">
+          <source>The first step of open publishing is to create a GIT repository and setup it as an open publishing repo.</source>
+          <target state="new">The first step of open publishing is to create a GIT repository and setup it as an open publishing repo.</target>
+        </trans-unit>
+        <trans-unit id="c32f20ff-2cd4-4538-bcd5-0e624926fcea" xml:space="preserve">
+          <source>For GIT repo, we currently plan to support both <bpt id="963470a0-cfb6-404e-88f7-533355685bc6CapsExtId1">&lt;linkText&gt;</bpt>GitHub<ept id="963470a0-cfb6-404e-88f7-533355685bc6CapsExtId1">&lt;/linkText&gt;</ept><bpt id="963470a0-cfb6-404e-88f7-533355685bc6CapsExtId2">&lt;title&gt;</bpt><ept id="963470a0-cfb6-404e-88f7-533355685bc6CapsExtId2">&lt;/title&gt;</ept> and <bpt id="a5964ee1-98f9-41ca-bd6e-d21a395c96a2CapsExtId1">&lt;linkText&gt;</bpt>Visual Studio Online<ept id="a5964ee1-98f9-41ca-bd6e-d21a395c96a2CapsExtId1">&lt;/linkText&gt;</ept><bpt id="a5964ee1-98f9-41ca-bd6e-d21a395c96a2CapsExtId2">&lt;title&gt;</bpt><ept id="a5964ee1-98f9-41ca-bd6e-d21a395c96a2CapsExtId2">&lt;/title&gt;</ept>.</source>
+          <target state="new">For GIT repo, we currently plan to support both <bpt id="963470a0-cfb6-404e-88f7-533355685bc6CapsExtId1">&lt;linkText&gt;</bpt>GitHub<ept id="963470a0-cfb6-404e-88f7-533355685bc6CapsExtId1">&lt;/linkText&gt;</ept><bpt id="963470a0-cfb6-404e-88f7-533355685bc6CapsExtId2">&lt;title&gt;</bpt><ept id="963470a0-cfb6-404e-88f7-533355685bc6CapsExtId2">&lt;/title&gt;</ept> and <bpt id="a5964ee1-98f9-41ca-bd6e-d21a395c96a2CapsExtId1">&lt;linkText&gt;</bpt>Visual Studio Online<ept id="a5964ee1-98f9-41ca-bd6e-d21a395c96a2CapsExtId1">&lt;/linkText&gt;</ept><bpt id="a5964ee1-98f9-41ca-bd6e-d21a395c96a2CapsExtId2">&lt;title&gt;</bpt><ept id="a5964ee1-98f9-41ca-bd6e-d21a395c96a2CapsExtId2">&lt;/title&gt;</ept>.</target>
+        </trans-unit>
+        <trans-unit id="7a9508d2-2702-4598-836e-30ef8fbd32cb" xml:space="preserve">
+          <source>After GIT repo is created, user can go to the management portal of open publishing to setup the repo as open publishing repo.</source>
+          <target state="new">After GIT repo is created, user can go to the management portal of open publishing to setup the repo as open publishing repo.</target>
+        </trans-unit>
+        <trans-unit id="9d5a95d8-f127-4e35-85fa-02c0c2736c17" xml:space="preserve">
+          <source>During the setup process, user will be asked to authorize open publishing as an application to access GitHub/VSO resources, including pull code, create webhooks, etc.</source>
+          <target state="new">During the setup process, user will be asked to authorize open publishing as an application to access GitHub/VSO resources, including pull code, create webhooks, etc.</target>
+        </trans-unit>
+        <trans-unit id="e0141a45-7d6e-42a4-8d50-c78d8e72aa6e" xml:space="preserve">
+          <source>Management portal is a web site for user to interact with open publishing to perform operations including:</source>
+          <target state="new">Management portal is a web site for user to interact with open publishing to perform operations including:</target>
+        </trans-unit>
+        <trans-unit id="e880b6fc-255e-4bba-bea3-d7a01d2beb91" xml:space="preserve">
+          <source>Setup repo</source>
+          <target state="new">Setup repo</target>
+        </trans-unit>
+        <trans-unit id="81a63262-432e-4657-be38-7441ee539276" xml:space="preserve">
+          <source>Manually trigger build</source>
+          <target state="new">Manually trigger build</target>
+        </trans-unit>
+        <trans-unit id="622af690-2981-4c94-8f57-47e46e02af1c" xml:space="preserve">
+          <source>View build status/report</source>
+          <target state="new">View build status/report</target>
+        </trans-unit>
+        <trans-unit id="a63de3ca-d247-4af1-bf12-048f0a7242e6" xml:space="preserve">
+          <source>An open publishing repo consists of docsets.</source>
+          <target state="new">An open publishing repo consists of docsets.</target>
+        </trans-unit>
+        <trans-unit id="5ea09d5d-757a-4188-ac2a-f15c65be065d" xml:space="preserve">
+          <source>A docset is a group of documents that share the same configuration like template, base url, etc. (similar to center in current OA).</source>
+          <target state="new">A docset is a group of documents that share the same configuration like template, base url, etc. (similar to center in current OA).</target>
+        </trans-unit>
+        <trans-unit id="9d06de4e-5c78-4efc-9ba9-ed14c589ee13" xml:space="preserve">
+          <source>1.2 Authoring</source>
+          <target state="new">1.2 Authoring</target>
+        </trans-unit>
+        <trans-unit id="b3463d8f-29fb-4c1f-a10d-ca983e7c4b49" xml:space="preserve">
+          <source>There're three parts that a user can author:</source>
+          <target state="new">There're three parts that a user can author:</target>
+        </trans-unit>
+        <trans-unit id="0786ea55-277e-46bd-b7e5-76f6d246db2b" xml:space="preserve">
+          <source>1.2.1 Topic</source>
+          <target state="new">1.2.1 Topic</target>
+        </trans-unit>
+        <trans-unit id="2fe89a24-748a-48d9-bdc0-4f6a558089a5" xml:space="preserve">
+          <source>We support authoring topics using <bpt id="48f1ba85-fc9c-4ee7-ac85-9b0188701652CapsExtId1">&lt;linkText&gt;</bpt>Markdown<ept id="48f1ba85-fc9c-4ee7-ac85-9b0188701652CapsExtId1">&lt;/linkText&gt;</ept><bpt id="48f1ba85-fc9c-4ee7-ac85-9b0188701652CapsExtId2">&lt;title&gt;</bpt><ept id="48f1ba85-fc9c-4ee7-ac85-9b0188701652CapsExtId2">&lt;/title&gt;</ept> format.</source>
+          <target state="new">We support authoring topics using <bpt id="48f1ba85-fc9c-4ee7-ac85-9b0188701652CapsExtId1">&lt;linkText&gt;</bpt>Markdown<ept id="48f1ba85-fc9c-4ee7-ac85-9b0188701652CapsExtId1">&lt;/linkText&gt;</ept><bpt id="48f1ba85-fc9c-4ee7-ac85-9b0188701652CapsExtId2">&lt;title&gt;</bpt><ept id="48f1ba85-fc9c-4ee7-ac85-9b0188701652CapsExtId2">&lt;/title&gt;</ept> format.</target>
+        </trans-unit>
+        <trans-unit id="2c7a65cb-4d69-449f-9c30-c28ad4c262d2" xml:space="preserve">
+          <source><bpt id="38d6633f-2a35-43eb-975d-5f3575b97729CapsExtId1">&lt;linkText&gt;</bpt>GitHub Flavored Markdown<ept id="38d6633f-2a35-43eb-975d-5f3575b97729CapsExtId1">&lt;/linkText&gt;</ept><bpt id="38d6633f-2a35-43eb-975d-5f3575b97729CapsExtId2">&lt;title&gt;</bpt><ept id="38d6633f-2a35-43eb-975d-5f3575b97729CapsExtId2">&lt;/title&gt;</ept> is by default supported.</source>
+          <target state="new"><bpt id="38d6633f-2a35-43eb-975d-5f3575b97729CapsExtId1">&lt;linkText&gt;</bpt>GitHub Flavored Markdown<ept id="38d6633f-2a35-43eb-975d-5f3575b97729CapsExtId1">&lt;/linkText&gt;</ept><bpt id="38d6633f-2a35-43eb-975d-5f3575b97729CapsExtId2">&lt;title&gt;</bpt><ept id="38d6633f-2a35-43eb-975d-5f3575b97729CapsExtId2">&lt;/title&gt;</ept> is by default supported.</target>
+        </trans-unit>
+        <trans-unit id="eef005e3-7c07-4819-ae6e-497574fc6ba7" xml:space="preserve">
+          <source>We'll also support some extensions to enrich Markdown functionality:</source>
+          <target state="new">We'll also support some extensions to enrich Markdown functionality:</target>
+        </trans-unit>
+        <trans-unit id="55f0ab9a-a729-4f02-ae57-5efb09bcd6b3" xml:space="preserve">
+          <source>File include</source>
+          <target state="new">File include</target>
+        </trans-unit>
+        <trans-unit id="728007d8-2acd-49c6-a358-20d268ee6245" xml:space="preserve">
+          <source>Code snippets</source>
+          <target state="new">Code snippets</target>
+        </trans-unit>
+        <trans-unit id="cd8c3594-7a6e-41c0-a79a-ff3699396b14" xml:space="preserve">
+          <source>etc.</source>
+          <target state="new">etc.</target>
+        </trans-unit>
+        <trans-unit id="214653ca-841b-40cb-80b4-f145454e388f" xml:space="preserve">
+          <source>You can use any Markdown editor (like <bpt id="1513fc29-c649-4d4e-a804-65cf7d5d361cCapsExtId1">&lt;linkText&gt;</bpt>MarkdownPad<ept id="1513fc29-c649-4d4e-a804-65cf7d5d361cCapsExtId1">&lt;/linkText&gt;</ept><bpt id="1513fc29-c649-4d4e-a804-65cf7d5d361cCapsExtId2">&lt;title&gt;</bpt><ept id="1513fc29-c649-4d4e-a804-65cf7d5d361cCapsExtId2">&lt;/title&gt;</ept>, <bpt id="bd0f7ad0-e8f8-41ad-aa24-ba6a2d84ddbfCapsExtId1">&lt;linkText&gt;</bpt>Visual Studio Code<ept id="bd0f7ad0-e8f8-41ad-aa24-ba6a2d84ddbfCapsExtId1">&lt;/linkText&gt;</ept><bpt id="bd0f7ad0-e8f8-41ad-aa24-ba6a2d84ddbfCapsExtId2">&lt;title&gt;</bpt><ept id="bd0f7ad0-e8f8-41ad-aa24-ba6a2d84ddbfCapsExtId2">&lt;/title&gt;</ept>, <bpt id="5834c53d-86de-4d76-9c07-9716ebb2357eCapsExtId1">&lt;linkText&gt;</bpt>Markdown Mode<ept id="5834c53d-86de-4d76-9c07-9716ebb2357eCapsExtId1">&lt;/linkText&gt;</ept><bpt id="5834c53d-86de-4d76-9c07-9716ebb2357eCapsExtId2">&lt;title&gt;</bpt><ept id="5834c53d-86de-4d76-9c07-9716ebb2357eCapsExtId2">&lt;/title&gt;</ept>) you like to edit Markdown files.</source>
+          <target state="new">You can use any Markdown editor (like <bpt id="1513fc29-c649-4d4e-a804-65cf7d5d361cCapsExtId1">&lt;linkText&gt;</bpt>MarkdownPad<ept id="1513fc29-c649-4d4e-a804-65cf7d5d361cCapsExtId1">&lt;/linkText&gt;</ept><bpt id="1513fc29-c649-4d4e-a804-65cf7d5d361cCapsExtId2">&lt;title&gt;</bpt><ept id="1513fc29-c649-4d4e-a804-65cf7d5d361cCapsExtId2">&lt;/title&gt;</ept>, <bpt id="bd0f7ad0-e8f8-41ad-aa24-ba6a2d84ddbfCapsExtId1">&lt;linkText&gt;</bpt>Visual Studio Code<ept id="bd0f7ad0-e8f8-41ad-aa24-ba6a2d84ddbfCapsExtId1">&lt;/linkText&gt;</ept><bpt id="bd0f7ad0-e8f8-41ad-aa24-ba6a2d84ddbfCapsExtId2">&lt;title&gt;</bpt><ept id="bd0f7ad0-e8f8-41ad-aa24-ba6a2d84ddbfCapsExtId2">&lt;/title&gt;</ept>, <bpt id="5834c53d-86de-4d76-9c07-9716ebb2357eCapsExtId1">&lt;linkText&gt;</bpt>Markdown Mode<ept id="5834c53d-86de-4d76-9c07-9716ebb2357eCapsExtId1">&lt;/linkText&gt;</ept><bpt id="5834c53d-86de-4d76-9c07-9716ebb2357eCapsExtId2">&lt;title&gt;</bpt><ept id="5834c53d-86de-4d76-9c07-9716ebb2357eCapsExtId2">&lt;/title&gt;</ept>) you like to edit Markdown files.</target>
+        </trans-unit>
+        <trans-unit id="571c0b14-9da7-4b86-a3a9-65e31d18eb81" xml:space="preserve">
+          <source>Most of them provide live preview functionality so that you can get a simple preview when writing the topic.</source>
+          <target state="new">Most of them provide live preview functionality so that you can get a simple preview when writing the topic.</target>
+        </trans-unit>
+        <trans-unit id="ec8603bd-6132-410a-9389-89b11fd73540" xml:space="preserve">
+          <source>1.2.2 TOC</source>
+          <target state="new">1.2.2 TOC</target>
+        </trans-unit>
+        <trans-unit id="b45e08c9-b39e-4397-95b4-1171556a4dac" xml:space="preserve">
+          <source>TOC is also described in Markdown format.</source>
+          <target state="new">TOC is also described in Markdown format.</target>
+        </trans-unit>
+        <trans-unit id="57266850-1adc-482c-9823-0132a2e48678" xml:space="preserve">
+          <source>We use Markdown <bpt id="4940fbc8-2768-4419-ac29-173893c53b81CapsExtId1">&lt;linkText&gt;</bpt>header<ept id="4940fbc8-2768-4419-ac29-173893c53b81CapsExtId1">&lt;/linkText&gt;</ept><bpt id="4940fbc8-2768-4419-ac29-173893c53b81CapsExtId2">&lt;title&gt;</bpt><ept id="4940fbc8-2768-4419-ac29-173893c53b81CapsExtId2">&lt;/title&gt;</ept> to specify the level of TOC and Markdown <bpt id="1e075e41-fecd-4a59-ace4-0e076592f67eCapsExtId1">&lt;linkText&gt;</bpt>link<ept id="1e075e41-fecd-4a59-ace4-0e076592f67eCapsExtId1">&lt;/linkText&gt;</ept><bpt id="1e075e41-fecd-4a59-ace4-0e076592f67eCapsExtId2">&lt;title&gt;</bpt><ept id="1e075e41-fecd-4a59-ace4-0e076592f67eCapsExtId2">&lt;/title&gt;</ept> to specify the target topic of a toc node.</source>
+          <target state="new">We use Markdown <bpt id="4940fbc8-2768-4419-ac29-173893c53b81CapsExtId1">&lt;linkText&gt;</bpt>header<ept id="4940fbc8-2768-4419-ac29-173893c53b81CapsExtId1">&lt;/linkText&gt;</ept><bpt id="4940fbc8-2768-4419-ac29-173893c53b81CapsExtId2">&lt;title&gt;</bpt><ept id="4940fbc8-2768-4419-ac29-173893c53b81CapsExtId2">&lt;/title&gt;</ept> to specify the level of TOC and Markdown <bpt id="1e075e41-fecd-4a59-ace4-0e076592f67eCapsExtId1">&lt;linkText&gt;</bpt>link<ept id="1e075e41-fecd-4a59-ace4-0e076592f67eCapsExtId1">&lt;/linkText&gt;</ept><bpt id="1e075e41-fecd-4a59-ace4-0e076592f67eCapsExtId2">&lt;title&gt;</bpt><ept id="1e075e41-fecd-4a59-ace4-0e076592f67eCapsExtId2">&lt;/title&gt;</ept> to specify the target topic of a toc node.</target>
+        </trans-unit>
+        <trans-unit id="f5ea39f7-0372-4ce1-8d36-48d3ab7d13b1" xml:space="preserve">
+          <source>For example:</source>
+          <target state="new">For example:</target>
+        </trans-unit>
+        <trans-unit id="33e49bde-1783-48b9-8ccc-3711a8f90f87" xml:space="preserve">
+          <source>1.2.3 Metadata</source>
+          <target state="new">1.2.3 Metadata</target>
+        </trans-unit>
+        <trans-unit id="d8d5d7f5-4fd8-4cba-955f-541bbfa3b8ae" xml:space="preserve">
+          <source>Metadata can be specified at two places:</source>
+          <target state="new">Metadata can be specified at two places:</target>
+        </trans-unit>
+        <trans-unit id="ff0a969d-57cb-42b6-af66-0447de3d7cb8" xml:space="preserve">
+          <source>In each topic, you can use <bpt id="ee836da2-8cb7-4c9a-98f2-4eb54747bdecCapsExtId1">&lt;linkText&gt;</bpt>YAML frontmatter<ept id="ee836da2-8cb7-4c9a-98f2-4eb54747bdecCapsExtId1">&lt;/linkText&gt;</ept><bpt id="ee836da2-8cb7-4c9a-98f2-4eb54747bdecCapsExtId2">&lt;title&gt;</bpt><ept id="ee836da2-8cb7-4c9a-98f2-4eb54747bdecCapsExtId2">&lt;/title&gt;</ept> to store metadata in Markdown file.</source>
+          <target state="new">In each topic, you can use <bpt id="ee836da2-8cb7-4c9a-98f2-4eb54747bdecCapsExtId1">&lt;linkText&gt;</bpt>YAML frontmatter<ept id="ee836da2-8cb7-4c9a-98f2-4eb54747bdecCapsExtId1">&lt;/linkText&gt;</ept><bpt id="ee836da2-8cb7-4c9a-98f2-4eb54747bdecCapsExtId2">&lt;title&gt;</bpt><ept id="ee836da2-8cb7-4c9a-98f2-4eb54747bdecCapsExtId2">&lt;/title&gt;</ept> to store metadata in Markdown file.</target>
+        </trans-unit>
+        <trans-unit id="457f9f28-8985-4f0c-9ad2-582527d34a06" xml:space="preserve">
+          <source>This format is already widely used in github and will be rendered into a table in github markdown preview.</source>
+          <target state="new">This format is already widely used in github and will be rendered into a table in github markdown preview.</target>
+        </trans-unit>
+        <trans-unit id="6ab3179d-ac48-446e-b633-6b5fc9e78f24" xml:space="preserve">
+          <source>Here is one example:</source>
+          <target state="new">Here is one example:</target>
+        </trans-unit>
+        <trans-unit id="5f96802d-0402-4add-be5a-8d7604e25390" xml:space="preserve">
+          <source>You can also have a docset level metadata in the <bpt id="7907241e-c974-4b7a-bcf4-0d0d6f171964">&lt;code&gt;</bpt>docset.json<ept id="7907241e-c974-4b7a-bcf4-0d0d6f171964">&lt;/code&gt;</ept>.</source>
+          <target state="new">You can also have a docset level metadata in the <bpt id="7907241e-c974-4b7a-bcf4-0d0d6f171964">&lt;code&gt;</bpt>docset.json<ept id="7907241e-c974-4b7a-bcf4-0d0d6f171964">&lt;/code&gt;</ept>.</target>
+        </trans-unit>
+        <trans-unit id="63f69f4a-7c12-4213-9ada-2d92c16c3a25" xml:space="preserve">
+          <source>1.3 Validation and Preview</source>
+          <target state="new">1.3 Validation and Preview</target>
+        </trans-unit>
+        <trans-unit id="46b8ef8b-4c1e-4030-95b7-5394a53b6a39" xml:space="preserve">
+          <source>1.3.1 Validate and Preview at Local</source>
+          <target state="new">1.3.1 Validate and Preview at Local</target>
+        </trans-unit>
+        <trans-unit id="d787d013-c7e8-485e-b036-b55b34521afb" xml:space="preserve">
+          <source>The open publishing build tool (which validates and transform Markdown to HTML) will be available in the form of nuget package.</source>
+          <target state="new">The open publishing build tool (which validates and transform Markdown to HTML) will be available in the form of nuget package.</target>
+        </trans-unit>
+        <trans-unit id="1444166b-b195-4007-a899-24446d1986e7" xml:space="preserve">
+          <source>User can easily restore the package to local and run the tool locally to get:</source>
+          <target state="new">User can easily restore the package to local and run the tool locally to get:</target>
+        </trans-unit>
+        <trans-unit id="29a3e79f-d871-4369-ab5e-98511de355be" xml:space="preserve">
+          <source>Build report that lists all errors in the content</source>
+          <target state="new">Build report that lists all errors in the content</target>
+        </trans-unit>
+        <trans-unit id="06bc873a-4b1c-4c16-adf2-3b3811e6fb99" xml:space="preserve">
+          <source>If build succeeds, the output HTML files</source>
+          <target state="new">If build succeeds, the output HTML files</target>
+        </trans-unit>
+        <trans-unit id="d90e1799-c29b-4d2a-bef4-de733c02aaeb" xml:space="preserve">
+          <source>The output HTML files may not contain header, footer or styles.</source>
+          <target state="new">The output HTML files may not contain header, footer or styles.</target>
+        </trans-unit>
+        <trans-unit id="efbf8627-fc9c-4806-abf0-1cc1d2d66d42" xml:space="preserve">
+          <source>But user can still get a rough preview by applying simple styles.</source>
+          <target state="new">But user can still get a rough preview by applying simple styles.</target>
+        </trans-unit>
+        <trans-unit id="dcd62543-8a70-403e-b885-cc1f17349734" xml:space="preserve">
+          <source>1.3.2 Preview on MSDN Site</source>
+          <target state="new">1.3.2 Preview on MSDN Site</target>
+        </trans-unit>
+        <trans-unit id="44b1a9cb-3b2b-405f-81e7-1479fdde9bd9" xml:space="preserve">
+          <source>For each push to GIT repo, open publishing will do a build to validate changes and publish them to MSDN.</source>
+          <target state="new">For each push to GIT repo, open publishing will do a build to validate changes and publish them to MSDN.</target>
+        </trans-unit>
+        <trans-unit id="d869f4c3-3c1a-426b-8eca-19307eeff5fd" xml:space="preserve">
+          <source>We will support validation on any branch user created.</source>
+          <target state="new">We will support validation on any branch user created.</target>
+        </trans-unit>
+        <trans-unit id="2d003def-77df-442c-ac2d-e310231aa152" xml:space="preserve">
+          <source>Among all branches, only one of them will be treated at "live" branch that is mapped to MSDN Live site.</source>
+          <target state="new">Among all branches, only one of them will be treated at "live" branch that is mapped to MSDN Live site.</target>
+        </trans-unit>
+        <trans-unit id="cbc0215c-7a9f-436e-9a56-9394a48f4616" xml:space="preserve">
+          <source>Preview on each branch will have the same functionality as it on live branch (header, footer, TOC, etc.).</source>
+          <target state="new">Preview on each branch will have the same functionality as it on live branch (header, footer, TOC, etc.).</target>
+        </trans-unit>
+        <trans-unit id="1d053833-6008-436d-bd9b-ae75f7b2be61" xml:space="preserve">
+          <source>For each GIT push, user will get email notification for whether the build has succeeded.</source>
+          <target state="new">For each GIT push, user will get email notification for whether the build has succeeded.</target>
+        </trans-unit>
+        <trans-unit id="e4b7ecd1-cc21-49f1-ba55-ef92a58aa727" xml:space="preserve">
+          <source>Also he is able to view build status and report on management portal.</source>
+          <target state="new">Also he is able to view build status and report on management portal.</target>
+        </trans-unit>
+        <trans-unit id="84243d09-f25c-41b7-bff5-4a064862cbed" xml:space="preserve">
+          <source>1.4 Branch Integration</source>
+          <target state="new">1.4 Branch Integration</target>
+        </trans-unit>
+        <trans-unit id="0db48276-0eb1-409d-b235-f31df75366d4" xml:space="preserve">
+          <source>A common working model for GIT is user creates working branch for content that is not ready for publish and merges back the integration/live branch when he finishes authoring.</source>
+          <target state="new">A common working model for GIT is user creates working branch for content that is not ready for publish and merges back the integration/live branch when he finishes authoring.</target>
+        </trans-unit>
+        <trans-unit id="9c0ff06e-cffd-4fd4-9676-ba3acccf599c" xml:space="preserve">
+          <source>In his working branch, user can do authoring, validation, preview as described in 1.2 and 1.3.</source>
+          <target state="new">In his working branch, user can do authoring, validation, preview as described in 1.2 and 1.3.</target>
+        </trans-unit>
+        <trans-unit id="b9f1d1d0-f97b-4360-8b38-accebbfbd33e" xml:space="preserve">
+          <source>When he finishes authoring, he creates a pull request that merges from working branch to integration/live branch.</source>
+          <target state="new">When he finishes authoring, he creates a pull request that merges from working branch to integration/live branch.</target>
+        </trans-unit>
+        <trans-unit id="a329201b-7d57-4a7b-b887-d5c2529899e0" xml:space="preserve">
+          <source>Using pull request mainly has two purposes:</source>
+          <target state="new">Using pull request mainly has two purposes:</target>
+        </trans-unit>
+        <trans-unit id="0052e092-49b5-41fe-a722-84379c49459a" xml:space="preserve">
+          <source>Other users can review the changes and add comments.</source>
+          <target state="new">Other users can review the changes and add comments.</target>
+        </trans-unit>
+        <trans-unit id="92838d32-c33e-4c01-8330-3e74319bfa75" xml:space="preserve">
+          <source>Open publishing will build on pull request to ensure the changes merged to target branch don't have any problem.</source>
+          <target state="new">Open publishing will build on pull request to ensure the changes merged to target branch don't have any problem.</target>
+        </trans-unit>
+        <trans-unit id="810384bc-0b13-4a20-81d7-92922d3b5630" xml:space="preserve">
+          <source>For #2, GitHub and VSO's user experiences are bit different:</source>
+          <target state="new">For #2, GitHub and VSO's user experiences are bit different:</target>
+        </trans-unit>
+        <trans-unit id="c431d7b5-ff20-40fb-9361-8ef08edc7f27" xml:space="preserve">
+          <source>1.4.1 GitHub</source>
+          <target state="new">1.4.1 GitHub</target>
+        </trans-unit>
+        <trans-unit id="7418b65b-6ff5-4472-87cd-e7e904263904" xml:space="preserve">
+          <source>In GitHub, after a pull request is created, open publishing will start to build the changes and change the status of pull request to <bpt id="e8d5b1e9-79d0-4271-b7f1-38b5fed77f7d">&lt;em&gt;</bpt>pending<ept id="e8d5b1e9-79d0-4271-b7f1-38b5fed77f7d">&lt;/em&gt;</ept>, meaning that PR should not be merged before build is completed.</source>
+          <target state="new">In GitHub, after a pull request is created, open publishing will start to build the changes and change the status of pull request to <bpt id="e8d5b1e9-79d0-4271-b7f1-38b5fed77f7d">&lt;em&gt;</bpt>pending<ept id="e8d5b1e9-79d0-4271-b7f1-38b5fed77f7d">&lt;/em&gt;</ept>, meaning that PR should not be merged before build is completed.</target>
+        </trans-unit>
+        <trans-unit id="8057a5ac-b7b9-4a86-8a04-c43867032a72" xml:space="preserve">
+          <source><bpt id="11b2da51-78f5-442d-818f-3225caead19f">&lt;linkText&gt;</bpt>pending<ept id="11b2da51-78f5-442d-818f-3225caead19f">&lt;/linkText&gt;</ept></source>
+          <target state="new"><bpt id="11b2da51-78f5-442d-818f-3225caead19f">&lt;linkText&gt;</bpt>pending<ept id="11b2da51-78f5-442d-818f-3225caead19f">&lt;/linkText&gt;</ept></target>
+        </trans-unit>
+        <trans-unit id="c5a48fcd-f128-4280-8b1e-74d4f0fcb486" xml:space="preserve">
+          <source>There is also a "Details" link that will brings you the management portal which shows the progress of the build.</source>
+          <target state="new">There is also a "Details" link that will brings you the management portal which shows the progress of the build.</target>
+        </trans-unit>
+        <trans-unit id="abb32d75-5d44-46e6-b776-1bcba75737bf" xml:space="preserve">
+          <source>After build completes, if there is errors in the content, open publishing will mark the pull request as error, meaning that PR should not be merged:</source>
+          <target state="new">After build completes, if there is errors in the content, open publishing will mark the pull request as error, meaning that PR should not be merged:</target>
+        </trans-unit>
+        <trans-unit id="aae9baf6-ca5a-4f7a-8549-49d2cab92eb9" xml:space="preserve">
+          <source><bpt id="b2c6cf77-5085-4072-b466-75fb06689004">&lt;linkText&gt;</bpt>error<ept id="b2c6cf77-5085-4072-b466-75fb06689004">&lt;/linkText&gt;</ept></source>
+          <target state="new"><bpt id="b2c6cf77-5085-4072-b466-75fb06689004">&lt;linkText&gt;</bpt>error<ept id="b2c6cf77-5085-4072-b466-75fb06689004">&lt;/linkText&gt;</ept></target>
+        </trans-unit>
+        <trans-unit id="253305c5-c483-49e1-9675-906a75f6ebec" xml:space="preserve">
+          <source>A brief error message will be shown in the comment and "Details" link will brings you to the error report of the build.</source>
+          <target state="new">A brief error message will be shown in the comment and "Details" link will brings you to the error report of the build.</target>
+        </trans-unit>
+        <trans-unit id="f11f9ffd-2da8-4f9a-94da-f3736d75579a" xml:space="preserve">
+          <source>After user made some fixes and update PR, open publishing will rebuild changes and mark PR as success if it passes build:</source>
+          <target state="new">After user made some fixes and update PR, open publishing will rebuild changes and mark PR as success if it passes build:</target>
+        </trans-unit>
+        <trans-unit id="cbf5327d-252d-405f-80b8-395f7e1e1111" xml:space="preserve">
+          <source><bpt id="7f70bfe7-7175-4665-bf50-e10fbb6290dc">&lt;linkText&gt;</bpt>success<ept id="7f70bfe7-7175-4665-bf50-e10fbb6290dc">&lt;/linkText&gt;</ept></source>
+          <target state="new"><bpt id="7f70bfe7-7175-4665-bf50-e10fbb6290dc">&lt;linkText&gt;</bpt>success<ept id="7f70bfe7-7175-4665-bf50-e10fbb6290dc">&lt;/linkText&gt;</ept></target>
+        </trans-unit>
+        <trans-unit id="1879bf78-8cf7-46fe-ba44-94acd48470f8" xml:space="preserve">
+          <source>The "Merge" button now becomes green meaning it's now safe to merge the pull request.</source>
+          <target state="new">The "Merge" button now becomes green meaning it's now safe to merge the pull request.</target>
+        </trans-unit>
+        <trans-unit id="0e20379f-22af-4a18-aedf-747ca0ccf1fd" xml:space="preserve">
+          <source>And "Details" will bring you to the preview page of the changes.</source>
+          <target state="new">And "Details" will bring you to the preview page of the changes.</target>
+        </trans-unit>
+        <trans-unit id="91da4578-f78e-4056-966e-527e6f198b88" xml:space="preserve">
+          <source>This user flow gives you a clear indication about whether a pull request can be merged when you're reviewing it.</source>
+          <target state="new">This user flow gives you a clear indication about whether a pull request can be merged when you're reviewing it.</target>
+        </trans-unit>
+        <trans-unit id="22282b26-5596-4d47-8633-3fdaf0c524f8" xml:space="preserve">
+          <source>But it <bpt id="616debae-4b70-4b95-8eb9-7f8dde4a4f62">&lt;strong&gt;</bpt>WILL NOT<ept id="616debae-4b70-4b95-8eb9-7f8dde4a4f62">&lt;/strong&gt;</ept> block you from merging the pull request, as GitHub doesn't provide any infrastructure support for blocking a PR merge.</source>
+          <target state="new">But it <bpt id="616debae-4b70-4b95-8eb9-7f8dde4a4f62">&lt;strong&gt;</bpt>WILL NOT<ept id="616debae-4b70-4b95-8eb9-7f8dde4a4f62">&lt;/strong&gt;</ept> block you from merging the pull request, as GitHub doesn't provide any infrastructure support for blocking a PR merge.</target>
+        </trans-unit>
+        <trans-unit id="253df090-7eeb-4f80-b999-00f131e368c5" xml:space="preserve">
+          <source>1.4.2 Visual Studio Online</source>
+          <target state="new">1.4.2 Visual Studio Online</target>
+        </trans-unit>
+        <trans-unit id="959741e7-3adf-4758-8e88-074e40e600ea" xml:space="preserve">
+          <source>Similar to GitHub, when a pull request is created, an open publishing build will be kicked off.</source>
+          <target state="new">Similar to GitHub, when a pull request is created, an open publishing build will be kicked off.</target>
+        </trans-unit>
+        <trans-unit id="788c47ce-931a-4ea4-b400-fee868c19f7a" xml:space="preserve">
+          <source>On VSO, you will see a build is in progress.</source>
+          <target state="new">On VSO, you will see a build is in progress.</target>
+        </trans-unit>
+        <trans-unit id="77c84767-8bc5-4bdd-bd3d-54e350ffc048" xml:space="preserve">
+          <source>At this time, you cannot merge the pull request.</source>
+          <target state="new">At this time, you cannot merge the pull request.</target>
+        </trans-unit>
+        <trans-unit id="3e300bed-e350-4701-8c04-697c33167d57" xml:space="preserve">
+          <source><bpt id="aec41679-2d7b-447b-a11e-9544a957a8e5">&lt;linkText&gt;</bpt>build in progress<ept id="aec41679-2d7b-447b-a11e-9544a957a8e5">&lt;/linkText&gt;</ept></source>
+          <target state="new"><bpt id="aec41679-2d7b-447b-a11e-9544a957a8e5">&lt;linkText&gt;</bpt>build in progress<ept id="aec41679-2d7b-447b-a11e-9544a957a8e5">&lt;/linkText&gt;</ept></target>
+        </trans-unit>
+        <trans-unit id="1a4290b7-e5ff-4a9a-b6c1-a4f574987c68" xml:space="preserve">
+          <source>After build is completed, if there are errors, pull request cannot be merged.</source>
+          <target state="new">After build is completed, if there are errors, pull request cannot be merged.</target>
+        </trans-unit>
+        <trans-unit id="3615bf73-f9fc-4b48-8e1e-5e16a961acbd" xml:space="preserve">
+          <source><bpt id="cd9d47f8-d01e-46b4-a81f-1054136c90c5">&lt;linkText&gt;</bpt>build rejected<ept id="cd9d47f8-d01e-46b4-a81f-1054136c90c5">&lt;/linkText&gt;</ept></source>
+          <target state="new"><bpt id="cd9d47f8-d01e-46b4-a81f-1054136c90c5">&lt;linkText&gt;</bpt>build rejected<ept id="cd9d47f8-d01e-46b4-a81f-1054136c90c5">&lt;/linkText&gt;</ept></target>
+        </trans-unit>
+        <trans-unit id="f496e147-196d-48cd-813b-d56537c95121" xml:space="preserve">
+          <source>If there is no error, pull request can be merged.</source>
+          <target state="new">If there is no error, pull request can be merged.</target>
+        </trans-unit>
+        <trans-unit id="18e328a5-a08a-41e6-ad90-be2eb39968c2" xml:space="preserve">
+          <source><bpt id="14a66b71-b61d-4b2d-97e8-d8088256ab8f">&lt;linkText&gt;</bpt>build approved<ept id="14a66b71-b61d-4b2d-97e8-d8088256ab8f">&lt;/linkText&gt;</ept></source>
+          <target state="new"><bpt id="14a66b71-b61d-4b2d-97e8-d8088256ab8f">&lt;linkText&gt;</bpt>build approved<ept id="14a66b71-b61d-4b2d-97e8-d8088256ab8f">&lt;/linkText&gt;</ept></target>
+        </trans-unit>
+        <trans-unit id="2c1c614c-082d-4077-ac32-90a9774a2b79" xml:space="preserve">
+          <source>The difference between GitHub and VSO are:</source>
+          <target state="new">The difference between GitHub and VSO are:</target>
+        </trans-unit>
+        <trans-unit id="16cdc9d9-388c-4d50-83ac-30adb3e2925e" xml:space="preserve">
+          <source>VSO will block merge if build failed, meaning that you cannot click "Complete pull request" button, while GitHub will not.</source>
+          <target state="new">VSO will block merge if build failed, meaning that you cannot click "Complete pull request" button, while GitHub will not.</target>
+        </trans-unit>
+        <trans-unit id="3a0b8330-7ef7-4311-9595-533f70c3d7e8" xml:space="preserve">
+          <source>GitHub will have a more descriptive message on the merge dialog and a "Details" link that brings you to the open publishing portal, where you can see a friendly report status and report.</source>
+          <target state="new">GitHub will have a more descriptive message on the merge dialog and a "Details" link that brings you to the open publishing portal, where you can see a friendly report status and report.</target>
+        </trans-unit>
+        <trans-unit id="317a0a48-4e29-4b11-9d35-c4093194e517" xml:space="preserve">
+          <source>While on VSO, there is no such message and "Details" link will brings you to the VSO build portal.</source>
+          <target state="new">While on VSO, there is no such message and "Details" link will brings you to the VSO build portal.</target>
+        </trans-unit>
+        <trans-unit id="31f6c1f5-19ae-4887-ac63-7f37104b64eb" xml:space="preserve">
+          <source>2. Design</source>
+          <target state="new">2. Design</target>
+        </trans-unit>
+        <trans-unit id="09430015-ed75-4309-b71f-c8fd6513d97a" xml:space="preserve">
+          <source>2.1 Overall Design</source>
+          <target state="new">2.1 Overall Design</target>
+        </trans-unit>
+        <trans-unit id="8a0c7a86-579d-4508-a36c-59b07bc3862a" xml:space="preserve">
+          <source>Here is an overall architecture diagram of open publishing system:</source>
+          <target state="new">Here is an overall architecture diagram of open publishing system:</target>
+        </trans-unit>
+        <trans-unit id="fbbff5e4-9966-449c-bde8-4dd0e2fe9505" xml:space="preserve">
+          <source><bpt id="abcf045b-01d4-451b-beee-40fa1c121f38">&lt;linkText&gt;</bpt>op design<ept id="abcf045b-01d4-451b-beee-40fa1c121f38">&lt;/linkText&gt;</ept></source>
+          <target state="new"><bpt id="abcf045b-01d4-451b-beee-40fa1c121f38">&lt;linkText&gt;</bpt>op design<ept id="abcf045b-01d4-451b-beee-40fa1c121f38">&lt;/linkText&gt;</ept></target>
+        </trans-unit>
+        <trans-unit id="2363c89b-66a3-458f-8bcd-e79fd58cdded" xml:space="preserve">
+          <source>Writer commits a change to local GIT repo and push to remote.</source>
+          <target state="new">Writer commits a change to local GIT repo and push to remote.</target>
+        </trans-unit>
+        <trans-unit id="5a4ae029-88f6-4118-9bcf-e54e623a00ae" xml:space="preserve">
+          <source>GIT server calls build web service to start a build through web hook or VSO build.</source>
+          <target state="new">GIT server calls build web service to start a build through web hook or VSO build.</target>
+        </trans-unit>
+        <trans-unit id="66b3b738-9df1-4d55-b025-a2bc148d55d0" xml:space="preserve">
+          <source>Build web service dispatches the build request to build worker.</source>
+          <target state="new">Build web service dispatches the build request to build worker.</target>
+        </trans-unit>
+        <trans-unit id="ad2c6327-65c2-4d40-9c25-529d8e7a69a0" xml:space="preserve">
+          <source>Build worker pulls changes from GIT repo and read previous build output from storage to do an incremental build.</source>
+          <target state="new">Build worker pulls changes from GIT repo and read previous build output from storage to do an incremental build.</target>
+        </trans-unit>
+        <trans-unit id="fcf9e118-8905-44f8-b67d-cfce8bae0c24" xml:space="preserve">
+          <source>Build worker saves build output and build report to storage.</source>
+          <target state="new">Build worker saves build output and build report to storage.</target>
+        </trans-unit>
+        <trans-unit id="11321eb6-9539-45da-8cd7-94e59df6be50" xml:space="preserve">
+          <source>Build worker publishes the content to MSDN web site.</source>
+          <target state="new">Build worker publishes the content to MSDN web site.</target>
+        </trans-unit>
+        <trans-unit id="19754d16-8bce-4312-ab09-35fcc925579f" xml:space="preserve">
+          <source>Build worker sends notification to writer about completion of publish.</source>
+          <target state="new">Build worker sends notification to writer about completion of publish.</target>
+        </trans-unit>
+        <trans-unit id="04071196-e0be-4513-b498-e3ddae86159b" xml:space="preserve">
+          <source>(Alternative) Writer can also call build web service to query publish status.</source>
+          <target state="new">(Alternative) Writer can also call build web service to query publish status.</target>
+        </trans-unit>
+        <trans-unit id="cbb2c8fc-b99e-40cd-90cc-3776b27324d4" xml:space="preserve">
+          <source>Writer sees his content on MSDN web site (through rendering service).</source>
+          <target state="new">Writer sees his content on MSDN web site (through rendering service).</target>
+        </trans-unit>
+        <trans-unit id="c573bec5-8442-415b-a27e-3b0a3de52723" xml:space="preserve">
+          <source>2.1 Authorization</source>
+          <target state="new">2.1 Authorization</target>
+        </trans-unit>
+        <trans-unit id="0b64a3b3-eeed-4b2a-89bb-cd03a5301e65" xml:space="preserve">
+          <source>We'll use OAuth to authorize open publishing as an application to access GIT resources.</source>
+          <target state="new">We'll use OAuth to authorize open publishing as an application to access GIT resources.</target>
+        </trans-unit>
+        <trans-unit id="e4dc2815-9dc1-40ab-9ce8-73978677d10a" xml:space="preserve">
+          <source>OAuth is supported on both <bpt id="291f27a5-859b-491e-8b07-d9704dc3c290CapsExtId1">&lt;linkText&gt;</bpt>GitHub<ept id="291f27a5-859b-491e-8b07-d9704dc3c290CapsExtId1">&lt;/linkText&gt;</ept><bpt id="291f27a5-859b-491e-8b07-d9704dc3c290CapsExtId2">&lt;title&gt;</bpt><ept id="291f27a5-859b-491e-8b07-d9704dc3c290CapsExtId2">&lt;/title&gt;</ept> and <bpt id="143945b9-8f78-4e54-ae38-1899d51ac796CapsExtId1">&lt;linkText&gt;</bpt>VSO<ept id="143945b9-8f78-4e54-ae38-1899d51ac796CapsExtId1">&lt;/linkText&gt;</ept><bpt id="143945b9-8f78-4e54-ae38-1899d51ac796CapsExtId2">&lt;title&gt;</bpt><ept id="143945b9-8f78-4e54-ae38-1899d51ac796CapsExtId2">&lt;/title&gt;</ept>.</source>
+          <target state="new">OAuth is supported on both <bpt id="291f27a5-859b-491e-8b07-d9704dc3c290CapsExtId1">&lt;linkText&gt;</bpt>GitHub<ept id="291f27a5-859b-491e-8b07-d9704dc3c290CapsExtId1">&lt;/linkText&gt;</ept><bpt id="291f27a5-859b-491e-8b07-d9704dc3c290CapsExtId2">&lt;title&gt;</bpt><ept id="291f27a5-859b-491e-8b07-d9704dc3c290CapsExtId2">&lt;/title&gt;</ept> and <bpt id="143945b9-8f78-4e54-ae38-1899d51ac796CapsExtId1">&lt;linkText&gt;</bpt>VSO<ept id="143945b9-8f78-4e54-ae38-1899d51ac796CapsExtId1">&lt;/linkText&gt;</ept><bpt id="143945b9-8f78-4e54-ae38-1899d51ac796CapsExtId2">&lt;title&gt;</bpt><ept id="143945b9-8f78-4e54-ae38-1899d51ac796CapsExtId2">&lt;/title&gt;</ept>.</target>
+        </trans-unit>
+        <trans-unit id="e6ef6923-5728-4b55-afb1-1edc7244f022" xml:space="preserve">
+          <source>User will be asked to grant open publishing permission when do the provisioning.</source>
+          <target state="new">User will be asked to grant open publishing permission when do the provisioning.</target>
+        </trans-unit>
+        <trans-unit id="70e89225-c245-45ce-932d-a97d679d8e96" xml:space="preserve">
+          <source>2.2 Integrate with GIT Events (Push, Branch, Pull Request)</source>
+          <target state="new">2.2 Integrate with GIT Events (Push, Branch, Pull Request)</target>
+        </trans-unit>
+        <trans-unit id="27585bcd-5b3d-4e48-b81d-22cdc64bf850" xml:space="preserve">
+          <source>For general events like push and branch, we will use webhook (<bpt id="29890d65-e44d-4175-b0fd-2a88ebec0000CapsExtId1">&lt;linkText&gt;</bpt>github<ept id="29890d65-e44d-4175-b0fd-2a88ebec0000CapsExtId1">&lt;/linkText&gt;</ept><bpt id="29890d65-e44d-4175-b0fd-2a88ebec0000CapsExtId2">&lt;title&gt;</bpt><ept id="29890d65-e44d-4175-b0fd-2a88ebec0000CapsExtId2">&lt;/title&gt;</ept>, <bpt id="4924d2dd-6a80-4e6f-b0e3-43aabf86fdadCapsExtId1">&lt;linkText&gt;</bpt>VSO<ept id="4924d2dd-6a80-4e6f-b0e3-43aabf86fdadCapsExtId1">&lt;/linkText&gt;</ept><bpt id="4924d2dd-6a80-4e6f-b0e3-43aabf86fdadCapsExtId2">&lt;title&gt;</bpt><ept id="4924d2dd-6a80-4e6f-b0e3-43aabf86fdadCapsExtId2">&lt;/title&gt;</ept>) to get notification on repo changes.</source>
+          <target state="new">For general events like push and branch, we will use webhook (<bpt id="29890d65-e44d-4175-b0fd-2a88ebec0000CapsExtId1">&lt;linkText&gt;</bpt>github<ept id="29890d65-e44d-4175-b0fd-2a88ebec0000CapsExtId1">&lt;/linkText&gt;</ept><bpt id="29890d65-e44d-4175-b0fd-2a88ebec0000CapsExtId2">&lt;title&gt;</bpt><ept id="29890d65-e44d-4175-b0fd-2a88ebec0000CapsExtId2">&lt;/title&gt;</ept>, <bpt id="4924d2dd-6a80-4e6f-b0e3-43aabf86fdadCapsExtId1">&lt;linkText&gt;</bpt>VSO<ept id="4924d2dd-6a80-4e6f-b0e3-43aabf86fdadCapsExtId1">&lt;/linkText&gt;</ept><bpt id="4924d2dd-6a80-4e6f-b0e3-43aabf86fdadCapsExtId2">&lt;title&gt;</bpt><ept id="4924d2dd-6a80-4e6f-b0e3-43aabf86fdadCapsExtId2">&lt;/title&gt;</ept>) to get notification on repo changes.</target>
+        </trans-unit>
+        <trans-unit id="280f611b-c8a2-4981-810b-69a07397c0ba" xml:space="preserve">
+          <source>2.2.1 Visual Studio Online</source>
+          <target state="new">2.2.1 Visual Studio Online</target>
+        </trans-unit>
+        <trans-unit id="46db08dd-4a73-4e67-8a1a-91703d9e0166" xml:space="preserve">
+          <source>For VSO, we will integrate with VSO build.</source>
+          <target state="new">For VSO, we will integrate with VSO build.</target>
+        </trans-unit>
+        <trans-unit id="e979ac39-d7b8-43f4-9973-0fbf97ff4f4d" xml:space="preserve">
+          <source>VSO build provides the following functionalities:</source>
+          <target state="new">VSO build provides the following functionalities:</target>
+        </trans-unit>
+        <trans-unit id="339f1878-8a73-40f1-a10e-6c0d1e0bc61e" xml:space="preserve">
+          <source>Triggers build when code is pushed to GIT repo</source>
+          <target state="new">Triggers build when code is pushed to GIT repo</target>
+        </trans-unit>
+        <trans-unit id="ff0d2ab7-ce51-47d6-8308-3f0fd17347a6" xml:space="preserve">
+          <source>Triggers build when a PR is created and block PR merge if build failed (through <bpt id="a4133b31-a76f-44f5-9f63-49a89813d3cdCapsExtId1">&lt;linkText&gt;</bpt>branch policy<ept id="a4133b31-a76f-44f5-9f63-49a89813d3cdCapsExtId1">&lt;/linkText&gt;</ept><bpt id="a4133b31-a76f-44f5-9f63-49a89813d3cdCapsExtId2">&lt;title&gt;</bpt><ept id="a4133b31-a76f-44f5-9f63-49a89813d3cdCapsExtId2">&lt;/title&gt;</ept>).</source>
+          <target state="new">Triggers build when a PR is created and block PR merge if build failed (through <bpt id="a4133b31-a76f-44f5-9f63-49a89813d3cdCapsExtId1">&lt;linkText&gt;</bpt>branch policy<ept id="a4133b31-a76f-44f5-9f63-49a89813d3cdCapsExtId1">&lt;/linkText&gt;</ept><bpt id="a4133b31-a76f-44f5-9f63-49a89813d3cdCapsExtId2">&lt;title&gt;</bpt><ept id="a4133b31-a76f-44f5-9f63-49a89813d3cdCapsExtId2">&lt;/title&gt;</ept>).</target>
+        </trans-unit>
+        <trans-unit id="43159164-a2e7-4733-bbdd-078973db143b" xml:space="preserve">
+          <source>So the integration model between VSO and open publishing will be:</source>
+          <target state="new">So the integration model between VSO and open publishing will be:</target>
+        </trans-unit>
+        <trans-unit id="bce8d78b-6a5d-45b3-8b10-0141329261e7" xml:space="preserve">
+          <source>Open publishing provides APIs to trigger a build and query the status of a build.</source>
+          <target state="new">Open publishing provides APIs to trigger a build and query the status of a build.</target>
+        </trans-unit>
+        <trans-unit id="77ab18e3-7f7e-4f1a-9a7f-c505fa5784f9" xml:space="preserve">
+          <source>For a GIT repo, a VSO build definition is setup outside open publishing, to monitor events on GIT repo and call open publishing to start build.</source>
+          <target state="new">For a GIT repo, a VSO build definition is setup outside open publishing, to monitor events on GIT repo and call open publishing to start build.</target>
+        </trans-unit>
+        <trans-unit id="c986dc29-d07f-44e4-90c8-f151f95fc9cc" xml:space="preserve">
+          <source>The VSO build definition will do the following:</source>
+          <target state="new">The VSO build definition will do the following:</target>
+        </trans-unit>
+        <trans-unit id="be22f53d-0d36-4c23-a4ff-d10ea51e982f" xml:space="preserve">
+          <source>Call open publishing API to start a build.</source>
+          <target state="new">Call open publishing API to start a build.</target>
+        </trans-unit>
+        <trans-unit id="ea284475-b606-4280-a5a7-508ff0b4d70e" xml:space="preserve">
+          <source>Wait until build is finished.</source>
+          <target state="new">Wait until build is finished.</target>
+        </trans-unit>
+        <trans-unit id="fc3f62ad-a8e5-4214-ad0b-8f7ac0925f1a" xml:space="preserve">
+          <source>Call status API to get the build status.</source>
+          <target state="new">Call status API to get the build status.</target>
+        </trans-unit>
+        <trans-unit id="6315f462-15bb-411e-89ac-7284c38f4244" xml:space="preserve">
+          <source>Decide whether to block PR merge based on the build status.</source>
+          <target state="new">Decide whether to block PR merge based on the build status.</target>
+        </trans-unit>
+        <trans-unit id="978cbf84-d5ea-48cd-b8a8-662ef8edafa2" xml:space="preserve">
+          <source>2.2.1 GitHub</source>
+          <target state="new">2.2.1 GitHub</target>
+        </trans-unit>
+        <trans-unit id="f33965c3-d787-4f6b-93e1-24953cdc01bf" xml:space="preserve">
+          <source>For GitHub, VSO doesn't provide enough support especially on pull request.</source>
+          <target state="new">For GitHub, VSO doesn't provide enough support especially on pull request.</target>
+        </trans-unit>
+        <trans-unit id="914b65c1-3c37-42a0-b52c-312dc4cc8d50" xml:space="preserve">
+          <source>So open publishing will integrate with GitHub through webhook.</source>
+          <target state="new">So open publishing will integrate with GitHub through webhook.</target>
+        </trans-unit>
+        <trans-unit id="40eaf92d-34ed-4b1c-a594-04c63c949fce" xml:space="preserve">
+          <source>The integration flow will be:</source>
+          <target state="new">The integration flow will be:</target>
+        </trans-unit>
+        <trans-unit id="0e287004-6dc3-427a-95a3-cb171fde2b9e" xml:space="preserve">
+          <source>Open publishing subscribes GIT event through webhook.</source>
+          <target state="new">Open publishing subscribes GIT event through webhook.</target>
+        </trans-unit>
+        <trans-unit id="95805650-6b91-4e57-a1ed-c710c96dba55" xml:space="preserve">
+          <source>GitHub calls open publishing API when there is push or pull request.</source>
+          <target state="new">GitHub calls open publishing API when there is push or pull request.</target>
+        </trans-unit>
+        <trans-unit id="55684769-a097-47e2-b3d3-c575a1a595b4" xml:space="preserve">
+          <source>Open publishing starts build to validate and publish content.</source>
+          <target state="new">Open publishing starts build to validate and publish content.</target>
+        </trans-unit>
+        <trans-unit id="66e54171-4505-4c95-a0f1-2091af7f3422" xml:space="preserve">
+          <source>Open publishing sends notification about build status to user (e.g. through email).</source>
+          <target state="new">Open publishing sends notification about build status to user (e.g. through email).</target>
+        </trans-unit>
+        <trans-unit id="766370a2-aee3-46ef-bd2c-fd0b4631fa53" xml:space="preserve">
+          <source>For pull request, use <bpt id="e50e4b44-1972-40ac-bfc2-3ff7b0d4cf08CapsExtId1">&lt;linkText&gt;</bpt>status API<ept id="e50e4b44-1972-40ac-bfc2-3ff7b0d4cf08CapsExtId1">&lt;/linkText&gt;</ept><bpt id="e50e4b44-1972-40ac-bfc2-3ff7b0d4cf08CapsExtId2">&lt;title&gt;</bpt><ept id="e50e4b44-1972-40ac-bfc2-3ff7b0d4cf08CapsExtId2">&lt;/title&gt;</ept> to provide UI indication about whether the PR can be merged.</source>
+          <target state="new">For pull request, use <bpt id="e50e4b44-1972-40ac-bfc2-3ff7b0d4cf08CapsExtId1">&lt;linkText&gt;</bpt>status API<ept id="e50e4b44-1972-40ac-bfc2-3ff7b0d4cf08CapsExtId1">&lt;/linkText&gt;</ept><bpt id="e50e4b44-1972-40ac-bfc2-3ff7b0d4cf08CapsExtId2">&lt;title&gt;</bpt><ept id="e50e4b44-1972-40ac-bfc2-3ff7b0d4cf08CapsExtId2">&lt;/title&gt;</ept> to provide UI indication about whether the PR can be merged.</target>
+        </trans-unit>
+      </group>
+    </body>
+  </file>
+</xliff>
